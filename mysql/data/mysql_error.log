@@ -1275,3 +1275,689 @@ InnoDB: using atomic writes.
 2020-11-06  1:05:01 0 [Note] Plugin 'FEEDBACK' is disabled.
 2020-11-06  1:05:01 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
 2020-11-06  1:05:01 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-06  2:27:25 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-06  2:27:25 0 [Note] InnoDB: Uses event mutexes
+2020-11-06  2:27:25 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-06  2:27:25 0 [Note] InnoDB: Number of pools: 1
+2020-11-06  2:27:25 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-06  2:27:25 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-06  2:27:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-06  2:27:25 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=225807
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:27:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:27:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:27:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:27:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:27:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:27:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:27:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:27:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-06  2:27:26 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-06  2:27:26 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-06  2:27:26 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-06  2:27:26 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-06  2:27:26 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-06  2:27:26 0 [Note] InnoDB: Waiting for purge to start
+2020-11-06  2:27:26 0 [Note] InnoDB: 10.4.14 started; log sequence number 225816; transaction id 297
+2020-11-06  2:27:26 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-06  2:27:26 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-06  2:27:26 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-06  2:27:26 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-06  2:36:25 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-06  2:36:25 0 [Note] InnoDB: Uses event mutexes
+2020-11-06  2:36:25 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-06  2:36:25 0 [Note] InnoDB: Number of pools: 1
+2020-11-06  2:36:25 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-06  2:36:25 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-06  2:36:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-06  2:36:25 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=231655
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:36:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:36:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:36:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:36:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:36:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:36:26 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:36:26 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:36:26 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-06  2:36:26 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-06  2:36:26 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-06  2:36:26 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-06  2:36:26 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-06  2:36:26 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-06  2:36:26 0 [Note] InnoDB: Waiting for purge to start
+2020-11-06  2:36:26 0 [Note] InnoDB: 10.4.14 started; log sequence number 231664; transaction id 308
+2020-11-06  2:36:26 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-06  2:36:26 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-06  2:36:26 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-06  2:36:26 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-06  2:38:01 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-06  2:38:01 0 [Note] InnoDB: Uses event mutexes
+2020-11-06  2:38:01 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-06  2:38:01 0 [Note] InnoDB: Number of pools: 1
+2020-11-06  2:38:01 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-06  2:38:01 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-06  2:38:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-06  2:38:01 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=231673
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:38:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:38:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:38:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:38:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:38:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06  2:38:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06  2:38:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06  2:38:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-06  2:38:02 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-06  2:38:02 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-06  2:38:02 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-06  2:38:02 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-06  2:38:02 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-06  2:38:02 0 [Note] InnoDB: Waiting for purge to start
+2020-11-06  2:38:02 0 [Note] InnoDB: 10.4.14 started; log sequence number 231682; transaction id 308
+2020-11-06  2:38:02 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-06  2:38:02 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-06  2:38:02 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-06  2:38:02 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-06 15:51:59 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-06 15:51:59 0 [Note] InnoDB: Uses event mutexes
+2020-11-06 15:51:59 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-06 15:51:59 0 [Note] InnoDB: Number of pools: 1
+2020-11-06 15:51:59 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-06 15:51:59 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-06 15:51:59 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-06 15:51:59 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=233253
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 15:51:59 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 15:51:59 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 15:51:59 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 15:51:59 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 15:51:59 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 15:51:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 15:51:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 15:51:59 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-06 15:51:59 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-06 15:51:59 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-06 15:51:59 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-06 15:51:59 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-06 15:51:59 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-06 15:51:59 0 [Note] InnoDB: Waiting for purge to start
+2020-11-06 15:51:59 0 [Note] InnoDB: 10.4.14 started; log sequence number 233262; transaction id 320
+2020-11-06 15:51:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-06 15:51:59 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-06 15:51:59 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-06 15:51:59 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-06 16:50:02 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-06 16:50:02 0 [Note] InnoDB: Uses event mutexes
+2020-11-06 16:50:02 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-06 16:50:02 0 [Note] InnoDB: Number of pools: 1
+2020-11-06 16:50:02 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-06 16:50:02 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-06 16:50:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-06 16:50:02 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=269953
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 16:50:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 16:50:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 16:50:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 16:50:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 16:50:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 16:50:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 16:50:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 16:50:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-06 16:50:02 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-06 16:50:02 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-06 16:50:02 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-06 16:50:02 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-06 16:50:02 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-06 16:50:02 0 [Note] InnoDB: Waiting for purge to start
+2020-11-06 16:50:02 0 [Note] InnoDB: 10.4.14 started; log sequence number 269962; transaction id 377
+2020-11-06 16:50:02 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-06 16:50:02 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-06 16:50:02 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-06 16:50:02 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-06 17:01:18 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-06 17:01:18 0 [Note] InnoDB: Uses event mutexes
+2020-11-06 17:01:18 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-06 17:01:18 0 [Note] InnoDB: Number of pools: 1
+2020-11-06 17:01:18 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-06 17:01:18 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-06 17:01:18 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-06 17:01:18 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=269971
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 17:01:18 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 17:01:18 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 17:01:18 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 17:01:18 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 17:01:18 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-06 17:01:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-06 17:01:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-06 17:01:18 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-06 17:01:18 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-06 17:01:18 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-06 17:01:18 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-06 17:01:18 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-06 17:01:18 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-06 17:01:18 0 [Note] InnoDB: Waiting for purge to start
+2020-11-06 17:01:18 0 [Note] InnoDB: 10.4.14 started; log sequence number 269980; transaction id 377
+2020-11-06 17:01:18 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-06 17:01:18 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-06 17:01:18 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-06 17:01:18 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-07  0:46:41 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-07  0:46:41 0 [Note] InnoDB: Uses event mutexes
+2020-11-07  0:46:41 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-07  0:46:41 0 [Note] InnoDB: Number of pools: 1
+2020-11-07  0:46:41 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-07  0:46:41 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-07  0:46:41 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-07  0:46:41 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=269989
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07  0:46:41 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07  0:46:41 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07  0:46:41 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07  0:46:41 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07  0:46:41 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07  0:46:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07  0:46:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07  0:46:41 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-07  0:46:41 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-07  0:46:41 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-07  0:46:41 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-07  0:46:41 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-07  0:46:41 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-07  0:46:41 0 [Note] InnoDB: Waiting for purge to start
+2020-11-07  0:46:41 0 [Note] InnoDB: 10.4.14 started; log sequence number 269998; transaction id 377
+2020-11-07  0:46:41 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-07  0:46:41 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-07  0:46:41 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-07  0:46:41 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-07 11:09:52 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-07 11:09:52 0 [Note] InnoDB: Uses event mutexes
+2020-11-07 11:09:52 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-07 11:09:52 0 [Note] InnoDB: Number of pools: 1
+2020-11-07 11:09:52 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-07 11:09:52 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-07 11:09:52 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-07 11:09:52 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=270007
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07 11:09:52 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07 11:09:52 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07 11:09:52 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07 11:09:52 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07 11:09:52 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-07 11:09:52 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-07 11:09:52 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-07 11:09:52 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-07 11:09:52 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-07 11:09:52 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-07 11:09:52 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-07 11:09:52 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-07 11:09:52 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-07 11:09:52 0 [Note] InnoDB: Waiting for purge to start
+2020-11-07 11:09:52 0 [Note] InnoDB: 10.4.14 started; log sequence number 270016; transaction id 377
+2020-11-07 11:09:52 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-07 11:09:52 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-07 11:09:52 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-07 11:09:52 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-08 12:25:04 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-08 12:25:04 0 [Note] InnoDB: Uses event mutexes
+2020-11-08 12:25:04 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-08 12:25:04 0 [Note] InnoDB: Number of pools: 1
+2020-11-08 12:25:04 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-08 12:25:04 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-08 12:25:04 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-08 12:25:04 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=273381
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 12:25:05 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 12:25:05 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 12:25:05 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 12:25:05 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 12:25:05 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 12:25:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 12:25:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 12:25:05 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-08 12:25:05 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-08 12:25:05 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-08 12:25:05 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-08 12:25:05 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-08 12:25:05 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-08 12:25:05 0 [Note] InnoDB: Waiting for purge to start
+2020-11-08 12:25:05 0 [Note] InnoDB: 10.4.14 started; log sequence number 273390; transaction id 377
+2020-11-08 12:25:05 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-08 12:25:05 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-08 12:25:05 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-08 12:25:05 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-08 17:23:17 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-08 17:23:17 0 [Note] InnoDB: Uses event mutexes
+2020-11-08 17:23:17 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-08 17:23:17 0 [Note] InnoDB: Number of pools: 1
+2020-11-08 17:23:17 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-08 17:23:17 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-08 17:23:17 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-08 17:23:17 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=273424
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 17:23:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 17:23:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 17:23:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 17:23:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 17:23:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 17:23:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 17:23:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 17:23:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-08 17:23:17 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-08 17:23:17 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-08 17:23:17 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-08 17:23:17 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-08 17:23:17 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-08 17:23:17 0 [Note] InnoDB: Waiting for purge to start
+2020-11-08 17:23:17 0 [Note] InnoDB: 10.4.14 started; log sequence number 273433; transaction id 377
+2020-11-08 17:23:17 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-08 17:23:17 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-08 17:23:17 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-08 17:23:17 0 [Note] Server socket created on IP: '::'.
+2020-11-08 23:10:48 0 [Note] mysqld.exe: Aria engine: starting recovery
+recovered pages: 0% 37% 93% 100% (0.0 seconds); tables to flush: 1 0
+ (0.0 seconds); 
+2020-11-08 23:10:48 0 [Note] mysqld.exe: Aria engine: recovery done
+InnoDB: using atomic writes.
+2020-11-08 23:10:48 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-08 23:10:48 0 [Note] InnoDB: Uses event mutexes
+2020-11-08 23:10:48 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-08 23:10:48 0 [Note] InnoDB: Number of pools: 1
+2020-11-08 23:10:48 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-08 23:10:48 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-08 23:10:48 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-08 23:10:48 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=317930
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 23:10:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 23:10:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 23:10:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 23:10:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 23:10:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-08 23:10:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-08 23:10:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-08 23:10:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-08 23:10:48 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-08 23:10:48 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-08 23:10:48 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-08 23:10:48 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-08 23:10:48 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-08 23:10:48 0 [Note] InnoDB: Waiting for purge to start
+2020-11-08 23:10:48 0 [Note] InnoDB: 10.4.14 started; log sequence number 317939; transaction id 432
+2020-11-08 23:10:48 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-08 23:10:48 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-08 23:10:48 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-08 23:10:48 0 [Note] Server socket created on IP: '::'.
