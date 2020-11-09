@@ -6103,3 +6103,636 @@ AH00548: NameVirtualHost has no effect and will be removed in the next release D
 [Sun Nov 08 23:10:49.231894 2020] [ssl:warn] [pid 2640:tid 180] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Sun Nov 08 23:10:49.295263 2020] [ssl:warn] [pid 2640:tid 180] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Sun Nov 08 23:10:49.336709 2020] [mpm_winnt:notice] [pid 2640:tid 180] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 02:51:49.638064 2020] [ssl:warn] [pid 19840:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 02:51:49.788850 2020] [core:warn] [pid 19840:tid 576] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 02:51:49.807622 2020] [ssl:warn] [pid 19840:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 02:51:49.917812 2020] [mpm_winnt:notice] [pid 19840:tid 576] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 02:51:49.917812 2020] [mpm_winnt:notice] [pid 19840:tid 576] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 02:51:49.917812 2020] [core:notice] [pid 19840:tid 576] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 02:51:49.928394 2020] [mpm_winnt:notice] [pid 19840:tid 576] AH00418: Parent: Created child process 1880
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 02:51:51.307216 2020] [ssl:warn] [pid 1880:tid 600] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 02:51:51.451691 2020] [ssl:warn] [pid 1880:tid 600] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 02:51:51.538303 2020] [mpm_winnt:notice] [pid 1880:tid 600] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 08:45:47.434498 2020] [ssl:warn] [pid 14080:tid 184] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 08:45:47.483914 2020] [core:warn] [pid 14080:tid 184] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 08:45:47.485991 2020] [ssl:warn] [pid 14080:tid 184] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 08:45:47.526874 2020] [mpm_winnt:notice] [pid 14080:tid 184] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 08:45:47.526874 2020] [mpm_winnt:notice] [pid 14080:tid 184] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 08:45:47.526874 2020] [core:notice] [pid 14080:tid 184] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 08:45:47.531126 2020] [mpm_winnt:notice] [pid 14080:tid 184] AH00418: Parent: Created child process 15848
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 08:45:48.003272 2020] [ssl:warn] [pid 15848:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 08:45:48.052755 2020] [ssl:warn] [pid 15848:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 08:45:48.086292 2020] [mpm_winnt:notice] [pid 15848:tid 480] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 13:13:04.742065 2020] [ssl:warn] [pid 12300:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 13:13:04.909730 2020] [core:warn] [pid 12300:tid 580] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 13:13:04.921132 2020] [ssl:warn] [pid 12300:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 13:13:05.343366 2020] [mpm_winnt:notice] [pid 12300:tid 580] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 13:13:05.343366 2020] [mpm_winnt:notice] [pid 12300:tid 580] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 13:13:05.343366 2020] [core:notice] [pid 12300:tid 580] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 13:13:05.364009 2020] [mpm_winnt:notice] [pid 12300:tid 580] AH00418: Parent: Created child process 1280
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 13:13:05.965704 2020] [ssl:warn] [pid 1280:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 13:13:06.049997 2020] [ssl:warn] [pid 1280:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 13:13:06.143101 2020] [mpm_winnt:notice] [pid 1280:tid 596] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 13:46:19.357778 2020] [php7:notice] [pid 1280:tid 1328] [client ::1:58135] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/html/
+[Mon Nov 09 13:46:33.248288 2020] [php7:notice] [pid 1280:tid 1320] [client ::1:58143] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/web/
+[Mon Nov 09 13:46:50.431084 2020] [php7:notice] [pid 1280:tid 1328] [client ::1:58144] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/html/trangchu.php
+[Mon Nov 09 13:46:51.908544 2020] [php7:notice] [pid 1280:tid 1328] [client ::1:58144] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/web/
+[Mon Nov 09 13:46:53.732485 2020] [php7:notice] [pid 1280:tid 1328] [client ::1:58144] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/html/trangchu.php
+[Mon Nov 09 13:46:54.310304 2020] [php7:notice] [pid 1280:tid 1328] [client ::1:58144] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/web/
+[Mon Nov 09 13:46:55.858800 2020] [php7:notice] [pid 1280:tid 1328] [client ::1:58144] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/html/trangchu.php
+[Mon Nov 09 13:46:57.160604 2020] [php7:notice] [pid 1280:tid 1328] [client ::1:58144] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/html/bao_cao.php
+[Mon Nov 09 13:46:59.251502 2020] [php7:notice] [pid 1280:tid 1328] [client ::1:58144] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/html/trangchu.php
+[Mon Nov 09 13:48:03.538196 2020] [php7:notice] [pid 1280:tid 1328] [client ::1:58155] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/html/bao_cao.php
+[Mon Nov 09 15:25:26.676007 2020] [ssl:warn] [pid 8168:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:25:26.728098 2020] [core:warn] [pid 8168:tid 568] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 15:25:26.738072 2020] [ssl:warn] [pid 8168:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:25:26.766997 2020] [mpm_winnt:notice] [pid 8168:tid 568] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 15:25:26.766997 2020] [mpm_winnt:notice] [pid 8168:tid 568] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 15:25:26.766997 2020] [core:notice] [pid 8168:tid 568] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 15:25:26.771981 2020] [mpm_winnt:notice] [pid 8168:tid 568] AH00418: Parent: Created child process 12464
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 15:25:27.237633 2020] [ssl:warn] [pid 12464:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:25:27.293476 2020] [ssl:warn] [pid 12464:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:25:27.328412 2020] [mpm_winnt:notice] [pid 12464:tid 612] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 15:25:40.622802 2020] [php7:notice] [pid 12464:tid 1832] [client ::1:60628] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 15:30:33.256864 2020] [ssl:warn] [pid 19100:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:30:33.318496 2020] [core:warn] [pid 19100:tid 564] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 15:30:33.328262 2020] [ssl:warn] [pid 19100:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:30:33.365214 2020] [mpm_winnt:notice] [pid 19100:tid 564] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 15:30:33.365214 2020] [mpm_winnt:notice] [pid 19100:tid 564] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 15:30:33.365214 2020] [core:notice] [pid 19100:tid 564] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 15:30:33.371237 2020] [mpm_winnt:notice] [pid 19100:tid 564] AH00418: Parent: Created child process 19180
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 15:30:33.976613 2020] [ssl:warn] [pid 19180:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:30:34.040359 2020] [ssl:warn] [pid 19180:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:30:34.071276 2020] [mpm_winnt:notice] [pid 19180:tid 580] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 15:31:05.527954 2020] [php7:notice] [pid 19180:tid 1828] [client ::1:60726] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 15:31:05.532941 2020] [php7:warn] [pid 19180:tid 1828] [client ::1:60726] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 15:31:05.532941 2020] [php7:warn] [pid 19180:tid 1828] [client ::1:60726] PHP Warning:  Illegal string offset 'tienshopping(2,NULL)' in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 15:31:09.916308 2020] [php7:warn] [pid 19180:tid 1828] [client ::1:60726] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 15:31:09.916308 2020] [php7:warn] [pid 19180:tid 1828] [client ::1:60726] PHP Warning:  Illegal string offset 'tienshopping(2,NULL)' in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 15:31:13.819075 2020] [php7:warn] [pid 19180:tid 1828] [client ::1:60726] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 15:31:13.819075 2020] [php7:warn] [pid 19180:tid 1828] [client ::1:60726] PHP Warning:  Illegal string offset 'tienshopping(2,NULL)' in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 15:33:50.486960 2020] [ssl:warn] [pid 21312:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:33:50.544409 2020] [core:warn] [pid 21312:tid 564] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 15:33:50.556377 2020] [ssl:warn] [pid 21312:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:33:50.587296 2020] [mpm_winnt:notice] [pid 21312:tid 564] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 15:33:50.587296 2020] [mpm_winnt:notice] [pid 21312:tid 564] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 15:33:50.587296 2020] [core:notice] [pid 21312:tid 564] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 15:33:50.591550 2020] [mpm_winnt:notice] [pid 21312:tid 564] AH00418: Parent: Created child process 12032
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 15:33:51.179711 2020] [ssl:warn] [pid 12032:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:33:51.234566 2020] [ssl:warn] [pid 12032:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:33:51.264486 2020] [mpm_winnt:notice] [pid 12032:tid 572] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 15:34:03.956413 2020] [php7:notice] [pid 12032:tid 1832] [client ::1:60749] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 15:35:30.727171 2020] [ssl:warn] [pid 16240:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:35:30.784425 2020] [core:warn] [pid 16240:tid 464] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 15:35:30.791405 2020] [ssl:warn] [pid 16240:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:35:30.822324 2020] [mpm_winnt:notice] [pid 16240:tid 464] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 15:35:30.822324 2020] [mpm_winnt:notice] [pid 16240:tid 464] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 15:35:30.822324 2020] [core:notice] [pid 16240:tid 464] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 15:35:30.827310 2020] [mpm_winnt:notice] [pid 16240:tid 464] AH00418: Parent: Created child process 9180
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 15:35:31.336964 2020] [ssl:warn] [pid 9180:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:35:31.398782 2020] [ssl:warn] [pid 9180:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:35:31.436681 2020] [mpm_winnt:notice] [pid 9180:tid 584] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 15:35:33.858774 2020] [php7:notice] [pid 9180:tid 1836] [client ::1:60773] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 15:35:43.644513 2020] [ssl:warn] [pid 15172:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:35:43.699365 2020] [core:warn] [pid 15172:tid 584] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 15:35:43.709341 2020] [ssl:warn] [pid 15172:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:35:43.736506 2020] [mpm_winnt:notice] [pid 15172:tid 584] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 15:35:43.736506 2020] [mpm_winnt:notice] [pid 15172:tid 584] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 15:35:43.736506 2020] [core:notice] [pid 15172:tid 584] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 15:35:43.741253 2020] [mpm_winnt:notice] [pid 15172:tid 584] AH00418: Parent: Created child process 10932
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 15:35:44.195073 2020] [ssl:warn] [pid 10932:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:35:44.243909 2020] [ssl:warn] [pid 10932:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:35:44.273867 2020] [mpm_winnt:notice] [pid 10932:tid 552] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 15:36:14.379516 2020] [ssl:warn] [pid 8424:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:36:14.426427 2020] [core:warn] [pid 8424:tid 568] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 15:36:14.434409 2020] [ssl:warn] [pid 8424:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:36:14.488270 2020] [mpm_winnt:notice] [pid 8424:tid 568] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 15:36:14.488270 2020] [mpm_winnt:notice] [pid 8424:tid 568] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 15:36:14.488270 2020] [core:notice] [pid 8424:tid 568] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 15:36:14.496249 2020] [mpm_winnt:notice] [pid 8424:tid 568] AH00418: Parent: Created child process 16960
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 15:36:14.969898 2020] [ssl:warn] [pid 16960:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:36:15.024680 2020] [ssl:warn] [pid 16960:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:36:15.055600 2020] [mpm_winnt:notice] [pid 16960:tid 576] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 15:36:35.751596 2020] [php7:notice] [pid 16960:tid 1828] [client ::1:60793] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 15:36:48.664028 2020] [ssl:warn] [pid 7180:tid 188] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:36:48.718881 2020] [core:warn] [pid 7180:tid 188] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 15:36:48.728854 2020] [ssl:warn] [pid 7180:tid 188] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:36:48.754785 2020] [mpm_winnt:notice] [pid 7180:tid 188] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 15:36:48.754785 2020] [mpm_winnt:notice] [pid 7180:tid 188] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 15:36:48.754785 2020] [core:notice] [pid 7180:tid 188] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 15:36:48.759772 2020] [mpm_winnt:notice] [pid 7180:tid 188] AH00418: Parent: Created child process 21088
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 15:36:49.296337 2020] [ssl:warn] [pid 21088:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:36:49.350194 2020] [ssl:warn] [pid 21088:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:36:49.381111 2020] [mpm_winnt:notice] [pid 21088:tid 576] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 15:36:52.693615 2020] [php7:notice] [pid 21088:tid 1844] [client ::1:60803] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 15:43:49.126168 2020] [ssl:warn] [pid 20380:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:43:49.176034 2020] [core:warn] [pid 20380:tid 580] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 15:43:49.187006 2020] [ssl:warn] [pid 20380:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:43:49.214932 2020] [mpm_winnt:notice] [pid 20380:tid 580] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 15:43:49.214932 2020] [mpm_winnt:notice] [pid 20380:tid 580] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 15:43:49.214932 2020] [core:notice] [pid 20380:tid 580] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 15:43:49.218921 2020] [mpm_winnt:notice] [pid 20380:tid 580] AH00418: Parent: Created child process 22520
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 15:43:49.760472 2020] [ssl:warn] [pid 22520:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:43:49.819315 2020] [ssl:warn] [pid 22520:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 15:43:49.860491 2020] [mpm_winnt:notice] [pid 22520:tid 632] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 15:43:58.686499 2020] [php7:notice] [pid 22520:tid 1836] [client ::1:60893] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/html/
+[Mon Nov 09 15:44:16.089722 2020] [php7:notice] [pid 22520:tid 1828] [client ::1:60899] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 15:44:23.448746 2020] [php7:notice] [pid 22520:tid 1828] [client ::1:60899] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 20:54:53.979827 2020] [ssl:warn] [pid 6200:tid 188] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 20:54:54.037672 2020] [core:warn] [pid 6200:tid 188] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 20:54:54.050637 2020] [ssl:warn] [pid 6200:tid 188] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 20:54:54.569846 2020] [mpm_winnt:notice] [pid 6200:tid 188] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 20:54:54.569846 2020] [mpm_winnt:notice] [pid 6200:tid 188] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 20:54:54.569846 2020] [core:notice] [pid 6200:tid 188] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 20:54:54.574832 2020] [mpm_winnt:notice] [pid 6200:tid 188] AH00418: Parent: Created child process 20064
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 20:54:55.103418 2020] [ssl:warn] [pid 20064:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 20:54:55.152289 2020] [ssl:warn] [pid 20064:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 20:54:55.189842 2020] [mpm_winnt:notice] [pid 20064:tid 612] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:10:29.337394 2020] [ssl:warn] [pid 21840:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:10:29.396236 2020] [core:warn] [pid 21840:tid 620] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:10:29.404215 2020] [ssl:warn] [pid 21840:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:10:29.437126 2020] [mpm_winnt:notice] [pid 21840:tid 620] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:10:29.437126 2020] [mpm_winnt:notice] [pid 21840:tid 620] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:10:29.437126 2020] [core:notice] [pid 21840:tid 620] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:10:29.442113 2020] [mpm_winnt:notice] [pid 21840:tid 620] AH00418: Parent: Created child process 3404
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:10:29.906462 2020] [ssl:warn] [pid 3404:tid 192] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:10:29.958723 2020] [ssl:warn] [pid 3404:tid 192] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:10:29.993631 2020] [mpm_winnt:notice] [pid 3404:tid 192] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:11:16.426775 2020] [php7:notice] [pid 3404:tid 1836] [client ::1:54198] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:11:19.479314 2020] [php7:error] [pid 3404:tid 1836] [client ::1:54198] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php:27\nStack trace:\n#0 {main}\n  thrown in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:13:40.783580 2020] [ssl:warn] [pid 10364:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:13:40.829858 2020] [core:warn] [pid 10364:tid 596] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:13:40.835845 2020] [ssl:warn] [pid 10364:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:13:40.861627 2020] [mpm_winnt:notice] [pid 10364:tid 596] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:13:40.861627 2020] [mpm_winnt:notice] [pid 10364:tid 596] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:13:40.861627 2020] [core:notice] [pid 10364:tid 596] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:13:40.865649 2020] [mpm_winnt:notice] [pid 10364:tid 596] AH00418: Parent: Created child process 16312
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:13:41.430527 2020] [ssl:warn] [pid 16312:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:13:41.478398 2020] [ssl:warn] [pid 16312:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:13:41.507321 2020] [mpm_winnt:notice] [pid 16312:tid 596] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:14:13.568116 2020] [php7:notice] [pid 16312:tid 1828] [client ::1:54238] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:14:13.571396 2020] [php7:warn] [pid 16312:tid 1828] [client ::1:54238] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 21:14:33.599625 2020] [php7:warn] [pid 16312:tid 1836] [client ::1:54241] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:16:04.053025 2020] [ssl:warn] [pid 13776:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:16:04.096410 2020] [core:warn] [pid 13776:tid 488] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:16:04.103399 2020] [ssl:warn] [pid 13776:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:16:04.130331 2020] [mpm_winnt:notice] [pid 13776:tid 488] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:16:04.130331 2020] [mpm_winnt:notice] [pid 13776:tid 488] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:16:04.130331 2020] [core:notice] [pid 13776:tid 488] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:16:04.135314 2020] [mpm_winnt:notice] [pid 13776:tid 488] AH00418: Parent: Created child process 5524
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:16:04.572032 2020] [ssl:warn] [pid 5524:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:16:04.612507 2020] [ssl:warn] [pid 5524:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:16:04.659350 2020] [mpm_winnt:notice] [pid 5524:tid 588] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:16:13.630243 2020] [php7:notice] [pid 5524:tid 1832] [client 127.0.0.1:54263] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:16:13.633775 2020] [php7:warn] [pid 5524:tid 1832] [client 127.0.0.1:54263] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 21:16:15.950028 2020] [php7:notice] [pid 5524:tid 1832] [client 127.0.0.1:54263] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 28, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:16:22.035222 2020] [php7:notice] [pid 5524:tid 1828] [client 127.0.0.1:54264] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 28, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:16:29.734349 2020] [ssl:warn] [pid 18456:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:16:29.777154 2020] [core:warn] [pid 18456:tid 596] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:16:29.783177 2020] [ssl:warn] [pid 18456:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:16:29.812107 2020] [mpm_winnt:notice] [pid 18456:tid 596] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:16:29.812107 2020] [mpm_winnt:notice] [pid 18456:tid 596] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:16:29.812107 2020] [core:notice] [pid 18456:tid 596] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:16:29.817057 2020] [mpm_winnt:notice] [pid 18456:tid 596] AH00418: Parent: Created child process 18800
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:16:30.327690 2020] [ssl:warn] [pid 18800:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:16:30.384538 2020] [ssl:warn] [pid 18800:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:16:30.418448 2020] [mpm_winnt:notice] [pid 18800:tid 584] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:17:48.142752 2020] [ssl:warn] [pid 5784:tid 636] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:17:48.191621 2020] [core:warn] [pid 5784:tid 636] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:17:48.198601 2020] [ssl:warn] [pid 5784:tid 636] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:17:48.225530 2020] [mpm_winnt:notice] [pid 5784:tid 636] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:17:48.225530 2020] [mpm_winnt:notice] [pid 5784:tid 636] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:17:48.225530 2020] [core:notice] [pid 5784:tid 636] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:17:48.230517 2020] [mpm_winnt:notice] [pid 5784:tid 636] AH00418: Parent: Created child process 9448
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:17:48.750238 2020] [ssl:warn] [pid 9448:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:17:48.796117 2020] [ssl:warn] [pid 9448:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:17:48.824042 2020] [mpm_winnt:notice] [pid 9448:tid 616] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:17:54.748310 2020] [php7:notice] [pid 9448:tid 1836] [client ::1:54290] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:17:54.751940 2020] [php7:warn] [pid 9448:tid 1836] [client ::1:54290] PHP Warning:  mysqli_fetch_field() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 21:17:57.159899 2020] [php7:error] [pid 9448:tid 1836] [client ::1:54290] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php:28\nStack trace:\n#0 {main}\n  thrown in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 28, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:18:58.448262 2020] [ssl:warn] [pid 12364:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:18:58.491979 2020] [core:warn] [pid 12364:tid 584] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:18:58.497961 2020] [ssl:warn] [pid 12364:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:18:58.522187 2020] [mpm_winnt:notice] [pid 12364:tid 584] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:18:58.522187 2020] [mpm_winnt:notice] [pid 12364:tid 584] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:18:58.522187 2020] [core:notice] [pid 12364:tid 584] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:18:58.526142 2020] [mpm_winnt:notice] [pid 12364:tid 584] AH00418: Parent: Created child process 2740
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:18:58.925496 2020] [ssl:warn] [pid 2740:tid 600] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:18:58.972325 2020] [ssl:warn] [pid 2740:tid 600] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:18:59.003565 2020] [mpm_winnt:notice] [pid 2740:tid 600] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:19:04.562357 2020] [php7:notice] [pid 2740:tid 1840] [client ::1:54313] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:19:04.566951 2020] [php7:warn] [pid 2740:tid 1840] [client ::1:54313] PHP Warning:  mysqli_fetch_field() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 21:19:06.842357 2020] [php7:error] [pid 2740:tid 1840] [client ::1:54313] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php:28\nStack trace:\n#0 {main}\n  thrown in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 28, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:20:51.783049 2020] [ssl:warn] [pid 1572:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:20:51.823659 2020] [core:warn] [pid 1572:tid 616] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:20:51.829684 2020] [ssl:warn] [pid 1572:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:20:51.853588 2020] [mpm_winnt:notice] [pid 1572:tid 616] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:20:51.853588 2020] [mpm_winnt:notice] [pid 1572:tid 616] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:20:51.853588 2020] [core:notice] [pid 1572:tid 616] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:20:51.856608 2020] [mpm_winnt:notice] [pid 1572:tid 616] AH00418: Parent: Created child process 17304
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:20:52.271522 2020] [ssl:warn] [pid 17304:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:20:52.317821 2020] [ssl:warn] [pid 17304:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:20:52.347821 2020] [mpm_winnt:notice] [pid 17304:tid 592] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:21:12.424626 2020] [php7:notice] [pid 17304:tid 1832] [client ::1:54342] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:21:12.448562 2020] [php7:warn] [pid 17304:tid 1832] [client ::1:54342] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 21:21:14.854761 2020] [php7:notice] [pid 17304:tid 1832] [client ::1:54342] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 28, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:22:06.944123 2020] [ssl:warn] [pid 17816:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:22:06.986834 2020] [core:warn] [pid 17816:tid 584] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:22:06.992823 2020] [ssl:warn] [pid 17816:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:22:07.018302 2020] [mpm_winnt:notice] [pid 17816:tid 584] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:22:07.018302 2020] [mpm_winnt:notice] [pid 17816:tid 584] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:22:07.018302 2020] [core:notice] [pid 17816:tid 584] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:22:07.022292 2020] [mpm_winnt:notice] [pid 17816:tid 584] AH00418: Parent: Created child process 13016
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:22:07.463071 2020] [ssl:warn] [pid 13016:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:22:07.505851 2020] [ssl:warn] [pid 13016:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:22:07.554722 2020] [mpm_winnt:notice] [pid 13016:tid 580] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:22:15.874447 2020] [php7:notice] [pid 13016:tid 1848] [client ::1:54361] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:22:15.877271 2020] [php7:warn] [pid 13016:tid 1848] [client ::1:54361] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 21:23:06.748530 2020] [ssl:warn] [pid 9832:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:23:06.794996 2020] [core:warn] [pid 9832:tid 564] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:23:06.800992 2020] [ssl:warn] [pid 9832:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:23:06.823933 2020] [mpm_winnt:notice] [pid 9832:tid 564] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:23:06.823933 2020] [mpm_winnt:notice] [pid 9832:tid 564] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:23:06.823933 2020] [core:notice] [pid 9832:tid 564] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:23:06.826923 2020] [mpm_winnt:notice] [pid 9832:tid 564] AH00418: Parent: Created child process 8008
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:23:07.281706 2020] [ssl:warn] [pid 8008:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:23:07.330700 2020] [ssl:warn] [pid 8008:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:23:07.357628 2020] [mpm_winnt:notice] [pid 8008:tid 616] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:23:16.049554 2020] [php7:notice] [pid 8008:tid 1828] [client ::1:54380] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:23:16.053692 2020] [php7:error] [pid 8008:tid 1828] [client ::1:54380] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_num_row() in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php:27\nStack trace:\n#0 {main}\n  thrown in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 21:23:23.975030 2020] [php7:notice] [pid 8008:tid 1836] [client ::1:54382] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:23:23.977025 2020] [php7:error] [pid 8008:tid 1836] [client ::1:54382] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_num_row() in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php:27\nStack trace:\n#0 {main}\n  thrown in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 21:23:44.622245 2020] [ssl:warn] [pid 3348:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:23:44.663277 2020] [core:warn] [pid 3348:tid 568] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:23:44.663277 2020] [ssl:warn] [pid 3348:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:23:44.692913 2020] [mpm_winnt:notice] [pid 3348:tid 568] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:23:44.692913 2020] [mpm_winnt:notice] [pid 3348:tid 568] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:23:44.692913 2020] [core:notice] [pid 3348:tid 568] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:23:44.696903 2020] [mpm_winnt:notice] [pid 3348:tid 568] AH00418: Parent: Created child process 14520
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:23:45.192661 2020] [ssl:warn] [pid 14520:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:23:45.253499 2020] [ssl:warn] [pid 14520:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:23:45.298379 2020] [mpm_winnt:notice] [pid 14520:tid 572] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:24:03.969273 2020] [php7:notice] [pid 14520:tid 1832] [client ::1:54405] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:24:03.972892 2020] [php7:warn] [pid 14520:tid 1832] [client ::1:54405] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 21:24:34.787030 2020] [ssl:warn] [pid 16696:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:24:34.833141 2020] [core:warn] [pid 16696:tid 564] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:24:34.839047 2020] [ssl:warn] [pid 16696:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:24:34.862984 2020] [mpm_winnt:notice] [pid 16696:tid 564] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:24:34.862984 2020] [mpm_winnt:notice] [pid 16696:tid 564] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:24:34.862984 2020] [core:notice] [pid 16696:tid 564] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:24:34.866975 2020] [mpm_winnt:notice] [pid 16696:tid 564] AH00418: Parent: Created child process 11208
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:24:35.343683 2020] [ssl:warn] [pid 11208:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:24:35.404330 2020] [ssl:warn] [pid 11208:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:24:35.440235 2020] [mpm_winnt:notice] [pid 11208:tid 580] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:24:40.715588 2020] [php7:notice] [pid 11208:tid 1836] [client ::1:54422] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:24:40.718579 2020] [php7:warn] [pid 11208:tid 1836] [client ::1:54422] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 21:24:42.643266 2020] [php7:warn] [pid 11208:tid 1836] [client ::1:54422] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:25:44.350008 2020] [ssl:warn] [pid 4752:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:25:44.400871 2020] [core:warn] [pid 4752:tid 576] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:25:44.407854 2020] [ssl:warn] [pid 4752:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:25:44.439769 2020] [mpm_winnt:notice] [pid 4752:tid 576] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:25:44.439769 2020] [mpm_winnt:notice] [pid 4752:tid 576] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:25:44.439769 2020] [core:notice] [pid 4752:tid 576] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:25:44.445753 2020] [mpm_winnt:notice] [pid 4752:tid 576] AH00418: Parent: Created child process 19300
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:25:44.931715 2020] [ssl:warn] [pid 19300:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:25:44.979589 2020] [ssl:warn] [pid 19300:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:25:45.013504 2020] [mpm_winnt:notice] [pid 19300:tid 584] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:25:53.669617 2020] [php7:notice] [pid 19300:tid 1828] [client ::1:54474] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:25:53.697571 2020] [php7:warn] [pid 19300:tid 1828] [client ::1:54474] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 21:26:36.609140 2020] [ssl:warn] [pid 10580:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:26:36.660001 2020] [core:warn] [pid 10580:tid 564] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:26:36.665985 2020] [ssl:warn] [pid 10580:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:26:36.691918 2020] [mpm_winnt:notice] [pid 10580:tid 564] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:26:36.691918 2020] [mpm_winnt:notice] [pid 10580:tid 564] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:26:36.691918 2020] [core:notice] [pid 10580:tid 564] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:26:36.696904 2020] [mpm_winnt:notice] [pid 10580:tid 564] AH00418: Parent: Created child process 15464
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:26:37.147280 2020] [ssl:warn] [pid 15464:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:26:37.191988 2020] [ssl:warn] [pid 15464:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:26:37.218883 2020] [mpm_winnt:notice] [pid 15464:tid 592] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:26:42.560989 2020] [php7:notice] [pid 15464:tid 1836] [client ::1:54493] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:26:42.564978 2020] [php7:warn] [pid 15464:tid 1836] [client ::1:54493] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:27:39.806982 2020] [ssl:warn] [pid 19348:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:27:39.862832 2020] [core:warn] [pid 19348:tid 560] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:27:39.870813 2020] [ssl:warn] [pid 19348:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:27:39.900732 2020] [mpm_winnt:notice] [pid 19348:tid 560] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:27:39.900732 2020] [mpm_winnt:notice] [pid 19348:tid 560] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:27:39.900732 2020] [core:notice] [pid 19348:tid 560] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:27:39.904721 2020] [mpm_winnt:notice] [pid 19348:tid 560] AH00418: Parent: Created child process 16752
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:27:40.397552 2020] [ssl:warn] [pid 16752:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:27:40.447418 2020] [ssl:warn] [pid 16752:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:27:40.476341 2020] [mpm_winnt:notice] [pid 16752:tid 596] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:27:47.970893 2020] [php7:notice] [pid 16752:tid 1828] [client ::1:54512] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:27:47.976855 2020] [php7:warn] [pid 16752:tid 1828] [client ::1:54512] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:27:50.523787 2020] [php7:error] [pid 16752:tid 1828] [client ::1:54512] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php:27\nStack trace:\n#0 {main}\n  thrown in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:28:08.267118 2020] [ssl:warn] [pid 17624:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:28:08.313983 2020] [core:warn] [pid 17624:tid 564] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:28:08.329608 2020] [ssl:warn] [pid 17624:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:28:08.345226 2020] [mpm_winnt:notice] [pid 17624:tid 564] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:28:08.345226 2020] [mpm_winnt:notice] [pid 17624:tid 564] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:28:08.345226 2020] [core:notice] [pid 17624:tid 564] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:28:08.360847 2020] [mpm_winnt:notice] [pid 17624:tid 564] AH00418: Parent: Created child process 13940
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:28:08.852506 2020] [ssl:warn] [pid 13940:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:28:08.906361 2020] [ssl:warn] [pid 13940:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:28:08.937280 2020] [mpm_winnt:notice] [pid 13940:tid 584] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:28:22.831779 2020] [php7:notice] [pid 13940:tid 1828] [client ::1:54528] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:28:22.837122 2020] [php7:warn] [pid 13940:tid 1828] [client ::1:54528] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:28:25.312771 2020] [php7:error] [pid 13940:tid 1828] [client ::1:54528] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php:27\nStack trace:\n#0 {main}\n  thrown in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:28:27.761639 2020] [php7:notice] [pid 13940:tid 1828] [client ::1:54528] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:28:27.762640 2020] [php7:warn] [pid 13940:tid 1828] [client ::1:54528] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:28:53.973827 2020] [php7:error] [pid 13940:tid 1836] [client ::1:54530] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php:27\nStack trace:\n#0 {main}\n  thrown in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:29:44.983256 2020] [ssl:warn] [pid 19524:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:29:45.032126 2020] [core:warn] [pid 19524:tid 596] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:29:45.039107 2020] [ssl:warn] [pid 19524:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:29:45.070031 2020] [mpm_winnt:notice] [pid 19524:tid 596] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:29:45.070031 2020] [mpm_winnt:notice] [pid 19524:tid 596] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:29:45.070031 2020] [core:notice] [pid 19524:tid 596] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:29:45.074015 2020] [mpm_winnt:notice] [pid 19524:tid 596] AH00418: Parent: Created child process 11808
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:29:45.641500 2020] [ssl:warn] [pid 11808:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:29:45.711321 2020] [ssl:warn] [pid 11808:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:29:45.756191 2020] [mpm_winnt:notice] [pid 11808:tid 604] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:29:50.243705 2020] [php7:notice] [pid 11808:tid 1900] [client ::1:54559] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:29:50.262653 2020] [php7:warn] [pid 11808:tid 1900] [client ::1:54559] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:29:52.550158 2020] [php7:notice] [pid 11808:tid 1900] [client ::1:54559] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:29:52.551155 2020] [php7:notice] [pid 11808:tid 1900] [client ::1:54559] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 28, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:29:52.551155 2020] [php7:notice] [pid 11808:tid 1900] [client ::1:54559] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 29, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:29:54.953020 2020] [php7:warn] [pid 11808:tid 1900] [client ::1:54559] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:29:57.633297 2020] [php7:notice] [pid 11808:tid 1900] [client ::1:54559] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:29:57.633297 2020] [php7:notice] [pid 11808:tid 1900] [client ::1:54559] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 28, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:29:57.634292 2020] [php7:notice] [pid 11808:tid 1900] [client ::1:54559] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 29, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:33:02.941621 2020] [ssl:warn] [pid 16888:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:33:02.988486 2020] [core:warn] [pid 16888:tid 596] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:33:03.004110 2020] [ssl:warn] [pid 16888:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:33:03.019729 2020] [mpm_winnt:notice] [pid 16888:tid 596] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:33:03.019729 2020] [mpm_winnt:notice] [pid 16888:tid 596] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:33:03.019729 2020] [core:notice] [pid 16888:tid 596] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:33:03.035349 2020] [mpm_winnt:notice] [pid 16888:tid 596] AH00418: Parent: Created child process 2760
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:33:03.536973 2020] [ssl:warn] [pid 2760:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:33:03.583838 2020] [ssl:warn] [pid 2760:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:33:03.619137 2020] [mpm_winnt:notice] [pid 2760:tid 604] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:33:12.367594 2020] [php7:notice] [pid 2760:tid 1828] [client ::1:54598] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:33:12.371584 2020] [php7:warn] [pid 2760:tid 1828] [client ::1:54598] PHP Warning:  mysqli_field_count() expects parameter 1 to be mysqli, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:33:17.063866 2020] [php7:warn] [pid 2760:tid 1828] [client ::1:54598] PHP Warning:  mysqli_field_count() expects parameter 1 to be mysqli, object given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:34:51.850126 2020] [ssl:warn] [pid 15032:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:34:51.896115 2020] [core:warn] [pid 15032:tid 584] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:34:51.903138 2020] [ssl:warn] [pid 15032:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:34:51.932061 2020] [mpm_winnt:notice] [pid 15032:tid 584] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:34:51.932061 2020] [mpm_winnt:notice] [pid 15032:tid 584] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:34:51.932061 2020] [core:notice] [pid 15032:tid 584] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:34:51.938013 2020] [mpm_winnt:notice] [pid 15032:tid 584] AH00418: Parent: Created child process 15824
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:34:52.495521 2020] [ssl:warn] [pid 15824:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:34:52.546385 2020] [ssl:warn] [pid 15824:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:34:52.576305 2020] [mpm_winnt:notice] [pid 15824:tid 580] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:35:08.721642 2020] [php7:notice] [pid 15824:tid 1828] [client ::1:54624] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:35:08.729884 2020] [php7:warn] [pid 15824:tid 1828] [client ::1:54624] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:35:13.856470 2020] [php7:warn] [pid 15824:tid 1828] [client ::1:54624] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:37:30.605019 2020] [ssl:warn] [pid 3028:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:37:30.645786 2020] [core:warn] [pid 3028:tid 584] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:37:30.652808 2020] [ssl:warn] [pid 3028:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:37:30.675745 2020] [mpm_winnt:notice] [pid 3028:tid 584] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:37:30.675745 2020] [mpm_winnt:notice] [pid 3028:tid 584] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:37:30.675745 2020] [core:notice] [pid 3028:tid 584] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:37:30.679705 2020] [mpm_winnt:notice] [pid 3028:tid 584] AH00418: Parent: Created child process 20612
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:37:31.140486 2020] [ssl:warn] [pid 20612:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:37:31.189351 2020] [ssl:warn] [pid 20612:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:37:31.225257 2020] [mpm_winnt:notice] [pid 20612:tid 596] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:37:38.936383 2020] [php7:notice] [pid 20612:tid 1828] [client ::1:54650] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:37:38.941367 2020] [php7:warn] [pid 20612:tid 1828] [client ::1:54650] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:37:42.300176 2020] [php7:notice] [pid 20612:tid 1828] [client ::1:54650] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:37:42.300176 2020] [php7:notice] [pid 20612:tid 1828] [client ::1:54650] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 28, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:37:42.300176 2020] [php7:notice] [pid 20612:tid 1828] [client ::1:54650] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 29, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:37:44.069343 2020] [php7:warn] [pid 20612:tid 1828] [client ::1:54650] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:37:46.295180 2020] [php7:notice] [pid 20612:tid 1828] [client ::1:54650] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:37:46.295180 2020] [php7:notice] [pid 20612:tid 1828] [client ::1:54650] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 28, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:37:46.295180 2020] [php7:notice] [pid 20612:tid 1828] [client ::1:54650] PHP Notice:  Array to string conversion in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 29, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:40:15.831479 2020] [ssl:warn] [pid 12520:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:40:15.883339 2020] [core:warn] [pid 12520:tid 564] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:40:15.891319 2020] [ssl:warn] [pid 12520:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:40:15.925229 2020] [mpm_winnt:notice] [pid 12520:tid 564] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:40:15.925229 2020] [mpm_winnt:notice] [pid 12520:tid 564] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:40:15.925229 2020] [core:notice] [pid 12520:tid 564] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:40:15.929218 2020] [mpm_winnt:notice] [pid 12520:tid 564] AH00418: Parent: Created child process 19952
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:40:16.509177 2020] [ssl:warn] [pid 19952:tid 628] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:40:16.562038 2020] [ssl:warn] [pid 19952:tid 628] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:40:16.605919 2020] [mpm_winnt:notice] [pid 19952:tid 628] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:40:23.211277 2020] [php7:notice] [pid 19952:tid 1836] [client ::1:54681] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:40:23.218258 2020] [php7:warn] [pid 19952:tid 1836] [client ::1:54681] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:41:28.474062 2020] [ssl:warn] [pid 16100:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:41:28.520044 2020] [core:warn] [pid 16100:tid 584] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:41:28.526171 2020] [ssl:warn] [pid 16100:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:41:28.551743 2020] [mpm_winnt:notice] [pid 16100:tid 584] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:41:28.551743 2020] [mpm_winnt:notice] [pid 16100:tid 584] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:41:28.551743 2020] [core:notice] [pid 16100:tid 584] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:41:28.555767 2020] [mpm_winnt:notice] [pid 16100:tid 584] AH00418: Parent: Created child process 10960
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:41:28.997606 2020] [ssl:warn] [pid 10960:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:41:29.048798 2020] [ssl:warn] [pid 10960:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:41:29.084569 2020] [mpm_winnt:notice] [pid 10960:tid 572] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:41:41.606291 2020] [php7:notice] [pid 10960:tid 1828] [client ::1:54695] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:41:41.610269 2020] [php7:warn] [pid 10960:tid 1828] [client ::1:54695] PHP Warning:  mysqli_use_result() expects parameter 1 to be mysqli, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:41:43.880311 2020] [php7:warn] [pid 10960:tid 1828] [client ::1:54695] PHP Warning:  mysqli_use_result() expects parameter 1 to be mysqli, object given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/themthongke.php
+[Mon Nov 09 21:45:10.181581 2020] [ssl:warn] [pid 1824:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:45:10.231449 2020] [core:warn] [pid 1824:tid 584] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:45:10.238429 2020] [ssl:warn] [pid 1824:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:45:10.267354 2020] [mpm_winnt:notice] [pid 1824:tid 584] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:45:10.267354 2020] [mpm_winnt:notice] [pid 1824:tid 584] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:45:10.267354 2020] [core:notice] [pid 1824:tid 584] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:45:10.272338 2020] [mpm_winnt:notice] [pid 1824:tid 584] AH00418: Parent: Created child process 516
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:45:10.832841 2020] [ssl:warn] [pid 516:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:45:10.889688 2020] [ssl:warn] [pid 516:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:45:10.957508 2020] [mpm_winnt:notice] [pid 516:tid 584] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:45:23.226411 2020] [php7:notice] [pid 516:tid 1848] [client ::1:54751] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:45:23.231397 2020] [php7:error] [pid 516:tid 1848] [client ::1:54751] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_insert_id() in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php:26\nStack trace:\n#0 {main}\n  thrown in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:47:17.404913 2020] [ssl:warn] [pid 12988:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:47:17.454776 2020] [core:warn] [pid 12988:tid 564] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:47:17.463752 2020] [ssl:warn] [pid 12988:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:47:17.491678 2020] [mpm_winnt:notice] [pid 12988:tid 564] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:47:17.491678 2020] [mpm_winnt:notice] [pid 12988:tid 564] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:47:17.491678 2020] [core:notice] [pid 12988:tid 564] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:47:17.496664 2020] [mpm_winnt:notice] [pid 12988:tid 564] AH00418: Parent: Created child process 19160
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:47:17.989347 2020] [ssl:warn] [pid 19160:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:47:18.044201 2020] [ssl:warn] [pid 19160:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:47:18.079107 2020] [mpm_winnt:notice] [pid 19160:tid 608] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:47:22.245569 2020] [php7:notice] [pid 19160:tid 1840] [client ::1:54766] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:47:22.250448 2020] [php7:error] [pid 19160:tid 1840] [client ::1:54766] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php:26\nStack trace:\n#0 {main}\n  thrown in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:51:00.019299 2020] [ssl:warn] [pid 9076:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:51:00.075149 2020] [core:warn] [pid 9076:tid 576] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 21:51:00.082131 2020] [ssl:warn] [pid 9076:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:51:00.111055 2020] [mpm_winnt:notice] [pid 9076:tid 576] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 21:51:00.111055 2020] [mpm_winnt:notice] [pid 9076:tid 576] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 21:51:00.111055 2020] [core:notice] [pid 9076:tid 576] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 21:51:00.115043 2020] [mpm_winnt:notice] [pid 9076:tid 576] AH00418: Parent: Created child process 21816
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 21:51:00.705481 2020] [ssl:warn] [pid 21816:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:51:00.757343 2020] [ssl:warn] [pid 21816:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 21:51:00.800227 2020] [mpm_winnt:notice] [pid 21816:tid 480] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 21:51:05.840645 2020] [php7:notice] [pid 21816:tid 1840] [client ::1:54808] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 21:51:05.844635 2020] [php7:warn] [pid 21816:tid 1840] [client ::1:54808] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 26, referer: http://localhost:8080/html/
+[Mon Nov 09 21:51:05.844635 2020] [php7:notice] [pid 21816:tid 1840] [client ::1:54808] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 27, referer: http://localhost:8080/html/
+[Mon Nov 09 22:09:09.872161 2020] [ssl:warn] [pid 6424:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:09:09.921028 2020] [core:warn] [pid 6424:tid 572] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 22:09:09.928426 2020] [ssl:warn] [pid 6424:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:09:09.960340 2020] [mpm_winnt:notice] [pid 6424:tid 572] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 22:09:09.960340 2020] [mpm_winnt:notice] [pid 6424:tid 572] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 22:09:09.960340 2020] [core:notice] [pid 6424:tid 572] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 22:09:09.965330 2020] [mpm_winnt:notice] [pid 6424:tid 572] AH00418: Parent: Created child process 19940
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 22:09:10.426095 2020] [ssl:warn] [pid 19940:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:09:10.475963 2020] [ssl:warn] [pid 19940:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:09:10.505882 2020] [mpm_winnt:notice] [pid 19940:tid 572] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 22:14:06.465644 2020] [ssl:warn] [pid 10112:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:14:06.515510 2020] [core:warn] [pid 10112:tid 492] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 22:14:06.522492 2020] [ssl:warn] [pid 10112:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:14:06.550418 2020] [mpm_winnt:notice] [pid 10112:tid 492] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 22:14:06.550418 2020] [mpm_winnt:notice] [pid 10112:tid 492] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 22:14:06.550418 2020] [core:notice] [pid 10112:tid 492] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 22:14:06.555406 2020] [mpm_winnt:notice] [pid 10112:tid 492] AH00418: Parent: Created child process 14620
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 22:14:07.086066 2020] [ssl:warn] [pid 14620:tid 476] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:14:07.145907 2020] [ssl:warn] [pid 14620:tid 476] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:14:07.184804 2020] [mpm_winnt:notice] [pid 14620:tid 476] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 22:14:14.225652 2020] [php7:notice] [pid 14620:tid 1840] [client ::1:54933] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 22:14:14.232255 2020] [php7:warn] [pid 14620:tid 1840] [client ::1:54933] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 28, referer: http://localhost:8080/html/
+[Mon Nov 09 22:14:14.232255 2020] [php7:warn] [pid 14620:tid 1840] [client ::1:54933] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 29, referer: http://localhost:8080/html/
+[Mon Nov 09 22:14:14.232255 2020] [php7:notice] [pid 14620:tid 1840] [client ::1:54933] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 30, referer: http://localhost:8080/html/
+[Mon Nov 09 22:14:14.232255 2020] [php7:notice] [pid 14620:tid 1840] [client ::1:54933] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 31, referer: http://localhost:8080/html/
+[Mon Nov 09 22:19:00.258213 2020] [ssl:warn] [pid 20312:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:19:00.311070 2020] [core:warn] [pid 20312:tid 568] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 22:19:00.319049 2020] [ssl:warn] [pid 20312:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:19:00.344983 2020] [mpm_winnt:notice] [pid 20312:tid 568] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 22:19:00.344983 2020] [mpm_winnt:notice] [pid 20312:tid 568] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 22:19:00.344983 2020] [core:notice] [pid 20312:tid 568] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 22:19:00.348971 2020] [mpm_winnt:notice] [pid 20312:tid 568] AH00418: Parent: Created child process 19288
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 22:19:00.863593 2020] [ssl:warn] [pid 19288:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:19:00.913460 2020] [ssl:warn] [pid 19288:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:19:00.946372 2020] [mpm_winnt:notice] [pid 19288:tid 584] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 22:19:11.031201 2020] [php7:notice] [pid 19288:tid 1832] [client ::1:54965] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 22:19:11.038184 2020] [php7:warn] [pid 19288:tid 1832] [client ::1:54965] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 34, referer: http://localhost:8080/html/
+[Mon Nov 09 22:19:11.038184 2020] [php7:warn] [pid 19288:tid 1832] [client ::1:54965] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 35, referer: http://localhost:8080/html/
+[Mon Nov 09 22:19:11.038184 2020] [php7:warn] [pid 19288:tid 1832] [client ::1:54965] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 36, referer: http://localhost:8080/html/
+[Mon Nov 09 22:19:11.038184 2020] [php7:warn] [pid 19288:tid 1832] [client ::1:54965] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 37, referer: http://localhost:8080/html/
+[Mon Nov 09 22:19:11.038184 2020] [php7:warn] [pid 19288:tid 1832] [client ::1:54965] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 38, referer: http://localhost:8080/html/
+[Mon Nov 09 22:19:11.039181 2020] [php7:notice] [pid 19288:tid 1832] [client ::1:54965] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 39, referer: http://localhost:8080/html/
+[Mon Nov 09 22:19:11.039181 2020] [php7:notice] [pid 19288:tid 1832] [client ::1:54965] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 40, referer: http://localhost:8080/html/
+[Mon Nov 09 22:19:11.039181 2020] [php7:notice] [pid 19288:tid 1832] [client ::1:54965] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 41, referer: http://localhost:8080/html/
+[Mon Nov 09 22:19:11.039181 2020] [php7:notice] [pid 19288:tid 1832] [client ::1:54965] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 42, referer: http://localhost:8080/html/
+[Mon Nov 09 22:19:11.039181 2020] [php7:notice] [pid 19288:tid 1832] [client ::1:54965] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 43, referer: http://localhost:8080/html/
+[Mon Nov 09 22:20:13.009172 2020] [ssl:warn] [pid 17104:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:20:13.068014 2020] [core:warn] [pid 17104:tid 468] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 22:20:13.072272 2020] [ssl:warn] [pid 17104:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:20:13.103517 2020] [mpm_winnt:notice] [pid 17104:tid 468] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 22:20:13.103517 2020] [mpm_winnt:notice] [pid 17104:tid 468] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 22:20:13.103517 2020] [core:notice] [pid 17104:tid 468] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 22:20:13.103517 2020] [mpm_winnt:notice] [pid 17104:tid 468] AH00418: Parent: Created child process 20456
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 22:20:13.613105 2020] [ssl:warn] [pid 20456:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:20:13.664966 2020] [ssl:warn] [pid 20456:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:20:13.697884 2020] [mpm_winnt:notice] [pid 20456:tid 496] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 22:20:19.352107 2020] [php7:notice] [pid 20456:tid 1840] [client ::1:54985] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 22:20:19.374049 2020] [php7:warn] [pid 20456:tid 1840] [client ::1:54985] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 34, referer: http://localhost:8080/html/
+[Mon Nov 09 22:20:19.374049 2020] [php7:warn] [pid 20456:tid 1840] [client ::1:54985] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 35, referer: http://localhost:8080/html/
+[Mon Nov 09 22:20:19.374049 2020] [php7:warn] [pid 20456:tid 1840] [client ::1:54985] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 36, referer: http://localhost:8080/html/
+[Mon Nov 09 22:20:19.374049 2020] [php7:warn] [pid 20456:tid 1840] [client ::1:54985] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 37, referer: http://localhost:8080/html/
+[Mon Nov 09 22:20:19.374049 2020] [php7:warn] [pid 20456:tid 1840] [client ::1:54985] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 38, referer: http://localhost:8080/html/
+[Mon Nov 09 22:20:19.374049 2020] [php7:notice] [pid 20456:tid 1840] [client ::1:54985] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 39, referer: http://localhost:8080/html/
+[Mon Nov 09 22:20:19.374049 2020] [php7:notice] [pid 20456:tid 1840] [client ::1:54985] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 40, referer: http://localhost:8080/html/
+[Mon Nov 09 22:20:19.374049 2020] [php7:notice] [pid 20456:tid 1840] [client ::1:54985] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 41, referer: http://localhost:8080/html/
+[Mon Nov 09 22:20:19.374049 2020] [php7:notice] [pid 20456:tid 1840] [client ::1:54985] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 42, referer: http://localhost:8080/html/
+[Mon Nov 09 22:20:19.374049 2020] [php7:notice] [pid 20456:tid 1840] [client ::1:54985] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 43, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:37.891841 2020] [ssl:warn] [pid 10640:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:31:37.945694 2020] [core:warn] [pid 10640:tid 612] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 22:31:37.954673 2020] [ssl:warn] [pid 10640:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:31:37.985589 2020] [mpm_winnt:notice] [pid 10640:tid 612] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 22:31:37.985589 2020] [mpm_winnt:notice] [pid 10640:tid 612] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 22:31:37.985589 2020] [core:notice] [pid 10640:tid 612] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 22:31:37.989578 2020] [mpm_winnt:notice] [pid 10640:tid 612] AH00418: Parent: Created child process 1352
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 22:31:38.444676 2020] [ssl:warn] [pid 1352:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:31:38.488589 2020] [ssl:warn] [pid 1352:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:31:38.514518 2020] [mpm_winnt:notice] [pid 1352:tid 596] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 22:31:42.839821 2020] [php7:notice] [pid 1352:tid 1836] [client ::1:55180] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.846807 2020] [php7:warn] [pid 1352:tid 1836] [client ::1:55180] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 34, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.846807 2020] [php7:warn] [pid 1352:tid 1836] [client ::1:55180] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 35, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.846807 2020] [php7:warn] [pid 1352:tid 1836] [client ::1:55180] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 36, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.846807 2020] [php7:warn] [pid 1352:tid 1836] [client ::1:55180] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 37, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.846807 2020] [php7:warn] [pid 1352:tid 1836] [client ::1:55180] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 38, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.846807 2020] [php7:notice] [pid 1352:tid 1836] [client ::1:55180] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 39, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.846807 2020] [php7:notice] [pid 1352:tid 1836] [client ::1:55180] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 40, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.846807 2020] [php7:notice] [pid 1352:tid 1836] [client ::1:55180] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 41, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.846807 2020] [php7:notice] [pid 1352:tid 1836] [client ::1:55180] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 42, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.846807 2020] [php7:notice] [pid 1352:tid 1836] [client ::1:55180] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 43, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.846807 2020] [php7:notice] [pid 1352:tid 1836] [client ::1:55180] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 44, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.847800 2020] [php7:notice] [pid 1352:tid 1836] [client ::1:55180] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 44, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.847800 2020] [php7:notice] [pid 1352:tid 1836] [client ::1:55180] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 44, referer: http://localhost:8080/html/
+[Mon Nov 09 22:31:42.847800 2020] [php7:notice] [pid 1352:tid 1836] [client ::1:55180] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 44, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.098422 2020] [php7:notice] [pid 1352:tid 1820] [client ::1:55253] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.100410 2020] [php7:warn] [pid 1352:tid 1820] [client ::1:55253] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 34, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.100410 2020] [php7:warn] [pid 1352:tid 1820] [client ::1:55253] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 35, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.101408 2020] [php7:warn] [pid 1352:tid 1820] [client ::1:55253] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 36, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.101408 2020] [php7:warn] [pid 1352:tid 1820] [client ::1:55253] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 37, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.101408 2020] [php7:warn] [pid 1352:tid 1820] [client ::1:55253] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 38, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.102405 2020] [php7:notice] [pid 1352:tid 1820] [client ::1:55253] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 39, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.102405 2020] [php7:notice] [pid 1352:tid 1820] [client ::1:55253] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 40, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.102405 2020] [php7:notice] [pid 1352:tid 1820] [client ::1:55253] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 41, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.102405 2020] [php7:notice] [pid 1352:tid 1820] [client ::1:55253] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 42, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.102405 2020] [php7:notice] [pid 1352:tid 1820] [client ::1:55253] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 43, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.102405 2020] [php7:notice] [pid 1352:tid 1820] [client ::1:55253] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 44, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.102405 2020] [php7:notice] [pid 1352:tid 1820] [client ::1:55253] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 44, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.103402 2020] [php7:notice] [pid 1352:tid 1820] [client ::1:55253] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 44, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:06.103402 2020] [php7:notice] [pid 1352:tid 1820] [client ::1:55253] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 44, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:53.428722 2020] [ssl:warn] [pid 13996:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:34:53.474599 2020] [core:warn] [pid 13996:tid 572] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 09 22:34:53.482579 2020] [ssl:warn] [pid 13996:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:34:53.511502 2020] [mpm_winnt:notice] [pid 13996:tid 572] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Mon Nov 09 22:34:53.511502 2020] [mpm_winnt:notice] [pid 13996:tid 572] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 09 22:34:53.511502 2020] [core:notice] [pid 13996:tid 572] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Mon Nov 09 22:34:53.515492 2020] [mpm_winnt:notice] [pid 13996:tid 572] AH00418: Parent: Created child process 5520
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Mon Nov 09 22:34:54.065021 2020] [ssl:warn] [pid 5520:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:34:54.113891 2020] [ssl:warn] [pid 5520:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 09 22:34:54.142814 2020] [mpm_winnt:notice] [pid 5520:tid 592] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 09 22:34:58.545513 2020] [php7:notice] [pid 5520:tid 1836] [client ::1:55275] PHP Notice:  Undefined index: maa in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 10, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:58.569414 2020] [php7:warn] [pid 5520:tid 1836] [client ::1:55275] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 34, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:58.569414 2020] [php7:warn] [pid 5520:tid 1836] [client ::1:55275] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 35, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:58.569414 2020] [php7:warn] [pid 5520:tid 1836] [client ::1:55275] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 36, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:58.569414 2020] [php7:warn] [pid 5520:tid 1836] [client ::1:55275] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 37, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:58.569414 2020] [php7:warn] [pid 5520:tid 1836] [client ::1:55275] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 38, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:58.569414 2020] [php7:notice] [pid 5520:tid 1836] [client ::1:55275] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 39, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:58.569414 2020] [php7:notice] [pid 5520:tid 1836] [client ::1:55275] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 39, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:58.569414 2020] [php7:notice] [pid 5520:tid 1836] [client ::1:55275] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 39, referer: http://localhost:8080/html/
+[Mon Nov 09 22:34:58.569414 2020] [php7:notice] [pid 5520:tid 1836] [client ::1:55275] PHP Notice:  Trying to access array offset on value of type null in D:\\xampp\\htdocs\\laptrinhweb\\html\\themthongke.php on line 39, referer: http://localhost:8080/html/
+[Mon Nov 09 22:38:48.501434 2020] [mpm_winnt:crit] [pid 5520:tid 592] AH02538: Child: Parent process exited abruptly. Child process is ending
