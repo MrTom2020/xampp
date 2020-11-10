@@ -2831,3 +2831,70 @@
 2:45:31 SA  [main] 	Deinitializing Modules
 2:45:31 SA  [main] 	Deinitializing Control Panel
 
+8:15:35 SA  [main] 	Initializing Control Panel
+8:15:35 SA  [main] 	Windows Version:  Home  64-bit
+8:15:35 SA  [main] 	XAMPP Version: 7.4.9
+8:15:35 SA  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+8:15:35 SA  [main] 	Running with Administrator rights - good!
+8:15:35 SA  [main] 	XAMPP Installation Directory: "d:\xampp\"
+8:15:35 SA  [main] 	Checking for prerequisites
+8:15:35 SA  [main] 	All prerequisites found
+8:15:35 SA  [main] 	Initializing Modules
+8:15:35 SA  [main] 	Starting Check-Timer
+8:15:35 SA  [main] 	Control Panel Ready
+8:27:34 SA  [Apache] 	Attempting to start Apache app...
+8:27:34 SA  [Apache] 	Status change detected: running
+8:27:35 SA  [mysql] 	Attempting to start MySQL app...
+8:27:35 SA  [mysql] 	Status change detected: running
+8:29:19 SA  [Apache] 	Attempting to stop Apache (PID: 1544)
+8:29:19 SA  [Apache] 	Attempting to stop Apache (PID: 21680)
+8:29:19 SA  [Apache] 	Status change detected: stopped
+8:29:20 SA  [Apache] 	Attempting to start Apache app...
+8:29:20 SA  [Apache] 	Status change detected: running
+8:32:20 SA  [Apache] 	Attempting to stop Apache (PID: 9180)
+8:32:20 SA  [Apache] 	Attempting to stop Apache (PID: 3172)
+8:32:20 SA  [Apache] 	Status change detected: stopped
+8:32:21 SA  [Apache] 	Attempting to start Apache app...
+8:32:21 SA  [Apache] 	Status change detected: running
+8:40:00 SA  [Apache] 	Attempting to stop Apache (PID: 2064)
+8:40:00 SA  [Apache] 	Attempting to stop Apache (PID: 17000)
+8:40:00 SA  [Apache] 	Status change detected: stopped
+8:40:01 SA  [Apache] 	Attempting to start Apache app...
+8:40:01 SA  [Apache] 	Status change detected: running
+8:40:11 SA  [Apache] 	Attempting to stop Apache (PID: 21440)
+8:40:11 SA  [Apache] 	Attempting to stop Apache (PID: 2888)
+8:40:12 SA  [Apache] 	Status change detected: stopped
+8:40:12 SA  [Apache] 	Attempting to start Apache app...
+8:40:13 SA  [Apache] 	Status change detected: running
+8:44:25 SA  [Apache] 	Attempting to stop Apache (PID: 6676)
+8:44:25 SA  [Apache] 	Attempting to stop Apache (PID: 9380)
+8:44:26 SA  [Apache] 	Status change detected: stopped
+8:44:26 SA  [Apache] 	Attempting to start Apache app...
+8:44:26 SA  [Apache] 	Status change detected: running
+8:45:16 SA  [Apache] 	Attempting to stop Apache (PID: 2132)
+8:45:16 SA  [Apache] 	Attempting to stop Apache (PID: 20136)
+8:45:16 SA  [Apache] 	Status change detected: stopped
+8:45:17 SA  [Apache] 	Attempting to start Apache app...
+8:45:17 SA  [Apache] 	Status change detected: running
+8:58:11 SA  [Apache] 	Attempting to stop Apache (PID: 3416)
+8:58:11 SA  [Apache] 	Attempting to stop Apache (PID: 21644)
+8:58:11 SA  [Apache] 	Status change detected: stopped
+8:58:13 SA  [mysql] 	Attempting to stop MySQL app...
+8:58:13 SA  [mysql] 	Status change detected: stopped
+9:01:48 SA  [main] 	Deinitializing Modules
+9:01:48 SA  [main] 	Deinitializing Control Panel
+
+1:37:15 CH  [main] 	Initializing Control Panel
+1:37:15 CH  [main] 	Windows Version:  Home  64-bit
+1:37:15 CH  [main] 	XAMPP Version: 7.4.9
+1:37:15 CH  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+1:37:15 CH  [main] 	Running with Administrator rights - good!
+1:37:15 CH  [main] 	XAMPP Installation Directory: "d:\xampp\"
+1:37:15 CH  [main] 	Checking for prerequisites
+1:37:19 CH  [main] 	All prerequisites found
+1:37:19 CH  [main] 	Initializing Modules
+1:37:19 CH  [main] 	Starting Check-Timer
+1:37:19 CH  [main] 	Control Panel Ready
+5:33:22 CH  [main] 	Deinitializing Modules
+5:33:22 CH  [main] 	Deinitializing Control Panel
+
