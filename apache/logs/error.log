@@ -7300,3 +7300,85 @@ AH00548: NameVirtualHost has no effect and will be removed in the next release D
 [Tue Nov 10 02:34:49.688880 2020] [php7:notice] [pid 4220:tid 1836] [client ::1:55722] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/web/
 [Tue Nov 10 02:35:49.109127 2020] [php7:notice] [pid 4220:tid 1820] [client ::1:55744] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/html/
 [Tue Nov 10 02:36:13.017422 2020] [php7:notice] [pid 4220:tid 1836] [client ::1:55745] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/html/t_dang_ky.php
+[Tue Nov 10 08:27:36.416462 2020] [ssl:warn] [pid 1544:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:27:36.470709 2020] [core:warn] [pid 1544:tid 596] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 10 08:27:36.476598 2020] [ssl:warn] [pid 1544:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:27:36.857374 2020] [mpm_winnt:notice] [pid 1544:tid 596] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Tue Nov 10 08:27:36.857374 2020] [mpm_winnt:notice] [pid 1544:tid 596] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Tue Nov 10 08:27:36.857374 2020] [core:notice] [pid 1544:tid 596] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Tue Nov 10 08:27:36.862357 2020] [mpm_winnt:notice] [pid 1544:tid 596] AH00418: Parent: Created child process 21680
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Tue Nov 10 08:27:37.471898 2020] [ssl:warn] [pid 21680:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:27:37.532009 2020] [ssl:warn] [pid 21680:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:27:37.587866 2020] [mpm_winnt:notice] [pid 21680:tid 588] AH00354: Child: Starting 150 worker threads.
+[Tue Nov 10 08:28:01.358685 2020] [php7:notice] [pid 21680:tid 1828] [client ::1:63028] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/web/
+[Tue Nov 10 08:29:20.850158 2020] [ssl:warn] [pid 9180:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:29:20.902544 2020] [core:warn] [pid 9180:tid 608] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 10 08:29:20.908527 2020] [ssl:warn] [pid 9180:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:29:20.937189 2020] [mpm_winnt:notice] [pid 9180:tid 608] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Tue Nov 10 08:29:20.938186 2020] [mpm_winnt:notice] [pid 9180:tid 608] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Tue Nov 10 08:29:20.938186 2020] [core:notice] [pid 9180:tid 608] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Tue Nov 10 08:29:20.941190 2020] [mpm_winnt:notice] [pid 9180:tid 608] AH00418: Parent: Created child process 3172
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Tue Nov 10 08:29:21.437509 2020] [ssl:warn] [pid 3172:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:29:21.490662 2020] [ssl:warn] [pid 3172:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:29:21.526519 2020] [mpm_winnt:notice] [pid 3172:tid 484] AH00354: Child: Starting 150 worker threads.
+[Tue Nov 10 08:29:32.460106 2020] [php7:notice] [pid 3172:tid 1844] [client ::1:63053] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/web/
+[Tue Nov 10 08:32:21.677877 2020] [ssl:warn] [pid 2064:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:32:21.724917 2020] [core:warn] [pid 2064:tid 580] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 10 08:32:21.731141 2020] [ssl:warn] [pid 2064:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:32:21.757755 2020] [mpm_winnt:notice] [pid 2064:tid 580] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Tue Nov 10 08:32:21.757755 2020] [mpm_winnt:notice] [pid 2064:tid 580] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Tue Nov 10 08:32:21.757755 2020] [core:notice] [pid 2064:tid 580] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Tue Nov 10 08:32:21.761719 2020] [mpm_winnt:notice] [pid 2064:tid 580] AH00418: Parent: Created child process 17000
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Tue Nov 10 08:32:22.220720 2020] [ssl:warn] [pid 17000:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:32:22.268848 2020] [ssl:warn] [pid 17000:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:32:22.297004 2020] [mpm_winnt:notice] [pid 17000:tid 608] AH00354: Child: Starting 150 worker threads.
+[Tue Nov 10 08:32:32.571176 2020] [php7:notice] [pid 17000:tid 1836] [client ::1:63108] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/web/
+[Tue Nov 10 08:40:01.664118 2020] [ssl:warn] [pid 21440:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:40:01.710928 2020] [core:warn] [pid 21440:tid 592] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 10 08:40:01.717707 2020] [ssl:warn] [pid 21440:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:40:01.741929 2020] [mpm_winnt:notice] [pid 21440:tid 592] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Tue Nov 10 08:40:01.741929 2020] [mpm_winnt:notice] [pid 21440:tid 592] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Tue Nov 10 08:40:01.741929 2020] [core:notice] [pid 21440:tid 592] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Tue Nov 10 08:40:01.744919 2020] [mpm_winnt:notice] [pid 21440:tid 592] AH00418: Parent: Created child process 2888
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Tue Nov 10 08:40:02.187249 2020] [ssl:warn] [pid 2888:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:40:02.264044 2020] [ssl:warn] [pid 2888:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:40:02.328918 2020] [mpm_winnt:notice] [pid 2888:tid 572] AH00354: Child: Starting 150 worker threads.
+[Tue Nov 10 08:40:13.147236 2020] [ssl:warn] [pid 6676:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:40:13.198572 2020] [core:warn] [pid 6676:tid 504] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 10 08:40:13.204557 2020] [ssl:warn] [pid 6676:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:40:13.234398 2020] [mpm_winnt:notice] [pid 6676:tid 504] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Tue Nov 10 08:40:13.234398 2020] [mpm_winnt:notice] [pid 6676:tid 504] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Tue Nov 10 08:40:13.234398 2020] [core:notice] [pid 6676:tid 504] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Tue Nov 10 08:40:13.240383 2020] [mpm_winnt:notice] [pid 6676:tid 504] AH00418: Parent: Created child process 9380
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Tue Nov 10 08:40:13.731246 2020] [ssl:warn] [pid 9380:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:40:13.789590 2020] [ssl:warn] [pid 9380:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:40:13.821778 2020] [mpm_winnt:notice] [pid 9380:tid 464] AH00354: Child: Starting 150 worker threads.
+[Tue Nov 10 08:40:25.187997 2020] [php7:notice] [pid 9380:tid 1836] [client ::1:63216] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/web/
+[Tue Nov 10 08:41:16.458182 2020] [php7:notice] [pid 9380:tid 1808] [client ::1:63232] PHP Notice:  session_start(): A session had already been started - ignoring in D:\\xampp\\htdocs\\laptrinhweb\\html\\dang_nhap.php on line 7, referer: http://localhost:8080/web/
+[Tue Nov 10 08:44:26.824367 2020] [ssl:warn] [pid 2132:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:44:26.870113 2020] [core:warn] [pid 2132:tid 596] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 10 08:44:26.876565 2020] [ssl:warn] [pid 2132:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:44:26.902320 2020] [mpm_winnt:notice] [pid 2132:tid 596] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Tue Nov 10 08:44:26.902320 2020] [mpm_winnt:notice] [pid 2132:tid 596] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Tue Nov 10 08:44:26.902320 2020] [core:notice] [pid 2132:tid 596] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Tue Nov 10 08:44:26.905280 2020] [mpm_winnt:notice] [pid 2132:tid 596] AH00418: Parent: Created child process 20136
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Tue Nov 10 08:44:27.351303 2020] [ssl:warn] [pid 20136:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:44:27.397637 2020] [ssl:warn] [pid 20136:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:44:27.437141 2020] [mpm_winnt:notice] [pid 20136:tid 576] AH00354: Child: Starting 150 worker threads.
+[Tue Nov 10 08:45:17.989867 2020] [ssl:warn] [pid 3416:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:45:18.035840 2020] [core:warn] [pid 3416:tid 580] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 10 08:45:18.042156 2020] [ssl:warn] [pid 3416:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:45:18.066258 2020] [mpm_winnt:notice] [pid 3416:tid 580] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Tue Nov 10 08:45:18.066258 2020] [mpm_winnt:notice] [pid 3416:tid 580] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Tue Nov 10 08:45:18.066258 2020] [core:notice] [pid 3416:tid 580] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Tue Nov 10 08:45:18.070213 2020] [mpm_winnt:notice] [pid 3416:tid 580] AH00418: Parent: Created child process 21644
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/xampp/apache/conf/extra/httpd-vhosts.conf:20
+[Tue Nov 10 08:45:18.509495 2020] [ssl:warn] [pid 21644:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:45:18.556113 2020] [ssl:warn] [pid 21644:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 10 08:45:18.584361 2020] [mpm_winnt:notice] [pid 21644:tid 548] AH00354: Child: Starting 150 worker threads.
