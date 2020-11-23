@@ -4261,3 +4261,945 @@ InnoDB: using atomic writes.
 2020-11-20  2:11:35 0 [Note] Plugin 'FEEDBACK' is disabled.
 2020-11-20  2:11:35 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
 2020-11-20  2:11:35 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-20  8:47:02 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-20  8:47:02 0 [Note] InnoDB: Uses event mutexes
+2020-11-20  8:47:02 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-20  8:47:02 0 [Note] InnoDB: Number of pools: 1
+2020-11-20  8:47:02 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-20  8:47:02 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-20  8:47:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-20  8:47:02 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=571641
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20  8:47:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20  8:47:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20  8:47:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20  8:47:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20  8:47:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20  8:47:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20  8:47:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20  8:47:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20  8:47:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20  8:47:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20  8:47:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20  8:47:02 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20  8:47:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20  8:47:02 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:02 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20  8:47:03 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-20  8:47:03 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20  8:47:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:03 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-20  8:47:03 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20  8:47:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20  8:47:03 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20  8:47:03 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-20  8:47:03 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-20  8:47:03 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-20  8:47:03 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-20  8:47:03 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-20  8:47:03 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-20  8:47:03 0 [Note] InnoDB: Waiting for purge to start
+2020-11-20  8:47:03 0 [Note] InnoDB: Waiting for purge to start
+2020-11-20  8:47:03 0 [Note] InnoDB: Waiting for purge to start
+2020-11-20  8:47:03 0 [Note] InnoDB: Waiting for purge to start
+2020-11-20  8:47:03 0 [Note] InnoDB: Waiting for purge to start
+2020-11-20  8:47:03 0 [Note] InnoDB: 10.4.14 started; log sequence number 571650; transaction id 1032
+2020-11-20  8:47:03 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-20  8:47:03 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-20  8:47:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-20  8:47:03 0 [Note] Server socket created on IP: '::'.
+2020-11-20 11:55:16 0 [Note] mysqld.exe: Aria engine: starting recovery
+recovered pages: 0% 13% 27% 40% 53% 66% 79% 93% 100% (0.0 seconds); tables to flush: 1 0
+ (0.0 seconds); 
+2020-11-20 11:55:16 0 [Note] mysqld.exe: Aria engine: recovery done
+InnoDB: using atomic writes.
+2020-11-20 11:55:16 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-20 11:55:16 0 [Note] InnoDB: Uses event mutexes
+2020-11-20 11:55:16 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-20 11:55:16 0 [Note] InnoDB: Number of pools: 1
+2020-11-20 11:55:16 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-20 11:55:16 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-20 11:55:16 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-20 11:55:17 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=571970
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 11:55:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 11:55:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 11:55:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 11:55:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 11:55:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 11:55:17 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 11:55:17 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 11:55:17 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-20 11:55:17 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-20 11:55:17 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-20 11:55:17 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-20 11:55:17 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-20 11:55:17 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-20 11:55:17 0 [Note] InnoDB: Waiting for purge to start
+2020-11-20 11:55:17 0 [Note] InnoDB: 10.4.14 started; log sequence number 571979; transaction id 1036
+2020-11-20 11:55:17 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-20 11:55:17 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-20 11:55:17 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-20 11:55:17 0 [Note] Server socket created on IP: '::'.
+2020-11-20 18:05:38 0 [Note] mysqld.exe: Aria engine: starting recovery
+recovered pages: 0% 11% 21% 36% 46% 62% 75% 87% 100% (0.0 seconds); tables to flush: 1 0
+ (0.0 seconds); 
+2020-11-20 18:05:38 0 [Note] mysqld.exe: Aria engine: recovery done
+InnoDB: using atomic writes.
+2020-11-20 18:05:38 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-20 18:05:38 0 [Note] InnoDB: Uses event mutexes
+2020-11-20 18:05:38 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-20 18:05:38 0 [Note] InnoDB: Number of pools: 1
+2020-11-20 18:05:38 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-20 18:05:38 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-20 18:05:38 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-20 18:05:38 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=571988
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 18:05:38 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 18:05:38 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 18:05:38 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 18:05:38 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 18:05:38 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 18:05:38 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 18:05:38 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 18:05:38 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-20 18:05:38 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-20 18:05:38 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-20 18:05:38 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-20 18:05:38 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-20 18:05:38 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-20 18:05:38 0 [Note] InnoDB: Waiting for purge to start
+2020-11-20 18:05:38 0 [Note] InnoDB: 10.4.14 started; log sequence number 571997; transaction id 1036
+2020-11-20 18:05:38 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-20 18:05:38 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-20 18:05:38 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-20 18:05:38 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-20 20:28:43 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-20 20:28:43 0 [Note] InnoDB: Uses event mutexes
+2020-11-20 20:28:43 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-20 20:28:43 0 [Note] InnoDB: Number of pools: 1
+2020-11-20 20:28:43 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-20 20:28:43 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-20 20:28:43 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-20 20:28:43 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=572006
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 20:28:44 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 20:28:44 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 20:28:44 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 20:28:44 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 20:28:44 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-20 20:28:44 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-20 20:28:44 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-20 20:28:44 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-20 20:28:44 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-20 20:28:44 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-20 20:28:44 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-20 20:28:44 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-20 20:28:44 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-20 20:28:44 0 [Note] InnoDB: Waiting for purge to start
+2020-11-20 20:28:44 0 [Note] InnoDB: 10.4.14 started; log sequence number 572015; transaction id 1036
+2020-11-20 20:28:44 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-20 20:28:44 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-20 20:28:44 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-20 20:28:44 0 [Note] Server socket created on IP: '::'.
+2020-11-21  8:35:47 0 [Note] mysqld.exe: Aria engine: starting recovery
+recovered pages: 0% 27% 49% 75% 97% 100% (0.0 seconds); tables to flush: 1 0
+ (0.0 seconds); 
+2020-11-21  8:35:47 0 [Note] mysqld.exe: Aria engine: recovery done
+InnoDB: using atomic writes.
+2020-11-21  8:35:47 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-21  8:35:47 0 [Note] InnoDB: Uses event mutexes
+2020-11-21  8:35:47 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-21  8:35:47 0 [Note] InnoDB: Number of pools: 1
+2020-11-21  8:35:47 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-21  8:35:47 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-21  8:35:47 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-21  8:35:48 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=632069
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21  8:35:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21  8:35:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21  8:35:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21  8:35:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21  8:35:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21  8:35:48 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21  8:35:48 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21  8:35:48 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-21  8:35:48 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-21  8:35:48 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-21  8:35:48 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-21  8:35:48 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-21  8:35:48 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-21  8:35:48 0 [Note] InnoDB: Waiting for purge to start
+2020-11-21  8:35:48 0 [Note] InnoDB: 10.4.14 started; log sequence number 632078; transaction id 1218
+2020-11-21  8:35:48 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-21  8:35:48 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-21  8:35:48 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-21  8:35:48 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-21 10:23:24 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-21 10:23:24 0 [Note] InnoDB: Uses event mutexes
+2020-11-21 10:23:24 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-21 10:23:24 0 [Note] InnoDB: Number of pools: 1
+2020-11-21 10:23:24 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-21 10:23:24 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-21 10:23:24 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-21 10:23:24 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=632087
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21 10:23:24 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21 10:23:24 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21 10:23:24 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21 10:23:24 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21 10:23:24 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-21 10:23:24 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-21 10:23:24 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-21 10:23:24 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-21 10:23:24 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-21 10:23:24 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-21 10:23:24 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-21 10:23:24 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-21 10:23:24 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-21 10:23:24 0 [Note] InnoDB: Waiting for purge to start
+2020-11-21 10:23:24 0 [Note] InnoDB: 10.4.14 started; log sequence number 632096; transaction id 1218
+2020-11-21 10:23:24 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-21 10:23:24 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-21 10:23:24 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-21 10:23:24 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-23  3:05:20 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-23  3:05:20 0 [Note] InnoDB: Uses event mutexes
+2020-11-23  3:05:20 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-23  3:05:20 0 [Note] InnoDB: Number of pools: 1
+2020-11-23  3:05:20 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-23  3:05:20 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-23  3:05:20 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-23  3:05:20 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=632105
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:20 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:20 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:20 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:20 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:20 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:20 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-23  3:05:20 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-23  3:05:20 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-23  3:05:20 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-23  3:05:20 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-23  3:05:20 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-23  3:05:20 0 [Note] InnoDB: Waiting for purge to start
+2020-11-23  3:05:20 0 [Note] InnoDB: 10.4.14 started; log sequence number 632114; transaction id 1218
+2020-11-23  3:05:20 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-23  3:05:20 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-23  3:05:20 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-23  3:05:20 0 [Note] Server socket created on IP: '::'.
+2020-11-23  3:05:21 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2020-11-23  3:05:21 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.info'
+2020-11-23  3:05:21 7 [Warning] Neither --relay-log nor --relay-log-index were used; so replication may break when this MySQL server acts as a slave and has his hostname changed!! Please use '--log-basename=#' or '--relay-log=mysql-relay-bin' to avoid this problem.
+2020-11-23  3:05:21 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.info'
+2020-11-23  3:05:21 7 [Note] Added new Master_info '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded' to hash table
+2020-11-23  3:05:21 8 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  3:05:21 7 [Note] Started replication for '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded'
+2020-11-23  3:05:21 8 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  3:05:21 9 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001' position: 4
+2020-11-23  3:05:21 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'
+2020-11-23  3:05:21 8 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  3:05:21 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  3:05:21 8 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O thread killed while connecting to master
+2020-11-23  3:05:21 8 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  3:05:21 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'
+2020-11-23  3:05:21 7 [Note] Added new Master_info '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table' to hash table
+2020-11-23  3:05:21 7 [Note] Started replication for '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table'
+2020-11-23  3:05:21 11 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.000001' position: 4
+2020-11-23  3:05:21 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'
+2020-11-23  3:05:21 10 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  3:05:21 11 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  3:05:21 10 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  3:05:21 10 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  3:05:21 10 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O thread killed while connecting to master
+2020-11-23  3:05:21 10 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  3:05:21 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'
+2020-11-23  3:05:21 7 [Note] Added new Master_info '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.' to hash table
+2020-11-23  3:05:21 12 [ERROR] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  3:05:21 12 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  3:05:21 12 [ERROR] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  3:05:21 7 [Note] Started replication for '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.'
+2020-11-23  3:05:21 12 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread killed while connecting to master
+2020-11-23  3:05:21 13 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000001' position: 4
+2020-11-23  3:05:21 12 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  3:05:21 7 [Note] Reading Master_info: 'master-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'  Relay_info:'relay-log-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'
+2020-11-23  3:05:21 13 [ERROR] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  3:05:21 7 [Note] Initialized Master_info from 'master-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'
+2020-11-23  3:05:21 7 [Note] Added new Master_info 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution' to hash table
+2020-11-23  3:05:21 7 [Note] Started replication for 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution'
+2020-11-23  3:05:21 14 [ERROR] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  3:05:21 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.info'
+2020-11-23  3:05:21 15 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.000001' position: 4
+2020-11-23  3:05:21 14 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  3:05:21 14 [ERROR] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  3:05:21 15 [ERROR] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  3:05:21 14 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread killed while connecting to master
+2020-11-23  3:05:21 14 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  3:05:21 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.info'
+2020-11-23  3:05:21 7 [Note] Added new Master_info '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.' to hash table
+2020-11-23  3:05:21 7 [Note] Started replication for '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.'
+2020-11-23  3:05:21 17 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.000001' position: 4
+2020-11-23  3:05:21 16 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  3:05:21 0 [Note] Reading of all Master_info entries succeeded
+2020-11-23  3:05:21 17 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  3:05:21 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  3:05:21 0 [Note] Added new Master_info '' to hash table
+2020-11-23  3:05:21 16 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  3:05:21 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-11-23  3:05:21 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread killed while connecting to master
+2020-11-23  3:05:21 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  3:05:21 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Error in Log_event::read_log_event(): 'Event truncated', data_len: 941629489, event_type: 45
+2020-11-23  3:05:21 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Error reading relay log event: slave SQL thread aborted because of I/O error
+2020-11-23  3:05:21 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL: Relay log read failure: Could not parse relay log event entry. The possible reasons are: the master's binary log is corrupted (you can check this by running 'mysqlbinlog' on the binary log), the slave's relay log is corrupted (you can check this by running 'mysqlbinlog' on the relay log), a network problem, or a bug in the master's or slave's MySQL code. If you want to check the master's binary log or slave's relay log, you will be able to know their names by issuing 'SHOW SLAVE STATUS' on this slave. Internal MariaDB error code: 1594
+2020-11-23  3:05:21 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave (additional info): Table 'mysql.gtid_slave_pos' doesn't exist in engine Error_code: 1932
+2020-11-23  3:05:21 9 [Warning] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave: Table 'mysql.gtid_slave_pos' doesn't exist in engine Error_code: 1932
+2020-11-23  3:05:21 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Error running query, slave SQL thread aborted. Fix the problem, and restart the slave SQL thread with "SLAVE START". We stopped at log 'FIRST' position 0
+2020-11-23  3:05:21 9 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL thread exiting, replication stopped in log 'FIRST' at position 0
+InnoDB: using atomic writes.
+2020-11-23  3:05:51 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-23  3:05:51 0 [Note] InnoDB: Uses event mutexes
+2020-11-23  3:05:51 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-23  3:05:51 0 [Note] InnoDB: Number of pools: 1
+2020-11-23  3:05:51 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-23  3:05:51 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-23  3:05:51 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-23  3:05:51 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=632123
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:51 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:51 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:51 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:51 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:51 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  3:05:51 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  3:05:51 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  3:05:51 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-23  3:05:51 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-23  3:05:51 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-23  3:05:51 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-23  3:05:51 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-23  3:05:51 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-23  3:05:51 0 [Note] InnoDB: Waiting for purge to start
+2020-11-23  3:05:51 0 [Note] InnoDB: 10.4.14 started; log sequence number 632132; transaction id 1218
+2020-11-23  3:05:51 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-23  3:05:51 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-23  3:05:51 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-23  3:05:51 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-23  8:03:19 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-23  8:03:19 0 [Note] InnoDB: Uses event mutexes
+2020-11-23  8:03:19 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-23  8:03:19 0 [Note] InnoDB: Number of pools: 1
+2020-11-23  8:03:19 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-23  8:03:19 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-23  8:03:19 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-23  8:03:19 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=632141
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  8:03:19 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  8:03:19 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  8:03:19 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  8:03:19 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  8:03:19 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  8:03:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  8:03:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  8:03:19 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-23  8:03:19 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-23  8:03:19 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-23  8:03:19 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-23  8:03:19 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-23  8:03:19 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-23  8:03:19 0 [Note] InnoDB: Waiting for purge to start
+2020-11-23  8:03:19 0 [Note] InnoDB: 10.4.14 started; log sequence number 632150; transaction id 1218
+2020-11-23  8:03:19 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-23  8:03:19 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-23  8:03:19 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-23  8:03:19 0 [Note] Server socket created on IP: '::'.
+2020-11-23  9:24:07 0 [Note] mysqld.exe: Aria engine: starting recovery
+recovered pages: 0% 11% 22% 33% 43% 55% 67% 79% 91% 100% (0.0 seconds); tables to flush: 1 0
+ (0.0 seconds); 
+2020-11-23  9:24:07 0 [Note] mysqld.exe: Aria engine: recovery done
+InnoDB: using atomic writes.
+2020-11-23  9:24:07 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-23  9:24:07 0 [Note] InnoDB: Uses event mutexes
+2020-11-23  9:24:07 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-23  9:24:07 0 [Note] InnoDB: Number of pools: 1
+2020-11-23  9:24:07 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-23  9:24:07 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-23  9:24:07 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-23  9:24:08 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=683073
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:24:08 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:24:08 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:24:08 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:24:08 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:24:08 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:24:08 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:24:08 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:24:08 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-23  9:24:08 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-23  9:24:08 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-23  9:24:08 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-23  9:24:08 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-23  9:24:08 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-23  9:24:08 0 [Note] InnoDB: Waiting for purge to start
+2020-11-23  9:24:08 0 [Note] InnoDB: 10.4.14 started; log sequence number 683082; transaction id 1302
+2020-11-23  9:24:08 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-23  9:24:08 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-23  9:24:08 0 [Note] InnoDB: Cannot open 'D:\xampp\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2020-11-23  9:24:08 0 [Note] Server socket created on IP: '::'.
+2020-11-23  9:24:08 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2020-11-23  9:24:08 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.info'
+2020-11-23  9:24:08 7 [Warning] Neither --relay-log nor --relay-log-index were used; so replication may break when this MySQL server acts as a slave and has his hostname changed!! Please use '--log-basename=#' or '--relay-log=mysql-relay-bin' to avoid this problem.
+2020-11-23  9:24:08 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.info'
+2020-11-23  9:24:08 7 [Note] Added new Master_info '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded' to hash table
+2020-11-23  9:24:08 7 [Note] Started replication for '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded'
+2020-11-23  9:24:08 9 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001' position: 4
+2020-11-23  9:24:08 8 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:24:08 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'
+2020-11-23  9:24:08 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:24:08 8 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  9:24:08 8 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  9:24:08 8 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O thread killed while connecting to master
+2020-11-23  9:24:08 8 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  9:24:08 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'
+2020-11-23  9:24:08 7 [Note] Added new Master_info '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table' to hash table
+2020-11-23  9:24:08 7 [Note] Started replication for '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table'
+2020-11-23  9:24:08 11 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.000001' position: 4
+2020-11-23  9:24:08 10 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:24:08 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'
+2020-11-23  9:24:08 11 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:24:08 10 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  9:24:08 10 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  9:24:08 10 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O thread killed while connecting to master
+2020-11-23  9:24:08 10 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  9:24:08 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'
+2020-11-23  9:24:08 7 [Note] Added new Master_info '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.' to hash table
+2020-11-23  9:24:08 7 [Note] Started replication for '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.'
+2020-11-23  9:24:08 13 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000001' position: 4
+2020-11-23  9:24:09 12 [ERROR] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:24:09 7 [Note] Reading Master_info: 'master-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'  Relay_info:'relay-log-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'
+2020-11-23  9:24:09 13 [ERROR] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:24:09 12 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  9:24:09 12 [ERROR] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  9:24:09 12 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread killed while connecting to master
+2020-11-23  9:24:09 12 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  9:24:09 7 [Note] Initialized Master_info from 'master-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'
+2020-11-23  9:24:09 7 [Note] Added new Master_info 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution' to hash table
+2020-11-23  9:24:09 7 [Note] Started replication for 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution'
+2020-11-23  9:24:09 15 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.000001' position: 4
+2020-11-23  9:24:09 14 [ERROR] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:24:09 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.info'
+2020-11-23  9:24:09 15 [ERROR] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:24:09 14 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  9:24:09 14 [ERROR] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  9:24:09 14 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread killed while connecting to master
+2020-11-23  9:24:09 14 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  9:24:09 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.info'
+2020-11-23  9:24:09 7 [Note] Added new Master_info '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.' to hash table
+2020-11-23  9:24:09 7 [Note] Started replication for '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.'
+2020-11-23  9:24:09 17 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.000001' position: 4
+2020-11-23  9:24:09 16 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:24:09 0 [Note] Reading of all Master_info entries succeeded
+2020-11-23  9:24:09 17 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:24:09 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  9:24:09 0 [Note] Added new Master_info '' to hash table
+2020-11-23  9:24:09 16 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  9:24:09 0 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-11-23  9:24:09 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread killed while connecting to master
+2020-11-23  9:24:09 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  9:24:09 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Error in Log_event::read_log_event(): 'Event truncated', data_len: 941629489, event_type: 45
+2020-11-23  9:24:09 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Error reading relay log event: slave SQL thread aborted because of I/O error
+2020-11-23  9:24:09 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL: Relay log read failure: Could not parse relay log event entry. The possible reasons are: the master's binary log is corrupted (you can check this by running 'mysqlbinlog' on the binary log), the slave's relay log is corrupted (you can check this by running 'mysqlbinlog' on the relay log), a network problem, or a bug in the master's or slave's MySQL code. If you want to check the master's binary log or slave's relay log, you will be able to know their names by issuing 'SHOW SLAVE STATUS' on this slave. Internal MariaDB error code: 1594
+2020-11-23  9:24:09 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave (additional info): Table 'mysql.gtid_slave_pos' doesn't exist in engine Error_code: 1932
+2020-11-23  9:24:09 9 [Warning] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave: Table 'mysql.gtid_slave_pos' doesn't exist in engine Error_code: 1932
+2020-11-23  9:24:09 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Error running query, slave SQL thread aborted. Fix the problem, and restart the slave SQL thread with "SLAVE START". We stopped at log 'FIRST' position 0
+2020-11-23  9:24:09 9 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL thread exiting, replication stopped in log 'FIRST' at position 0
+2020-11-23  9:36:39 0 [Note] D:\xampp\mysql\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2020-11-23  9:36:39 0 [Note] Event Scheduler: Purging the queue. 0 events
+2020-11-23  9:36:39 0 [Note] InnoDB: FTS optimize thread exiting.
+2020-11-23  9:36:39 13 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Error reading relay log event: slave SQL thread was killed
+2020-11-23  9:36:39 13 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave SQL thread exiting, replication stopped in log 'FIRST' at position 0
+2020-11-23  9:36:39 17 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Error reading relay log event: slave SQL thread was killed
+2020-11-23  9:36:39 17 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave SQL thread exiting, replication stopped in log 'FIRST' at position 0
+2020-11-23  9:36:39 11 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Error reading relay log event: slave SQL thread was killed
+2020-11-23  9:36:39 11 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave SQL thread exiting, replication stopped in log 'FIRST' at position 0
+2020-11-23  9:36:39 15 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Error reading relay log event: slave SQL thread was killed
+2020-11-23  9:36:39 15 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave SQL thread exiting, replication stopped in log 'FIRST' at position 0
+2020-11-23  9:36:39 0 [Note] InnoDB: Starting shutdown...
+2020-11-23  9:36:39 0 [Note] InnoDB: Dumping buffer pool(s) to D:\xampp\mysql\data\ib_buffer_pool
+2020-11-23  9:36:39 0 [Note] InnoDB: Instance 0, restricted to 250 pages due to innodb_buf_pool_dump_pct=25
+2020-11-23  9:36:39 0 [Note] InnoDB: Buffer pool(s) dump completed at 201123  9:36:39
+2020-11-23  9:36:40 0 [Note] InnoDB: Shutdown completed; log sequence number 683100; transaction id 1302
+2020-11-23  9:36:40 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-23  9:36:40 0 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+InnoDB: using atomic writes.
+2020-11-23  9:37:45 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-23  9:37:45 0 [Note] InnoDB: Uses event mutexes
+2020-11-23  9:37:45 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-23  9:37:45 0 [Note] InnoDB: Number of pools: 1
+2020-11-23  9:37:45 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-23  9:37:45 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-23  9:37:45 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___cashbalance.ibd' OS error: 71
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___cashbalance``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:37:45 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___cashbalance` because it could not be opened.
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___dailymoney.ibd' OS error: 71
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___dailymoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:37:45 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___dailymoney` because it could not be opened.
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___incomemoney.ibd' OS error: 71
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___incomemoney``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:37:45 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___incomemoney` because it could not be opened.
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyinvested.ibd' OS error: 71
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:37:45 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyinvested` because it could not be opened.
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___moneyshopping.ibd' OS error: 71
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:37:45 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___moneyshopping` because it could not be opened.
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\qlct\quanlytaichitieucanhan_xlsx___statistical.ibd' OS error: 71
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2020-11-23  9:37:45 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2020-11-23  9:37:45 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``qlct`.`quanlytaichitieucanhan_xlsx___statistical``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2020-11-23  9:37:45 0 [Warning] InnoDB: Ignoring tablespace for `qlct`.`quanlytaichitieucanhan_xlsx___statistical` because it could not be opened.
+2020-11-23  9:37:45 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-23  9:37:45 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-23  9:37:45 0 [Note] InnoDB: Setting file 'D:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-23  9:37:45 0 [Note] InnoDB: File 'D:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-23  9:37:45 0 [Note] InnoDB: Waiting for purge to start
+2020-11-23  9:37:45 0 [Note] InnoDB: 10.4.14 started; log sequence number 683100; transaction id 1302
+2020-11-23  9:37:45 0 [Note] InnoDB: Loading buffer pool(s) from D:\xampp\mysql\data\ib_buffer_pool
+2020-11-23  9:37:45 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-23  9:37:45 0 [Note] InnoDB: Buffer pool(s) load completed at 201123  9:37:45
+2020-11-23  9:37:45 0 [Note] Server socket created on IP: '::'.
+2020-11-23  9:37:45 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2020-11-23  9:37:45 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.info'
+2020-11-23  9:37:45 7 [Warning] Neither --relay-log nor --relay-log-index were used; so replication may break when this MySQL server acts as a slave and has his hostname changed!! Please use '--log-basename=#' or '--relay-log=mysql-relay-bin' to avoid this problem.
+2020-11-23  9:37:45 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.info'
+2020-11-23  9:37:45 7 [Note] Added new Master_info '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded' to hash table
+2020-11-23  9:37:45 7 [Note] Started replication for '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded'
+2020-11-23  9:37:45 9 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001' position: 4
+2020-11-23  9:37:45 8 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:37:45 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'
+2020-11-23  9:37:45 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:37:45 8 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  9:37:45 8 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  9:37:45 8 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O thread killed while connecting to master
+2020-11-23  9:37:45 8 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  9:37:45 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'
+2020-11-23  9:37:45 7 [Note] Added new Master_info '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table' to hash table
+2020-11-23  9:37:45 7 [Note] Started replication for '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table'
+2020-11-23  9:37:45 11 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.000001' position: 4
+2020-11-23  9:37:45 10 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:37:45 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'
+2020-11-23  9:37:45 11 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:37:45 10 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  9:37:45 10 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  9:37:45 10 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O thread killed while connecting to master
+2020-11-23  9:37:45 10 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  9:37:45 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'
+2020-11-23  9:37:45 7 [Note] Added new Master_info '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.' to hash table
+2020-11-23  9:37:45 7 [Note] Started replication for '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.'
+2020-11-23  9:37:45 13 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a21@003a52@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000001' position: 4
+2020-11-23  9:37:45 12 [ERROR] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:37:45 7 [Note] Reading Master_info: 'master-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'  Relay_info:'relay-log-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'
+2020-11-23  9:37:45 13 [ERROR] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:37:45 12 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  9:37:45 12 [ERROR] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  9:37:45 12 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread killed while connecting to master
+2020-11-23  9:37:45 12 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  9:37:45 7 [Note] Initialized Master_info from 'master-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'
+2020-11-23  9:37:45 7 [Note] Added new Master_info 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution' to hash table
+2020-11-23  9:37:45 7 [Note] Started replication for 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution'
+2020-11-23  9:37:45 15 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-version@003a@0020@002710@002e4@002e14@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.000001' position: 4
+2020-11-23  9:37:45 14 [ERROR] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:37:45 7 [Note] Reading Master_info: 'master-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.info'  Relay_info:'relay-log-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.info'
+2020-11-23  9:37:45 15 [ERROR] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:37:45 14 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  9:37:45 14 [ERROR] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  9:37:45 14 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread killed while connecting to master
+2020-11-23  9:37:45 14 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  9:37:46 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.info'
+2020-11-23  9:37:46 7 [Note] Added new Master_info '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.' to hash table
+2020-11-23  9:37:46 7 [Note] Started replication for '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.'
+2020-11-23  9:37:46 17 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.000001' position: 4
+2020-11-23  9:37:46 16 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:37:46 0 [Note] Reading of all Master_info entries succeeded
+2020-11-23  9:37:46 17 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-23  9:37:46 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-23  9:37:46 0 [Note] Added new Master_info '' to hash table
+2020-11-23  9:37:46 16 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-23  9:37:46 0 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-11-23  9:37:46 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread killed while connecting to master
+2020-11-23  9:37:46 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-23  9:37:46 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Error in Log_event::read_log_event(): 'Event truncated', data_len: 941629489, event_type: 45
+2020-11-23  9:37:46 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Error reading relay log event: slave SQL thread aborted because of I/O error
+2020-11-23  9:37:46 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL: Relay log read failure: Could not parse relay log event entry. The possible reasons are: the master's binary log is corrupted (you can check this by running 'mysqlbinlog' on the binary log), the slave's relay log is corrupted (you can check this by running 'mysqlbinlog' on the relay log), a network problem, or a bug in the master's or slave's MySQL code. If you want to check the master's binary log or slave's relay log, you will be able to know their names by issuing 'SHOW SLAVE STATUS' on this slave. Internal MariaDB error code: 1594
+2020-11-23  9:37:46 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave (additional info): Table 'mysql.gtid_slave_pos' doesn't exist in engine Error_code: 1932
+2020-11-23  9:37:46 9 [Warning] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave: Table 'mysql.gtid_slave_pos' doesn't exist in engine Error_code: 1932
+2020-11-23  9:37:46 9 [ERROR] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Error running query, slave SQL thread aborted. Fix the problem, and restart the slave SQL thread with "SLAVE START". We stopped at log 'FIRST' position 0
+2020-11-23  9:37:46 9 [Note] Master '2020-10-30 15:21:52 0 [Note] Reading of all Master_info entries succeeded': Slave SQL thread exiting, replication stopped in log 'FIRST' at position 0
+2020-11-23  9:41:03 0 [Note] D:\xampp\mysql\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2020-11-23  9:41:03 0 [Note] Event Scheduler: Purging the queue. 0 events
+2020-11-23  9:41:03 0 [Note] InnoDB: FTS optimize thread exiting.
+2020-11-23  9:41:03 13 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Error reading relay log event: slave SQL thread was killed
+2020-11-23  9:41:03 13 [Note] Master '2020-10-30 15:21:52 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.': Slave SQL thread exiting, replication stopped in log 'FIRST' at position 0
+2020-11-23  9:41:03 17 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Error reading relay log event: slave SQL thread was killed
+2020-11-23  9:41:03 17 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave SQL thread exiting, replication stopped in log 'FIRST' at position 0
+2020-11-23  9:41:03 11 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Error reading relay log event: slave SQL thread was killed
+2020-11-23  9:41:03 11 [Note] Master '2020-10-30 15:21:52 0 [Note] Added new Master_info '' to hash table': Slave SQL thread exiting, replication stopped in log 'FIRST' at position 0
+2020-11-23  9:41:03 15 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Error reading relay log event: slave SQL thread was killed
+2020-11-23  9:41:03 15 [Note] Master 'Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave SQL thread exiting, replication stopped in log 'FIRST' at position 0
+2020-11-23  9:41:03 0 [Note] InnoDB: Starting shutdown...
+2020-11-23  9:41:03 0 [Note] InnoDB: Dumping buffer pool(s) to D:\xampp\mysql\data\ib_buffer_pool
+2020-11-23  9:41:03 0 [Note] InnoDB: Instance 0, restricted to 250 pages due to innodb_buf_pool_dump_pct=25
+2020-11-23  9:41:03 0 [Note] InnoDB: Buffer pool(s) dump completed at 201123  9:41:03
+2020-11-23  9:41:04 0 [Note] InnoDB: Shutdown completed; log sequence number 683109; transaction id 1302
+2020-11-23  9:41:04 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-23  9:41:04 0 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+

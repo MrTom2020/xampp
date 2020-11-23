@@ -5083,3 +5083,2083 @@
 11:06:14 SA  [main] 	Deinitializing Modules
 11:06:14 SA  [main] 	Deinitializing Control Panel
 
+10:55:04 CH  [main] 	Initializing Control Panel
+10:55:04 CH  [main] 	Windows Version:  Home  64-bit
+10:55:04 CH  [main] 	XAMPP Version: 7.4.9
+10:55:04 CH  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:55:04 CH  [main] 	Running with Administrator rights - good!
+10:55:04 CH  [main] 	XAMPP Installation Directory: "d:\xampp\"
+10:55:04 CH  [main] 	Checking for prerequisites
+10:55:04 CH  [main] 	All prerequisites found
+10:55:04 CH  [main] 	Initializing Modules
+10:55:04 CH  [main] 	Starting Check-Timer
+10:55:04 CH  [main] 	Control Panel Ready
+10:55:07 CH  [Apache] 	Attempting to start Apache app...
+10:55:07 CH  [Apache] 	Status change detected: running
+10:55:14 CH  [mysql] 	Attempting to start MySQL app...
+10:55:14 CH  [mysql] 	Status change detected: running
+11:09:04 CH  [Apache] 	Attempting to stop Apache (PID: 1216)
+11:09:04 CH  [Apache] 	Attempting to stop Apache (PID: 5668)
+11:09:04 CH  [Apache] 	Status change detected: stopped
+11:09:04 CH  [Apache] 	Attempting to start Apache app...
+11:09:04 CH  [Apache] 	Status change detected: running
+11:10:15 CH  [Apache] 	Attempting to stop Apache (PID: 9644)
+11:10:15 CH  [Apache] 	Attempting to stop Apache (PID: 14208)
+11:10:16 CH  [Apache] 	Status change detected: stopped
+11:10:16 CH  [Apache] 	Attempting to start Apache app...
+11:10:16 CH  [Apache] 	Status change detected: running
+11:11:17 CH  [Apache] 	Attempting to stop Apache (PID: 900)
+11:11:17 CH  [Apache] 	Attempting to stop Apache (PID: 10452)
+11:11:17 CH  [Apache] 	Attempting to stop Apache (PID: 900)
+11:11:17 CH  [Apache] 	Problem killing PID 900
+11:11:17 CH  [Apache] 	Check that you have the proper privileges
+11:11:17 CH  [Apache] 	Attempting to stop Apache (PID: 10452)
+11:11:17 CH  [Apache] 	Problem killing PID 10452
+11:11:17 CH  [Apache] 	Check that you have the proper privileges
+11:11:17 CH  [Apache] 	Status change detected: stopped
+11:11:19 CH  [Apache] 	Attempting to start Apache app...
+11:11:20 CH  [Apache] 	Status change detected: running
+11:12:29 CH  [Apache] 	Attempting to stop Apache (PID: 16808)
+11:12:29 CH  [Apache] 	Attempting to stop Apache (PID: 13932)
+11:12:29 CH  [Apache] 	Attempting to stop Apache (PID: 16808)
+11:12:29 CH  [Apache] 	Problem killing PID 16808
+11:12:29 CH  [Apache] 	Check that you have the proper privileges
+11:12:29 CH  [Apache] 	Attempting to stop Apache (PID: 13932)
+11:12:29 CH  [Apache] 	Problem killing PID 13932
+11:12:29 CH  [Apache] 	Check that you have the proper privileges
+11:12:29 CH  [Apache] 	Status change detected: stopped
+11:12:33 CH  [Apache] 	Attempting to start Apache app...
+11:12:33 CH  [Apache] 	Status change detected: running
+11:15:09 CH  [Apache] 	Attempting to stop Apache (PID: 11568)
+11:15:09 CH  [Apache] 	Attempting to stop Apache (PID: 15484)
+11:15:09 CH  [Apache] 	Status change detected: stopped
+11:15:10 CH  [Apache] 	Attempting to start Apache app...
+11:15:10 CH  [Apache] 	Status change detected: running
+11:17:06 CH  [Apache] 	Attempting to stop Apache (PID: 6808)
+11:17:06 CH  [Apache] 	Attempting to stop Apache (PID: 5416)
+11:17:06 CH  [Apache] 	Status change detected: stopped
+11:17:07 CH  [Apache] 	Attempting to start Apache app...
+11:17:07 CH  [Apache] 	Status change detected: running
+11:17:55 CH  [Apache] 	Attempting to stop Apache (PID: 120)
+11:17:55 CH  [Apache] 	Attempting to stop Apache (PID: 11584)
+11:17:55 CH  [Apache] 	Status change detected: stopped
+11:17:56 CH  [Apache] 	Attempting to start Apache app...
+11:17:56 CH  [Apache] 	Status change detected: running
+11:18:38 CH  [Apache] 	Attempting to stop Apache (PID: 10388)
+11:18:38 CH  [Apache] 	Attempting to stop Apache (PID: 8888)
+11:18:38 CH  [Apache] 	Status change detected: stopped
+11:18:39 CH  [Apache] 	Attempting to start Apache app...
+11:18:39 CH  [Apache] 	Status change detected: running
+11:25:29 CH  [Apache] 	Attempting to stop Apache (PID: 12864)
+11:25:29 CH  [Apache] 	Attempting to stop Apache (PID: 10380)
+11:25:29 CH  [Apache] 	Status change detected: stopped
+11:25:30 CH  [Apache] 	Attempting to start Apache app...
+11:25:30 CH  [Apache] 	Status change detected: running
+11:28:28 CH  [Apache] 	Attempting to stop Apache (PID: 12116)
+11:28:28 CH  [Apache] 	Attempting to stop Apache (PID: 17080)
+11:28:28 CH  [Apache] 	Status change detected: stopped
+11:28:28 CH  [Apache] 	Attempting to start Apache app...
+11:28:29 CH  [Apache] 	Status change detected: running
+11:30:31 CH  [Apache] 	Attempting to stop Apache (PID: 9900)
+11:30:31 CH  [Apache] 	Attempting to stop Apache (PID: 6988)
+11:30:31 CH  [Apache] 	Status change detected: stopped
+11:30:32 CH  [Apache] 	Attempting to start Apache app...
+11:30:32 CH  [Apache] 	Status change detected: running
+11:32:06 CH  [Apache] 	Attempting to stop Apache (PID: 17148)
+11:32:06 CH  [Apache] 	Attempting to stop Apache (PID: 11652)
+11:32:06 CH  [Apache] 	Status change detected: stopped
+11:32:07 CH  [Apache] 	Attempting to start Apache app...
+11:32:07 CH  [Apache] 	Status change detected: running
+11:34:55 CH  [Apache] 	Attempting to stop Apache (PID: 16288)
+11:34:55 CH  [Apache] 	Attempting to stop Apache (PID: 3192)
+11:34:55 CH  [Apache] 	Status change detected: stopped
+11:34:55 CH  [Apache] 	Attempting to start Apache app...
+11:34:55 CH  [Apache] 	Status change detected: running
+11:37:32 CH  [Apache] 	Attempting to stop Apache (PID: 8468)
+11:37:32 CH  [Apache] 	Attempting to stop Apache (PID: 13856)
+11:37:32 CH  [Apache] 	Status change detected: stopped
+11:37:33 CH  [Apache] 	Attempting to start Apache app...
+11:37:33 CH  [Apache] 	Status change detected: running
+11:37:56 CH  [Apache] 	Attempting to stop Apache (PID: 10072)
+11:37:56 CH  [Apache] 	Attempting to stop Apache (PID: 15456)
+11:37:56 CH  [Apache] 	Status change detected: stopped
+11:37:57 CH  [Apache] 	Attempting to start Apache app...
+11:37:57 CH  [Apache] 	Status change detected: running
+11:44:06 CH  [Apache] 	Attempting to stop Apache (PID: 13260)
+11:44:06 CH  [Apache] 	Attempting to stop Apache (PID: 8776)
+11:44:06 CH  [Apache] 	Status change detected: stopped
+11:44:06 CH  [Apache] 	Attempting to start Apache app...
+11:44:06 CH  [Apache] 	Status change detected: running
+11:44:54 CH  [Apache] 	Attempting to stop Apache (PID: 15404)
+11:44:54 CH  [Apache] 	Attempting to stop Apache (PID: 15572)
+11:44:55 CH  [Apache] 	Attempting to stop Apache (PID: 15404)
+11:44:55 CH  [Apache] 	Problem killing PID 15404
+11:44:55 CH  [Apache] 	Check that you have the proper privileges
+11:44:55 CH  [Apache] 	Attempting to stop Apache (PID: 15572)
+11:44:55 CH  [Apache] 	Problem killing PID 15572
+11:44:55 CH  [Apache] 	Check that you have the proper privileges
+11:44:55 CH  [Apache] 	Status change detected: stopped
+11:44:56 CH  [Apache] 	Attempting to start Apache app...
+11:44:56 CH  [Apache] 	Status change detected: running
+12:07:48 SA  [Apache] 	Attempting to stop Apache (PID: 7980)
+12:07:48 SA  [Apache] 	Attempting to stop Apache (PID: 13768)
+12:07:48 SA  [Apache] 	Status change detected: stopped
+12:07:48 SA  [Apache] 	Attempting to start Apache app...
+12:07:49 SA  [Apache] 	Status change detected: running
+12:09:56 SA  [Apache] 	Attempting to stop Apache (PID: 16768)
+12:09:56 SA  [Apache] 	Attempting to stop Apache (PID: 8352)
+12:09:56 SA  [Apache] 	Status change detected: stopped
+12:09:57 SA  [Apache] 	Attempting to start Apache app...
+12:09:57 SA  [Apache] 	Status change detected: running
+12:11:32 SA  [Apache] 	Attempting to stop Apache (PID: 12640)
+12:11:32 SA  [Apache] 	Attempting to stop Apache (PID: 16028)
+12:11:32 SA  [Apache] 	Status change detected: stopped
+12:11:33 SA  [Apache] 	Attempting to start Apache app...
+12:11:33 SA  [Apache] 	Status change detected: running
+12:13:06 SA  [Apache] 	Attempting to stop Apache (PID: 14652)
+12:13:06 SA  [Apache] 	Attempting to stop Apache (PID: 16044)
+12:13:07 SA  [Apache] 	Status change detected: stopped
+12:13:07 SA  [Apache] 	Attempting to start Apache app...
+12:13:07 SA  [Apache] 	Status change detected: running
+12:15:03 SA  [Apache] 	Attempting to stop Apache (PID: 10456)
+12:15:03 SA  [Apache] 	Attempting to stop Apache (PID: 11848)
+12:15:03 SA  [Apache] 	Status change detected: stopped
+12:15:05 SA  [Apache] 	Attempting to start Apache app...
+12:15:05 SA  [Apache] 	Status change detected: running
+12:17:37 SA  [Apache] 	Attempting to stop Apache (PID: 13664)
+12:17:37 SA  [Apache] 	Attempting to stop Apache (PID: 14892)
+12:17:37 SA  [Apache] 	Status change detected: stopped
+12:17:38 SA  [Apache] 	Attempting to start Apache app...
+12:17:38 SA  [Apache] 	Status change detected: running
+12:18:46 SA  [Apache] 	Attempting to stop Apache (PID: 17168)
+12:18:46 SA  [Apache] 	Attempting to stop Apache (PID: 1356)
+12:18:46 SA  [Apache] 	Status change detected: stopped
+12:18:46 SA  [Apache] 	Attempting to start Apache app...
+12:18:47 SA  [Apache] 	Status change detected: running
+12:19:51 SA  [Apache] 	Attempting to stop Apache (PID: 10280)
+12:19:51 SA  [Apache] 	Attempting to stop Apache (PID: 15500)
+12:19:51 SA  [Apache] 	Status change detected: stopped
+12:19:51 SA  [Apache] 	Attempting to start Apache app...
+12:19:51 SA  [Apache] 	Status change detected: running
+12:20:47 SA  [Apache] 	Attempting to stop Apache (PID: 6704)
+12:20:47 SA  [Apache] 	Attempting to stop Apache (PID: 17220)
+12:20:47 SA  [Apache] 	Status change detected: stopped
+12:20:47 SA  [Apache] 	Attempting to start Apache app...
+12:20:47 SA  [Apache] 	Status change detected: running
+12:21:38 SA  [Apache] 	Attempting to stop Apache (PID: 11280)
+12:21:38 SA  [Apache] 	Attempting to stop Apache (PID: 11892)
+12:21:39 SA  [Apache] 	Status change detected: stopped
+12:21:39 SA  [Apache] 	Attempting to start Apache app...
+12:21:39 SA  [Apache] 	Status change detected: running
+12:22:31 SA  [Apache] 	Attempting to stop Apache (PID: 16980)
+12:22:31 SA  [Apache] 	Attempting to stop Apache (PID: 8340)
+12:22:31 SA  [Apache] 	Status change detected: stopped
+12:22:31 SA  [Apache] 	Attempting to start Apache app...
+12:22:32 SA  [Apache] 	Status change detected: running
+12:46:25 SA  [Apache] 	Attempting to stop Apache (PID: 12568)
+12:46:25 SA  [Apache] 	Attempting to stop Apache (PID: 12208)
+12:46:25 SA  [Apache] 	Status change detected: stopped
+12:46:26 SA  [Apache] 	Attempting to start Apache app...
+12:46:26 SA  [Apache] 	Status change detected: running
+12:47:18 SA  [Apache] 	Attempting to stop Apache (PID: 3192)
+12:47:18 SA  [Apache] 	Attempting to stop Apache (PID: 16072)
+12:47:19 SA  [Apache] 	Status change detected: stopped
+12:47:19 SA  [Apache] 	Attempting to start Apache app...
+12:47:19 SA  [Apache] 	Status change detected: running
+12:47:43 SA  [Apache] 	Attempting to stop Apache (PID: 5704)
+12:47:43 SA  [Apache] 	Attempting to stop Apache (PID: 11332)
+12:47:44 SA  [Apache] 	Attempting to stop Apache (PID: 5704)
+12:47:44 SA  [Apache] 	Problem killing PID 5704
+12:47:44 SA  [Apache] 	Check that you have the proper privileges
+12:47:44 SA  [Apache] 	Attempting to stop Apache (PID: 11332)
+12:47:44 SA  [Apache] 	Problem killing PID 11332
+12:47:44 SA  [Apache] 	Check that you have the proper privileges
+12:47:44 SA  [Apache] 	Status change detected: stopped
+12:47:45 SA  [Apache] 	Attempting to start Apache app...
+12:47:45 SA  [Apache] 	Status change detected: running
+12:55:08 SA  [Apache] 	Attempting to stop Apache (PID: 13776)
+12:55:08 SA  [Apache] 	Attempting to stop Apache (PID: 10648)
+12:55:08 SA  [Apache] 	Status change detected: stopped
+12:55:08 SA  [Apache] 	Attempting to start Apache app...
+12:55:09 SA  [Apache] 	Status change detected: running
+12:55:52 SA  [Apache] 	Attempting to stop Apache (PID: 14780)
+12:55:52 SA  [Apache] 	Attempting to stop Apache (PID: 16380)
+12:55:52 SA  [Apache] 	Status change detected: stopped
+12:55:53 SA  [Apache] 	Attempting to start Apache app...
+12:55:53 SA  [Apache] 	Status change detected: running
+12:57:07 SA  [Apache] 	Attempting to stop Apache (PID: 13328)
+12:57:07 SA  [Apache] 	Attempting to stop Apache (PID: 6992)
+12:57:07 SA  [Apache] 	Status change detected: stopped
+12:57:08 SA  [Apache] 	Attempting to start Apache app...
+12:57:08 SA  [Apache] 	Status change detected: running
+1:06:27 SA  [Apache] 	Attempting to stop Apache (PID: 12608)
+1:06:27 SA  [Apache] 	Attempting to stop Apache (PID: 7084)
+1:06:27 SA  [Apache] 	Status change detected: stopped
+1:06:27 SA  [Apache] 	Attempting to start Apache app...
+1:06:27 SA  [Apache] 	Status change detected: running
+1:17:30 SA  [Apache] 	Attempting to stop Apache (PID: 14352)
+1:17:30 SA  [Apache] 	Attempting to stop Apache (PID: 7700)
+1:17:30 SA  [Apache] 	Status change detected: stopped
+1:17:30 SA  [Apache] 	Attempting to start Apache app...
+1:17:31 SA  [Apache] 	Status change detected: running
+1:19:34 SA  [Apache] 	Attempting to stop Apache (PID: 4500)
+1:19:34 SA  [Apache] 	Attempting to stop Apache (PID: 1884)
+1:19:34 SA  [Apache] 	Status change detected: stopped
+1:19:34 SA  [Apache] 	Attempting to start Apache app...
+1:19:34 SA  [Apache] 	Status change detected: running
+1:34:40 SA  [Apache] 	Attempting to stop Apache (PID: 12372)
+1:34:40 SA  [Apache] 	Attempting to stop Apache (PID: 11488)
+1:34:40 SA  [Apache] 	Status change detected: stopped
+1:34:41 SA  [Apache] 	Attempting to start Apache app...
+1:34:41 SA  [Apache] 	Status change detected: running
+1:41:12 SA  [Apache] 	Attempting to stop Apache (PID: 8856)
+1:41:12 SA  [Apache] 	Attempting to stop Apache (PID: 2916)
+1:41:12 SA  [Apache] 	Status change detected: stopped
+1:41:12 SA  [Apache] 	Attempting to start Apache app...
+1:41:12 SA  [Apache] 	Status change detected: running
+1:42:07 SA  [Apache] 	Attempting to stop Apache (PID: 14892)
+1:42:07 SA  [Apache] 	Attempting to stop Apache (PID: 2708)
+1:42:07 SA  [Apache] 	Status change detected: stopped
+1:42:07 SA  [Apache] 	Attempting to start Apache app...
+1:42:08 SA  [Apache] 	Status change detected: running
+1:52:23 SA  [Apache] 	Attempting to stop Apache (PID: 15392)
+1:52:23 SA  [Apache] 	Attempting to stop Apache (PID: 1236)
+1:52:23 SA  [Apache] 	Status change detected: stopped
+1:52:24 SA  [Apache] 	Attempting to start Apache app...
+1:52:24 SA  [Apache] 	Status change detected: running
+1:53:01 SA  [Apache] 	Attempting to stop Apache (PID: 6488)
+1:53:01 SA  [Apache] 	Attempting to stop Apache (PID: 12400)
+1:53:01 SA  [Apache] 	Status change detected: stopped
+1:53:01 SA  [Apache] 	Attempting to start Apache app...
+1:53:02 SA  [Apache] 	Status change detected: running
+1:53:35 SA  [Apache] 	Attempting to stop Apache (PID: 7880)
+1:53:35 SA  [Apache] 	Attempting to stop Apache (PID: 15672)
+1:53:36 SA  [Apache] 	Status change detected: stopped
+1:53:36 SA  [Apache] 	Attempting to start Apache app...
+1:53:36 SA  [Apache] 	Status change detected: running
+1:57:42 SA  [Apache] 	Attempting to stop Apache (PID: 7284)
+1:57:42 SA  [Apache] 	Attempting to stop Apache (PID: 16100)
+1:57:43 SA  [Apache] 	Status change detected: stopped
+1:57:43 SA  [Apache] 	Attempting to start Apache app...
+1:57:43 SA  [Apache] 	Status change detected: running
+1:58:38 SA  [Apache] 	Attempting to stop Apache (PID: 2680)
+1:58:38 SA  [Apache] 	Attempting to stop Apache (PID: 14120)
+1:58:38 SA  [Apache] 	Status change detected: stopped
+1:58:39 SA  [Apache] 	Attempting to start Apache app...
+1:58:39 SA  [Apache] 	Status change detected: running
+2:00:22 SA  [Apache] 	Attempting to stop Apache (PID: 3216)
+2:00:22 SA  [Apache] 	Attempting to stop Apache (PID: 10392)
+2:00:23 SA  [Apache] 	Status change detected: stopped
+2:00:23 SA  [Apache] 	Attempting to start Apache app...
+2:00:23 SA  [Apache] 	Status change detected: running
+2:00:55 SA  [Apache] 	Attempting to stop Apache (PID: 14636)
+2:00:55 SA  [Apache] 	Attempting to stop Apache (PID: 9916)
+2:00:56 SA  [Apache] 	Status change detected: stopped
+2:01:14 SA  [Apache] 	Attempting to start Apache app...
+2:01:14 SA  [Apache] 	Status change detected: running
+2:02:28 SA  [Apache] 	Attempting to stop Apache (PID: 9844)
+2:02:28 SA  [Apache] 	Attempting to stop Apache (PID: 10960)
+2:02:28 SA  [Apache] 	Status change detected: stopped
+2:02:29 SA  [Apache] 	Attempting to start Apache app...
+2:02:29 SA  [Apache] 	Status change detected: running
+2:03:03 SA  [Apache] 	Attempting to stop Apache (PID: 360)
+2:03:03 SA  [Apache] 	Attempting to stop Apache (PID: 14908)
+2:03:04 SA  [Apache] 	Status change detected: stopped
+2:03:04 SA  [Apache] 	Attempting to start Apache app...
+2:03:04 SA  [Apache] 	Status change detected: running
+2:03:39 SA  [Apache] 	Attempting to stop Apache (PID: 5332)
+2:03:39 SA  [Apache] 	Attempting to stop Apache (PID: 3800)
+2:03:39 SA  [Apache] 	Status change detected: stopped
+2:03:39 SA  [Apache] 	Attempting to start Apache app...
+2:03:40 SA  [Apache] 	Status change detected: running
+2:04:13 SA  [Apache] 	Attempting to stop Apache (PID: 12800)
+2:04:13 SA  [Apache] 	Attempting to stop Apache (PID: 3524)
+2:04:14 SA  [Apache] 	Status change detected: stopped
+2:04:14 SA  [Apache] 	Attempting to start Apache app...
+2:04:14 SA  [Apache] 	Status change detected: running
+2:04:47 SA  [Apache] 	Attempting to stop Apache (PID: 11124)
+2:04:47 SA  [Apache] 	Attempting to stop Apache (PID: 11864)
+2:04:48 SA  [Apache] 	Status change detected: stopped
+2:04:48 SA  [Apache] 	Attempting to start Apache app...
+2:04:48 SA  [Apache] 	Status change detected: running
+2:06:28 SA  [Apache] 	Attempting to stop Apache (PID: 14908)
+2:06:28 SA  [Apache] 	Attempting to stop Apache (PID: 13968)
+2:06:28 SA  [Apache] 	Status change detected: stopped
+2:06:29 SA  [Apache] 	Attempting to start Apache app...
+2:06:29 SA  [Apache] 	Status change detected: running
+2:07:12 SA  [Apache] 	Attempting to stop Apache (PID: 8560)
+2:07:12 SA  [Apache] 	Attempting to stop Apache (PID: 6720)
+2:07:13 SA  [Apache] 	Status change detected: stopped
+2:07:13 SA  [Apache] 	Attempting to start Apache app...
+2:07:13 SA  [Apache] 	Status change detected: running
+2:08:08 SA  [Apache] 	Attempting to stop Apache (PID: 9288)
+2:08:08 SA  [Apache] 	Attempting to stop Apache (PID: 6752)
+2:08:08 SA  [Apache] 	Attempting to stop Apache (PID: 9288)
+2:08:08 SA  [Apache] 	Problem killing PID 9288
+2:08:08 SA  [Apache] 	Check that you have the proper privileges
+2:08:08 SA  [Apache] 	Attempting to stop Apache (PID: 6752)
+2:08:08 SA  [Apache] 	Problem killing PID 6752
+2:08:08 SA  [Apache] 	Check that you have the proper privileges
+2:08:08 SA  [Apache] 	Status change detected: stopped
+2:08:10 SA  [Apache] 	Attempting to start Apache app...
+2:08:11 SA  [Apache] 	Status change detected: running
+2:09:13 SA  [Apache] 	Attempting to stop Apache (PID: 7108)
+2:09:13 SA  [Apache] 	Attempting to stop Apache (PID: 15684)
+2:09:13 SA  [Apache] 	Status change detected: stopped
+2:09:13 SA  [Apache] 	Attempting to start Apache app...
+2:09:14 SA  [Apache] 	Status change detected: running
+2:10:22 SA  [Apache] 	Attempting to stop Apache (PID: 3200)
+2:10:22 SA  [Apache] 	Attempting to stop Apache (PID: 9892)
+2:10:22 SA  [Apache] 	Status change detected: stopped
+2:10:23 SA  [mysql] 	Attempting to stop MySQL app...
+2:10:23 SA  [mysql] 	Status change detected: stopped
+2:11:33 SA  [Apache] 	Attempting to start Apache app...
+2:11:33 SA  [Apache] 	Status change detected: running
+2:11:33 SA  [mysql] 	Attempting to start MySQL app...
+2:11:34 SA  [mysql] 	Status change detected: running
+2:11:41 SA  [mysql] 	Attempting to stop MySQL app...
+2:11:41 SA  [mysql] 	Status change detected: stopped
+2:11:41 SA  [Apache] 	Attempting to stop Apache (PID: 7612)
+2:11:41 SA  [Apache] 	Attempting to stop Apache (PID: 4256)
+2:11:41 SA  [Apache] 	Status change detected: stopped
+2:15:07 SA  [main] 	Deinitializing Modules
+2:15:07 SA  [main] 	Deinitializing Control Panel
+
+8:46:55 SA  [main] 	Initializing Control Panel
+8:46:55 SA  [main] 	Windows Version:  Home  64-bit
+8:46:55 SA  [main] 	XAMPP Version: 7.4.9
+8:46:55 SA  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+8:46:55 SA  [main] 	Running with Administrator rights - good!
+8:46:55 SA  [main] 	XAMPP Installation Directory: "d:\xampp\"
+8:46:55 SA  [main] 	Checking for prerequisites
+8:46:56 SA  [main] 	All prerequisites found
+8:46:56 SA  [main] 	Initializing Modules
+8:46:56 SA  [main] 	Starting Check-Timer
+8:46:56 SA  [main] 	Control Panel Ready
+8:47:00 SA  [Apache] 	Attempting to start Apache app...
+8:47:00 SA  [Apache] 	Status change detected: running
+8:47:01 SA  [mysql] 	Attempting to start MySQL app...
+8:47:01 SA  [mysql] 	Status change detected: running
+9:05:20 SA  [Apache] 	Attempting to stop Apache (PID: 16540)
+9:05:20 SA  [Apache] 	Attempting to stop Apache (PID: 10776)
+9:05:20 SA  [Apache] 	Status change detected: stopped
+9:05:21 SA  [Apache] 	Attempting to start Apache app...
+9:05:21 SA  [Apache] 	Status change detected: running
+9:07:19 SA  [Apache] 	Attempting to stop Apache (PID: 12892)
+9:07:19 SA  [Apache] 	Attempting to stop Apache (PID: 3892)
+9:07:19 SA  [Apache] 	Status change detected: stopped
+9:07:19 SA  [Apache] 	Attempting to start Apache app...
+9:07:20 SA  [Apache] 	Status change detected: running
+9:09:55 SA  [Apache] 	Attempting to stop Apache (PID: 4176)
+9:09:55 SA  [Apache] 	Attempting to stop Apache (PID: 16396)
+9:09:55 SA  [Apache] 	Status change detected: stopped
+9:09:56 SA  [Apache] 	Attempting to start Apache app...
+9:09:56 SA  [Apache] 	Status change detected: running
+9:11:28 SA  [Apache] 	Attempting to stop Apache (PID: 9372)
+9:11:28 SA  [Apache] 	Attempting to stop Apache (PID: 10344)
+9:11:29 SA  [Apache] 	Status change detected: stopped
+9:11:29 SA  [Apache] 	Attempting to start Apache app...
+9:11:29 SA  [Apache] 	Status change detected: running
+9:13:15 SA  [Apache] 	Attempting to stop Apache (PID: 12908)
+9:13:15 SA  [Apache] 	Attempting to stop Apache (PID: 14896)
+9:13:16 SA  [Apache] 	Status change detected: stopped
+9:13:16 SA  [Apache] 	Attempting to start Apache app...
+9:13:17 SA  [Apache] 	Status change detected: running
+9:15:42 SA  [Apache] 	Attempting to stop Apache (PID: 15700)
+9:15:42 SA  [Apache] 	Attempting to stop Apache (PID: 15076)
+9:15:42 SA  [Apache] 	Status change detected: stopped
+9:15:42 SA  [Apache] 	Attempting to start Apache app...
+9:15:42 SA  [Apache] 	Status change detected: running
+9:16:29 SA  [Apache] 	Attempting to stop Apache (PID: 15996)
+9:16:29 SA  [Apache] 	Attempting to stop Apache (PID: 10516)
+9:16:30 SA  [Apache] 	Status change detected: stopped
+9:16:30 SA  [Apache] 	Attempting to start Apache app...
+9:16:30 SA  [Apache] 	Status change detected: running
+9:17:10 SA  [Apache] 	Attempting to stop Apache (PID: 14448)
+9:17:10 SA  [Apache] 	Attempting to stop Apache (PID: 12508)
+9:17:11 SA  [Apache] 	Status change detected: stopped
+9:17:11 SA  [Apache] 	Attempting to start Apache app...
+9:17:11 SA  [Apache] 	Status change detected: running
+9:17:58 SA  [Apache] 	Attempting to stop Apache (PID: 8596)
+9:17:58 SA  [Apache] 	Attempting to stop Apache (PID: 3768)
+9:17:59 SA  [Apache] 	Status change detected: stopped
+9:17:59 SA  [Apache] 	Attempting to start Apache app...
+9:17:59 SA  [Apache] 	Status change detected: running
+9:19:37 SA  [Apache] 	Attempting to stop Apache (PID: 10856)
+9:19:37 SA  [Apache] 	Attempting to stop Apache (PID: 3188)
+9:19:37 SA  [Apache] 	Status change detected: stopped
+9:19:37 SA  [Apache] 	Attempting to start Apache app...
+9:19:38 SA  [Apache] 	Status change detected: running
+9:20:20 SA  [Apache] 	Attempting to stop Apache (PID: 9340)
+9:20:20 SA  [Apache] 	Attempting to stop Apache (PID: 2056)
+9:20:20 SA  [Apache] 	Status change detected: stopped
+9:20:20 SA  [Apache] 	Attempting to start Apache app...
+9:20:21 SA  [Apache] 	Status change detected: running
+9:21:18 SA  [Apache] 	Attempting to stop Apache (PID: 8632)
+9:21:18 SA  [Apache] 	Attempting to stop Apache (PID: 12452)
+9:21:18 SA  [Apache] 	Status change detected: stopped
+9:21:19 SA  [Apache] 	Attempting to start Apache app...
+9:21:19 SA  [Apache] 	Status change detected: running
+9:22:24 SA  [Apache] 	Attempting to stop Apache (PID: 11156)
+9:22:24 SA  [Apache] 	Attempting to stop Apache (PID: 17336)
+9:22:24 SA  [Apache] 	Status change detected: stopped
+9:22:25 SA  [Apache] 	Attempting to start Apache app...
+9:22:25 SA  [Apache] 	Status change detected: running
+9:23:13 SA  [Apache] 	Attempting to stop Apache (PID: 3084)
+9:23:13 SA  [Apache] 	Attempting to stop Apache (PID: 15456)
+9:23:13 SA  [Apache] 	Status change detected: stopped
+9:23:13 SA  [Apache] 	Problem detected!
+9:23:13 SA  [Apache] 	Port 8080 in use by "Unable to get info" with PID 3084!
+9:23:13 SA  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:23:13 SA  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:23:13 SA  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:23:13 SA  [Apache] 	Problem detected!
+9:23:13 SA  [Apache] 	Port 443 in use by "Unable to get info" with PID 3084!
+9:23:13 SA  [Apache] 	Apache WILL NOT start without the configured ports free!
+9:23:13 SA  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+9:23:13 SA  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+9:23:13 SA  [Apache] 	Attempting to start Apache app...
+9:23:13 SA  [Apache] 	Status change detected: running
+9:25:42 SA  [Apache] 	Attempting to stop Apache (PID: 16292)
+9:25:42 SA  [Apache] 	Attempting to stop Apache (PID: 5136)
+9:25:42 SA  [Apache] 	Status change detected: stopped
+9:25:42 SA  [Apache] 	Attempting to start Apache app...
+9:25:42 SA  [Apache] 	Status change detected: running
+9:26:27 SA  [Apache] 	Attempting to stop Apache (PID: 13032)
+9:26:27 SA  [Apache] 	Attempting to stop Apache (PID: 12204)
+9:26:27 SA  [Apache] 	Status change detected: stopped
+9:26:27 SA  [Apache] 	Attempting to start Apache app...
+9:26:27 SA  [Apache] 	Status change detected: running
+9:27:04 SA  [Apache] 	Attempting to stop Apache (PID: 3156)
+9:27:04 SA  [Apache] 	Attempting to stop Apache (PID: 7036)
+9:27:05 SA  [Apache] 	Status change detected: stopped
+9:27:05 SA  [Apache] 	Attempting to start Apache app...
+9:27:05 SA  [Apache] 	Status change detected: running
+9:27:38 SA  [Apache] 	Attempting to stop Apache (PID: 15576)
+9:27:38 SA  [Apache] 	Attempting to stop Apache (PID: 6532)
+9:27:38 SA  [Apache] 	Status change detected: stopped
+9:27:39 SA  [Apache] 	Attempting to start Apache app...
+9:27:39 SA  [Apache] 	Status change detected: running
+9:29:28 SA  [Apache] 	Attempting to stop Apache (PID: 1532)
+9:29:28 SA  [Apache] 	Attempting to stop Apache (PID: 1724)
+9:29:29 SA  [Apache] 	Status change detected: stopped
+9:29:29 SA  [Apache] 	Attempting to start Apache app...
+9:29:29 SA  [Apache] 	Status change detected: running
+9:33:38 SA  [Apache] 	Attempting to stop Apache (PID: 14072)
+9:33:38 SA  [Apache] 	Attempting to stop Apache (PID: 12704)
+9:33:38 SA  [Apache] 	Status change detected: stopped
+9:33:38 SA  [Apache] 	Attempting to start Apache app...
+9:33:38 SA  [Apache] 	Status change detected: running
+9:34:25 SA  [Apache] 	Attempting to stop Apache (PID: 16664)
+9:34:25 SA  [Apache] 	Attempting to stop Apache (PID: 17280)
+9:34:26 SA  [Apache] 	Status change detected: stopped
+9:34:26 SA  [Apache] 	Attempting to start Apache app...
+9:34:26 SA  [Apache] 	Status change detected: running
+9:35:38 SA  [Apache] 	Attempting to stop Apache (PID: 6532)
+9:35:38 SA  [Apache] 	Attempting to stop Apache (PID: 15952)
+9:35:38 SA  [Apache] 	Status change detected: stopped
+9:35:38 SA  [Apache] 	Attempting to start Apache app...
+9:35:39 SA  [Apache] 	Status change detected: running
+9:37:36 SA  [Apache] 	Attempting to stop Apache (PID: 9164)
+9:37:36 SA  [Apache] 	Attempting to stop Apache (PID: 12284)
+9:37:37 SA  [Apache] 	Status change detected: stopped
+9:37:37 SA  [Apache] 	Attempting to start Apache app...
+9:37:38 SA  [Apache] 	Status change detected: running
+9:38:17 SA  [Apache] 	Attempting to stop Apache (PID: 15592)
+9:38:17 SA  [Apache] 	Attempting to stop Apache (PID: 12392)
+9:38:17 SA  [Apache] 	Status change detected: stopped
+9:38:18 SA  [Apache] 	Attempting to start Apache app...
+9:38:18 SA  [Apache] 	Status change detected: running
+9:39:33 SA  [Apache] 	Attempting to stop Apache (PID: 4404)
+9:39:33 SA  [Apache] 	Attempting to stop Apache (PID: 13328)
+9:39:33 SA  [Apache] 	Status change detected: stopped
+9:39:33 SA  [Apache] 	Attempting to start Apache app...
+9:39:34 SA  [Apache] 	Status change detected: running
+9:42:12 SA  [Apache] 	Attempting to stop Apache (PID: 17116)
+9:42:12 SA  [Apache] 	Attempting to stop Apache (PID: 1348)
+9:42:12 SA  [Apache] 	Status change detected: stopped
+9:42:12 SA  [Apache] 	Attempting to start Apache app...
+9:42:13 SA  [Apache] 	Status change detected: running
+9:43:17 SA  [Apache] 	Attempting to stop Apache (PID: 15044)
+9:43:17 SA  [Apache] 	Attempting to stop Apache (PID: 1628)
+9:43:17 SA  [Apache] 	Status change detected: stopped
+9:43:17 SA  [Apache] 	Attempting to start Apache app...
+9:43:18 SA  [Apache] 	Status change detected: running
+9:44:28 SA  [Apache] 	Attempting to stop Apache (PID: 14940)
+9:44:28 SA  [Apache] 	Attempting to stop Apache (PID: 7888)
+9:44:28 SA  [Apache] 	Status change detected: stopped
+9:44:28 SA  [Apache] 	Attempting to start Apache app...
+9:44:29 SA  [Apache] 	Status change detected: running
+9:44:37 SA  [Apache] 	Attempting to stop Apache (PID: 14900)
+9:44:37 SA  [Apache] 	Attempting to stop Apache (PID: 15472)
+9:44:37 SA  [Apache] 	Status change detected: stopped
+9:44:38 SA  [Apache] 	Attempting to start Apache app...
+9:44:38 SA  [Apache] 	Status change detected: running
+9:46:51 SA  [Apache] 	Attempting to stop Apache (PID: 14240)
+9:46:51 SA  [Apache] 	Attempting to stop Apache (PID: 12888)
+9:46:51 SA  [Apache] 	Status change detected: stopped
+9:46:52 SA  [Apache] 	Attempting to start Apache app...
+9:46:52 SA  [Apache] 	Status change detected: running
+9:47:04 SA  [Apache] 	Attempting to stop Apache (PID: 6480)
+9:47:04 SA  [Apache] 	Attempting to stop Apache (PID: 2828)
+9:47:04 SA  [Apache] 	Status change detected: stopped
+9:47:04 SA  [Apache] 	Attempting to start Apache app...
+9:47:05 SA  [Apache] 	Status change detected: running
+9:47:21 SA  [Apache] 	Attempting to stop Apache (PID: 16748)
+9:47:21 SA  [Apache] 	Attempting to stop Apache (PID: 10940)
+9:47:22 SA  [Apache] 	Status change detected: stopped
+9:47:22 SA  [Apache] 	Attempting to start Apache app...
+9:47:22 SA  [Apache] 	Status change detected: running
+9:48:09 SA  [Apache] 	Attempting to stop Apache (PID: 9164)
+9:48:09 SA  [Apache] 	Attempting to stop Apache (PID: 9644)
+9:48:09 SA  [Apache] 	Status change detected: stopped
+9:48:09 SA  [Apache] 	Attempting to start Apache app...
+9:48:10 SA  [Apache] 	Status change detected: running
+9:48:28 SA  [Apache] 	Attempting to stop Apache (PID: 15208)
+9:48:28 SA  [Apache] 	Attempting to stop Apache (PID: 4768)
+9:48:28 SA  [Apache] 	Status change detected: stopped
+9:48:29 SA  [Apache] 	Attempting to start Apache app...
+9:48:29 SA  [Apache] 	Status change detected: running
+9:53:15 SA  [Apache] 	Attempting to stop Apache (PID: 1088)
+9:53:15 SA  [Apache] 	Attempting to stop Apache (PID: 10968)
+9:53:15 SA  [Apache] 	Status change detected: stopped
+9:53:15 SA  [Apache] 	Attempting to start Apache app...
+9:53:16 SA  [Apache] 	Status change detected: running
+9:54:05 SA  [Apache] 	Attempting to stop Apache (PID: 10764)
+9:54:05 SA  [Apache] 	Attempting to stop Apache (PID: 11400)
+9:54:06 SA  [Apache] 	Status change detected: stopped
+9:54:06 SA  [Apache] 	Attempting to start Apache app...
+9:54:07 SA  [Apache] 	Status change detected: running
+9:58:00 SA  [Apache] 	Attempting to stop Apache (PID: 14152)
+9:58:00 SA  [Apache] 	Attempting to stop Apache (PID: 17248)
+9:58:00 SA  [Apache] 	Status change detected: stopped
+9:58:00 SA  [Apache] 	Attempting to start Apache app...
+9:58:00 SA  [Apache] 	Status change detected: running
+9:58:28 SA  [Apache] 	Attempting to stop Apache (PID: 16788)
+9:58:28 SA  [Apache] 	Attempting to stop Apache (PID: 3468)
+9:58:28 SA  [Apache] 	Status change detected: stopped
+9:58:28 SA  [Apache] 	Attempting to start Apache app...
+9:58:29 SA  [Apache] 	Status change detected: running
+10:01:48 SA  [Apache] 	Attempting to stop Apache (PID: 11000)
+10:01:48 SA  [Apache] 	Attempting to stop Apache (PID: 7368)
+10:01:49 SA  [Apache] 	Status change detected: stopped
+10:01:49 SA  [Apache] 	Attempting to start Apache app...
+10:01:50 SA  [Apache] 	Status change detected: running
+10:03:02 SA  [Apache] 	Attempting to stop Apache (PID: 3656)
+10:03:02 SA  [Apache] 	Attempting to stop Apache (PID: 10760)
+10:03:03 SA  [Apache] 	Status change detected: stopped
+10:03:03 SA  [Apache] 	Attempting to start Apache app...
+10:03:03 SA  [Apache] 	Status change detected: running
+10:05:05 SA  [Apache] 	Attempting to stop Apache (PID: 3728)
+10:05:05 SA  [Apache] 	Attempting to stop Apache (PID: 12416)
+10:05:05 SA  [Apache] 	Status change detected: stopped
+10:05:06 SA  [Apache] 	Attempting to start Apache app...
+10:05:06 SA  [Apache] 	Status change detected: running
+10:05:55 SA  [Apache] 	Attempting to stop Apache (PID: 5260)
+10:05:55 SA  [Apache] 	Attempting to stop Apache (PID: 10552)
+10:05:55 SA  [Apache] 	Status change detected: stopped
+10:05:55 SA  [Apache] 	Attempting to start Apache app...
+10:05:56 SA  [Apache] 	Status change detected: running
+10:07:47 SA  [Apache] 	Attempting to stop Apache (PID: 12848)
+10:07:47 SA  [Apache] 	Attempting to stop Apache (PID: 3572)
+10:07:47 SA  [Apache] 	Status change detected: stopped
+10:07:47 SA  [Apache] 	Attempting to start Apache app...
+10:07:48 SA  [Apache] 	Status change detected: running
+10:09:33 SA  [Apache] 	Attempting to stop Apache (PID: 9112)
+10:09:33 SA  [Apache] 	Attempting to stop Apache (PID: 14472)
+10:09:33 SA  [Apache] 	Status change detected: stopped
+10:09:34 SA  [Apache] 	Attempting to start Apache app...
+10:09:34 SA  [Apache] 	Status change detected: running
+10:10:28 SA  [Apache] 	Attempting to stop Apache (PID: 12316)
+10:10:28 SA  [Apache] 	Attempting to stop Apache (PID: 12404)
+10:10:29 SA  [Apache] 	Status change detected: stopped
+10:10:29 SA  [Apache] 	Attempting to start Apache app...
+10:10:29 SA  [Apache] 	Status change detected: running
+10:12:18 SA  [Apache] 	Attempting to stop Apache (PID: 12268)
+10:12:18 SA  [Apache] 	Attempting to stop Apache (PID: 14148)
+10:12:19 SA  [Apache] 	Status change detected: stopped
+10:12:19 SA  [Apache] 	Attempting to start Apache app...
+10:12:19 SA  [Apache] 	Status change detected: running
+10:15:36 SA  [Apache] 	Attempting to stop Apache (PID: 9040)
+10:15:36 SA  [Apache] 	Attempting to stop Apache (PID: 9152)
+10:15:36 SA  [Apache] 	Status change detected: stopped
+10:15:37 SA  [Apache] 	Attempting to start Apache app...
+10:15:37 SA  [Apache] 	Status change detected: running
+10:18:07 SA  [Apache] 	Attempting to stop Apache (PID: 5568)
+10:18:07 SA  [Apache] 	Attempting to stop Apache (PID: 9672)
+10:18:07 SA  [Apache] 	Status change detected: stopped
+10:18:07 SA  [Apache] 	Attempting to start Apache app...
+10:18:07 SA  [Apache] 	Status change detected: running
+10:18:29 SA  [Apache] 	Attempting to stop Apache (PID: 12680)
+10:18:29 SA  [Apache] 	Attempting to stop Apache (PID: 14028)
+10:18:29 SA  [Apache] 	Status change detected: stopped
+10:18:30 SA  [Apache] 	Attempting to start Apache app...
+10:18:30 SA  [Apache] 	Status change detected: running
+10:21:57 SA  [Apache] 	Attempting to stop Apache (PID: 9292)
+10:21:57 SA  [Apache] 	Attempting to stop Apache (PID: 16756)
+10:21:58 SA  [Apache] 	Status change detected: stopped
+10:21:58 SA  [Apache] 	Attempting to start Apache app...
+10:21:58 SA  [Apache] 	Status change detected: running
+10:22:54 SA  [Apache] 	Attempting to stop Apache (PID: 16396)
+10:22:54 SA  [Apache] 	Attempting to stop Apache (PID: 12152)
+10:22:54 SA  [Apache] 	Status change detected: stopped
+10:22:54 SA  [Apache] 	Attempting to start Apache app...
+10:22:55 SA  [Apache] 	Status change detected: running
+10:30:21 SA  [Apache] 	Attempting to stop Apache (PID: 8328)
+10:30:21 SA  [Apache] 	Attempting to stop Apache (PID: 3548)
+10:30:22 SA  [Apache] 	Status change detected: stopped
+10:30:22 SA  [Apache] 	Attempting to start Apache app...
+10:30:22 SA  [Apache] 	Status change detected: running
+10:31:11 SA  [Apache] 	Attempting to stop Apache (PID: 9952)
+10:31:11 SA  [Apache] 	Attempting to stop Apache (PID: 9484)
+10:31:11 SA  [Apache] 	Status change detected: stopped
+10:31:11 SA  [Apache] 	Attempting to start Apache app...
+10:31:11 SA  [Apache] 	Status change detected: running
+10:33:28 SA  [Apache] 	Attempting to stop Apache (PID: 10728)
+10:33:28 SA  [Apache] 	Attempting to stop Apache (PID: 11584)
+10:33:28 SA  [Apache] 	Status change detected: stopped
+10:33:28 SA  [Apache] 	Attempting to start Apache app...
+10:33:29 SA  [Apache] 	Status change detected: running
+10:34:27 SA  [Apache] 	Attempting to stop Apache (PID: 14896)
+10:34:27 SA  [Apache] 	Attempting to stop Apache (PID: 4968)
+10:34:27 SA  [Apache] 	Status change detected: stopped
+10:34:28 SA  [Apache] 	Attempting to start Apache app...
+10:34:28 SA  [Apache] 	Status change detected: running
+10:35:53 SA  [Apache] 	Attempting to stop Apache (PID: 6736)
+10:35:53 SA  [Apache] 	Attempting to stop Apache (PID: 11928)
+10:35:53 SA  [Apache] 	Status change detected: stopped
+10:35:53 SA  [Apache] 	Attempting to start Apache app...
+10:35:54 SA  [Apache] 	Status change detected: running
+10:42:23 SA  [Apache] 	Attempting to stop Apache (PID: 13580)
+10:42:23 SA  [Apache] 	Attempting to stop Apache (PID: 15612)
+10:42:23 SA  [Apache] 	Status change detected: stopped
+10:42:24 SA  [mysql] 	Attempting to stop MySQL app...
+10:42:24 SA  [mysql] 	Status change detected: stopped
+10:42:29 SA  [main] 	Deinitializing Modules
+10:42:29 SA  [main] 	Deinitializing Control Panel
+
+11:28:30 SA  [main] 	Initializing Control Panel
+11:28:30 SA  [main] 	Windows Version:  Home  64-bit
+11:28:30 SA  [main] 	XAMPP Version: 7.4.9
+11:28:30 SA  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:28:30 SA  [main] 	Running with Administrator rights - good!
+11:28:30 SA  [main] 	XAMPP Installation Directory: "d:\xampp\"
+11:28:30 SA  [main] 	Checking for prerequisites
+11:28:30 SA  [main] 	All prerequisites found
+11:28:30 SA  [main] 	Initializing Modules
+11:28:30 SA  [main] 	Starting Check-Timer
+11:28:30 SA  [main] 	Control Panel Ready
+11:55:15 SA  [Apache] 	Attempting to start Apache app...
+11:55:16 SA  [Apache] 	Status change detected: running
+11:55:16 SA  [mysql] 	Attempting to start MySQL app...
+11:55:16 SA  [mysql] 	Status change detected: running
+12:09:01 CH  [Apache] 	Attempting to stop Apache (PID: 13812)
+12:09:01 CH  [Apache] 	Attempting to stop Apache (PID: 11688)
+12:09:01 CH  [Apache] 	Status change detected: stopped
+12:09:02 CH  [Apache] 	Attempting to start Apache app...
+12:09:02 CH  [Apache] 	Status change detected: running
+12:09:46 CH  [Apache] 	Attempting to stop Apache (PID: 244)
+12:09:46 CH  [Apache] 	Attempting to stop Apache (PID: 15224)
+12:09:46 CH  [Apache] 	Status change detected: stopped
+12:09:47 CH  [Apache] 	Attempting to start Apache app...
+12:09:47 CH  [Apache] 	Status change detected: running
+12:10:22 CH  [Apache] 	Attempting to stop Apache (PID: 9820)
+12:10:22 CH  [Apache] 	Attempting to stop Apache (PID: 5980)
+12:10:23 CH  [Apache] 	Status change detected: stopped
+12:10:23 CH  [Apache] 	Attempting to start Apache app...
+12:10:23 CH  [Apache] 	Status change detected: running
+12:11:44 CH  [Apache] 	Attempting to stop Apache (PID: 12976)
+12:11:44 CH  [Apache] 	Attempting to stop Apache (PID: 9460)
+12:11:45 CH  [Apache] 	Status change detected: stopped
+12:11:45 CH  [Apache] 	Attempting to start Apache app...
+12:11:45 CH  [Apache] 	Status change detected: running
+12:13:18 CH  [Apache] 	Attempting to stop Apache (PID: 13072)
+12:13:18 CH  [Apache] 	Attempting to stop Apache (PID: 7236)
+12:13:18 CH  [Apache] 	Status change detected: stopped
+12:13:19 CH  [Apache] 	Attempting to start Apache app...
+12:13:19 CH  [Apache] 	Status change detected: running
+12:15:35 CH  [Apache] 	Attempting to stop Apache (PID: 11300)
+12:15:35 CH  [Apache] 	Attempting to stop Apache (PID: 14300)
+12:15:36 CH  [Apache] 	Status change detected: stopped
+12:15:36 CH  [Apache] 	Attempting to start Apache app...
+12:15:36 CH  [Apache] 	Status change detected: running
+12:19:51 CH  [Apache] 	Attempting to stop Apache (PID: 17128)
+12:19:51 CH  [Apache] 	Attempting to stop Apache (PID: 1468)
+12:19:51 CH  [Apache] 	Status change detected: stopped
+12:19:54 CH  [Apache] 	Attempting to start Apache app...
+12:19:54 CH  [Apache] 	Status change detected: running
+12:21:00 CH  [Apache] 	Attempting to stop Apache (PID: 17056)
+12:21:00 CH  [Apache] 	Attempting to stop Apache (PID: 5288)
+12:21:00 CH  [Apache] 	Status change detected: stopped
+12:21:01 CH  [Apache] 	Attempting to start Apache app...
+12:21:01 CH  [Apache] 	Status change detected: running
+12:21:30 CH  [Apache] 	Attempting to stop Apache (PID: 10036)
+12:21:30 CH  [Apache] 	Attempting to stop Apache (PID: 4420)
+12:21:30 CH  [Apache] 	Status change detected: stopped
+12:21:30 CH  [Apache] 	Attempting to start Apache app...
+12:21:31 CH  [Apache] 	Status change detected: running
+12:21:42 CH  [Apache] 	Attempting to stop Apache (PID: 15480)
+12:21:42 CH  [Apache] 	Attempting to stop Apache (PID: 12640)
+12:21:43 CH  [Apache] 	Status change detected: stopped
+12:21:43 CH  [mysql] 	Attempting to stop MySQL app...
+12:21:43 CH  [mysql] 	Status change detected: stopped
+12:22:18 CH  [main] 	Deinitializing Modules
+12:22:18 CH  [main] 	Deinitializing Control Panel
+
+6:05:32 CH  [main] 	Initializing Control Panel
+6:05:32 CH  [main] 	Windows Version:  Home  64-bit
+6:05:32 CH  [main] 	XAMPP Version: 7.4.9
+6:05:32 CH  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+6:05:32 CH  [main] 	Running with Administrator rights - good!
+6:05:32 CH  [main] 	XAMPP Installation Directory: "d:\xampp\"
+6:05:32 CH  [main] 	Checking for prerequisites
+6:05:33 CH  [main] 	All prerequisites found
+6:05:33 CH  [main] 	Initializing Modules
+6:05:33 CH  [main] 	Starting Check-Timer
+6:05:33 CH  [main] 	Control Panel Ready
+6:05:37 CH  [Apache] 	Attempting to start Apache app...
+6:05:37 CH  [Apache] 	Status change detected: running
+6:05:37 CH  [mysql] 	Attempting to start MySQL app...
+6:05:38 CH  [mysql] 	Status change detected: running
+6:25:59 CH  [Apache] 	Attempting to stop Apache (PID: 6556)
+6:25:59 CH  [Apache] 	Attempting to stop Apache (PID: 17140)
+6:25:59 CH  [Apache] 	Status change detected: stopped
+6:25:59 CH  [Apache] 	Attempting to start Apache app...
+6:25:59 CH  [Apache] 	Status change detected: running
+6:33:01 CH  [Apache] 	Attempting to stop Apache (PID: 14816)
+6:33:01 CH  [Apache] 	Attempting to stop Apache (PID: 6664)
+6:33:01 CH  [Apache] 	Status change detected: stopped
+6:33:01 CH  [Apache] 	Attempting to start Apache app...
+6:33:01 CH  [Apache] 	Status change detected: running
+6:35:27 CH  [Apache] 	Attempting to stop Apache (PID: 12888)
+6:35:27 CH  [Apache] 	Attempting to stop Apache (PID: 13936)
+6:35:28 CH  [Apache] 	Status change detected: stopped
+6:35:28 CH  [Apache] 	Attempting to start Apache app...
+6:35:28 CH  [Apache] 	Status change detected: running
+6:39:07 CH  [Apache] 	Attempting to stop Apache (PID: 15928)
+6:39:07 CH  [Apache] 	Attempting to stop Apache (PID: 11704)
+6:39:07 CH  [Apache] 	Status change detected: stopped
+6:39:07 CH  [Apache] 	Attempting to start Apache app...
+6:39:08 CH  [Apache] 	Status change detected: running
+6:39:33 CH  [Apache] 	Attempting to stop Apache (PID: 12536)
+6:39:33 CH  [Apache] 	Attempting to stop Apache (PID: 5104)
+6:39:34 CH  [Apache] 	Status change detected: stopped
+6:39:34 CH  [Apache] 	Attempting to start Apache app...
+6:39:34 CH  [Apache] 	Status change detected: running
+6:39:38 CH  [Apache] 	Attempting to stop Apache (PID: 17264)
+6:39:38 CH  [Apache] 	Attempting to stop Apache (PID: 14144)
+6:39:39 CH  [Apache] 	Status change detected: stopped
+6:39:40 CH  [Apache] 	Attempting to start Apache app...
+6:39:40 CH  [Apache] 	Status change detected: running
+6:41:44 CH  [Apache] 	Attempting to stop Apache (PID: 1116)
+6:41:44 CH  [Apache] 	Attempting to stop Apache (PID: 4604)
+6:41:44 CH  [Apache] 	Status change detected: stopped
+6:41:45 CH  [Apache] 	Attempting to start Apache app...
+6:41:45 CH  [Apache] 	Status change detected: running
+6:42:48 CH  [Apache] 	Attempting to stop Apache (PID: 13472)
+6:42:48 CH  [Apache] 	Attempting to stop Apache (PID: 12556)
+6:42:49 CH  [Apache] 	Status change detected: stopped
+6:42:49 CH  [Apache] 	Attempting to start Apache app...
+6:42:50 CH  [Apache] 	Status change detected: running
+6:44:14 CH  [Apache] 	Attempting to stop Apache (PID: 7072)
+6:44:14 CH  [Apache] 	Attempting to stop Apache (PID: 8280)
+6:44:14 CH  [Apache] 	Status change detected: stopped
+6:44:15 CH  [Apache] 	Attempting to start Apache app...
+6:44:15 CH  [Apache] 	Status change detected: running
+8:00:06 CH  [Apache] 	Attempting to stop Apache (PID: 3136)
+8:00:06 CH  [Apache] 	Attempting to stop Apache (PID: 6496)
+8:00:06 CH  [Apache] 	Status change detected: stopped
+8:00:06 CH  [Apache] 	Attempting to start Apache app...
+8:00:07 CH  [Apache] 	Status change detected: running
+8:18:58 CH  [Apache] 	Attempting to stop Apache (PID: 4044)
+8:18:58 CH  [Apache] 	Attempting to stop Apache (PID: 16448)
+8:18:58 CH  [Apache] 	Status change detected: stopped
+8:18:58 CH  [mysql] 	Attempting to stop MySQL app...
+8:18:59 CH  [mysql] 	Status change detected: stopped
+8:28:36 CH  [Apache] 	Attempting to start Apache app...
+8:28:36 CH  [Apache] 	Status change detected: running
+8:28:43 CH  [mysql] 	Attempting to start MySQL app...
+8:28:43 CH  [mysql] 	Status change detected: running
+8:33:43 CH  [Apache] 	Attempting to stop Apache (PID: 7972)
+8:33:43 CH  [Apache] 	Attempting to stop Apache (PID: 2844)
+8:33:44 CH  [Apache] 	Status change detected: stopped
+8:33:44 CH  [Apache] 	Problem detected!
+8:33:44 CH  [Apache] 	Port 8080 in use by "Unable to get info" with PID 7972!
+8:33:44 CH  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:33:44 CH  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:33:44 CH  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:33:44 CH  [Apache] 	Attempting to start Apache app...
+8:33:44 CH  [Apache] 	Status change detected: running
+9:18:03 CH  [Apache] 	Attempting to stop Apache (PID: 3516)
+9:18:03 CH  [Apache] 	Attempting to stop Apache (PID: 12352)
+9:18:03 CH  [Apache] 	Status change detected: stopped
+9:18:04 CH  [Apache] 	Attempting to start Apache app...
+9:18:04 CH  [Apache] 	Status change detected: running
+9:29:59 CH  [Apache] 	Attempting to stop Apache (PID: 12640)
+9:29:59 CH  [Apache] 	Attempting to stop Apache (PID: 12268)
+9:29:59 CH  [Apache] 	Status change detected: stopped
+9:30:00 CH  [Apache] 	Attempting to start Apache app...
+9:30:00 CH  [Apache] 	Status change detected: running
+9:37:29 CH  [Apache] 	Attempting to stop Apache (PID: 12928)
+9:37:29 CH  [Apache] 	Attempting to stop Apache (PID: 13516)
+9:37:29 CH  [Apache] 	Status change detected: stopped
+9:37:29 CH  [Apache] 	Attempting to start Apache app...
+9:37:29 CH  [Apache] 	Status change detected: running
+9:39:52 CH  [Apache] 	Attempting to stop Apache (PID: 68)
+9:39:52 CH  [Apache] 	Attempting to stop Apache (PID: 12248)
+9:39:53 CH  [Apache] 	Status change detected: stopped
+9:39:53 CH  [Apache] 	Attempting to start Apache app...
+9:39:53 CH  [Apache] 	Status change detected: running
+9:41:22 CH  [Apache] 	Attempting to stop Apache (PID: 17172)
+9:41:22 CH  [Apache] 	Attempting to stop Apache (PID: 17168)
+9:41:22 CH  [Apache] 	Status change detected: stopped
+9:41:23 CH  [Apache] 	Attempting to start Apache app...
+9:41:23 CH  [Apache] 	Status change detected: running
+9:43:08 CH  [Apache] 	Attempting to stop Apache (PID: 13400)
+9:43:08 CH  [Apache] 	Attempting to stop Apache (PID: 7048)
+9:43:08 CH  [Apache] 	Status change detected: stopped
+9:43:09 CH  [Apache] 	Attempting to start Apache app...
+9:43:09 CH  [Apache] 	Status change detected: running
+9:46:01 CH  [Apache] 	Attempting to stop Apache (PID: 10164)
+9:46:01 CH  [Apache] 	Attempting to stop Apache (PID: 2872)
+9:46:01 CH  [Apache] 	Status change detected: stopped
+9:46:02 CH  [Apache] 	Attempting to start Apache app...
+9:46:02 CH  [Apache] 	Status change detected: running
+9:49:35 CH  [Apache] 	Attempting to stop Apache (PID: 1460)
+9:49:35 CH  [Apache] 	Attempting to stop Apache (PID: 7276)
+9:49:35 CH  [Apache] 	Status change detected: stopped
+9:49:35 CH  [Apache] 	Attempting to start Apache app...
+9:49:36 CH  [Apache] 	Status change detected: running
+9:49:47 CH  [Apache] 	Attempting to stop Apache (PID: 8924)
+9:49:47 CH  [Apache] 	Attempting to stop Apache (PID: 10312)
+9:49:47 CH  [Apache] 	Status change detected: stopped
+9:49:48 CH  [Apache] 	Attempting to start Apache app...
+9:49:48 CH  [Apache] 	Status change detected: running
+9:55:05 CH  [Apache] 	Attempting to stop Apache (PID: 6448)
+9:55:05 CH  [Apache] 	Attempting to stop Apache (PID: 1068)
+9:55:05 CH  [Apache] 	Status change detected: stopped
+9:55:05 CH  [Apache] 	Attempting to start Apache app...
+9:55:06 CH  [Apache] 	Status change detected: running
+9:56:58 CH  [Apache] 	Attempting to stop Apache (PID: 6532)
+9:56:58 CH  [Apache] 	Attempting to stop Apache (PID: 16964)
+9:56:58 CH  [Apache] 	Status change detected: stopped
+9:56:59 CH  [Apache] 	Attempting to start Apache app...
+9:56:59 CH  [Apache] 	Status change detected: running
+9:57:02 CH  [Apache] 	Attempting to stop Apache (PID: 4600)
+9:57:02 CH  [Apache] 	Attempting to stop Apache (PID: 14796)
+9:57:02 CH  [Apache] 	Status change detected: stopped
+9:57:05 CH  [Apache] 	Attempting to start Apache app...
+9:57:05 CH  [Apache] 	Status change detected: running
+9:59:20 CH  [Apache] 	Attempting to stop Apache (PID: 11924)
+9:59:20 CH  [Apache] 	Attempting to stop Apache (PID: 2556)
+9:59:20 CH  [Apache] 	Status change detected: stopped
+9:59:20 CH  [Apache] 	Attempting to start Apache app...
+9:59:21 CH  [Apache] 	Status change detected: running
+9:59:59 CH  [Apache] 	Attempting to stop Apache (PID: 13252)
+9:59:59 CH  [Apache] 	Attempting to stop Apache (PID: 12188)
+9:59:59 CH  [Apache] 	Status change detected: stopped
+9:59:59 CH  [Apache] 	Attempting to start Apache app...
+10:00:00 CH  [Apache] 	Status change detected: running
+12:34:44 SA  [Apache] 	Attempting to stop Apache (PID: 15348)
+12:34:44 SA  [Apache] 	Attempting to stop Apache (PID: 13448)
+12:34:45 SA  [Apache] 	Status change detected: stopped
+12:34:45 SA  [Apache] 	Attempting to start Apache app...
+12:34:45 SA  [Apache] 	Status change detected: running
+12:40:26 SA  [Apache] 	Attempting to stop Apache (PID: 4236)
+12:40:26 SA  [Apache] 	Attempting to stop Apache (PID: 2456)
+12:40:27 SA  [Apache] 	Status change detected: stopped
+12:40:27 SA  [Apache] 	Attempting to start Apache app...
+12:40:27 SA  [Apache] 	Status change detected: running
+12:42:44 SA  [Apache] 	Attempting to stop Apache (PID: 13544)
+12:42:44 SA  [Apache] 	Attempting to stop Apache (PID: 15948)
+12:42:44 SA  [Apache] 	Status change detected: stopped
+12:42:44 SA  [Apache] 	Attempting to start Apache app...
+12:42:45 SA  [Apache] 	Status change detected: running
+12:46:15 SA  [Apache] 	Attempting to stop Apache (PID: 6400)
+12:46:15 SA  [Apache] 	Attempting to stop Apache (PID: 13776)
+12:46:15 SA  [Apache] 	Status change detected: stopped
+12:46:16 SA  [Apache] 	Attempting to start Apache app...
+12:46:16 SA  [Apache] 	Status change detected: running
+12:47:12 SA  [Apache] 	Attempting to stop Apache (PID: 7272)
+12:47:12 SA  [Apache] 	Attempting to stop Apache (PID: 15544)
+12:47:13 SA  [Apache] 	Status change detected: stopped
+12:47:13 SA  [Apache] 	Attempting to start Apache app...
+12:47:13 SA  [Apache] 	Status change detected: running
+12:49:55 SA  [Apache] 	Attempting to stop Apache (PID: 16136)
+12:49:55 SA  [Apache] 	Attempting to stop Apache (PID: 12284)
+12:49:55 SA  [Apache] 	Status change detected: stopped
+12:49:55 SA  [Apache] 	Attempting to start Apache app...
+12:49:56 SA  [Apache] 	Status change detected: running
+12:51:41 SA  [Apache] 	Attempting to stop Apache (PID: 15224)
+12:51:41 SA  [Apache] 	Attempting to stop Apache (PID: 9168)
+12:51:41 SA  [Apache] 	Status change detected: stopped
+12:51:42 SA  [Apache] 	Attempting to start Apache app...
+12:51:42 SA  [Apache] 	Status change detected: running
+12:53:25 SA  [Apache] 	Attempting to stop Apache (PID: 8512)
+12:53:25 SA  [Apache] 	Attempting to stop Apache (PID: 10816)
+12:53:25 SA  [Apache] 	Status change detected: stopped
+12:53:26 SA  [Apache] 	Attempting to start Apache app...
+12:53:26 SA  [Apache] 	Status change detected: running
+12:54:17 SA  [Apache] 	Attempting to stop Apache (PID: 11096)
+12:54:17 SA  [Apache] 	Attempting to stop Apache (PID: 12032)
+12:54:18 SA  [Apache] 	Status change detected: stopped
+12:54:18 SA  [Apache] 	Attempting to start Apache app...
+12:54:18 SA  [Apache] 	Status change detected: running
+1:03:58 SA  [Apache] 	Attempting to stop Apache (PID: 17136)
+1:03:58 SA  [Apache] 	Attempting to stop Apache (PID: 13284)
+1:03:58 SA  [Apache] 	Status change detected: stopped
+1:03:59 SA  [Apache] 	Attempting to start Apache app...
+1:03:59 SA  [Apache] 	Status change detected: running
+1:04:35 SA  [Apache] 	Attempting to stop Apache (PID: 16704)
+1:04:35 SA  [Apache] 	Attempting to stop Apache (PID: 2964)
+1:04:35 SA  [Apache] 	Status change detected: stopped
+1:04:36 SA  [Apache] 	Attempting to start Apache app...
+1:04:36 SA  [Apache] 	Status change detected: running
+1:07:23 SA  [Apache] 	Attempting to stop Apache (PID: 2372)
+1:07:23 SA  [Apache] 	Attempting to stop Apache (PID: 11844)
+1:07:23 SA  [Apache] 	Status change detected: stopped
+1:07:24 SA  [Apache] 	Attempting to start Apache app...
+1:07:24 SA  [Apache] 	Status change detected: running
+1:10:44 SA  [Apache] 	Attempting to stop Apache (PID: 11332)
+1:10:44 SA  [Apache] 	Attempting to stop Apache (PID: 10348)
+1:10:45 SA  [Apache] 	Status change detected: stopped
+1:10:45 SA  [Apache] 	Attempting to start Apache app...
+1:10:46 SA  [Apache] 	Status change detected: running
+1:11:13 SA  [Apache] 	Attempting to stop Apache (PID: 13672)
+1:11:13 SA  [Apache] 	Attempting to stop Apache (PID: 2964)
+1:11:13 SA  [Apache] 	Status change detected: stopped
+1:11:14 SA  [Apache] 	Attempting to start Apache app...
+1:11:14 SA  [Apache] 	Status change detected: running
+1:11:42 SA  [Apache] 	Attempting to stop Apache (PID: 6180)
+1:11:42 SA  [Apache] 	Attempting to stop Apache (PID: 13800)
+1:11:42 SA  [Apache] 	Status change detected: stopped
+1:11:42 SA  [Apache] 	Attempting to start Apache app...
+1:11:43 SA  [Apache] 	Status change detected: running
+1:12:11 SA  [Apache] 	Attempting to stop Apache (PID: 13436)
+1:12:11 SA  [Apache] 	Attempting to stop Apache (PID: 11636)
+1:12:12 SA  [Apache] 	Status change detected: stopped
+1:12:12 SA  [Apache] 	Attempting to start Apache app...
+1:12:12 SA  [Apache] 	Status change detected: running
+1:22:57 SA  [Apache] 	Attempting to stop Apache (PID: 16736)
+1:22:57 SA  [Apache] 	Attempting to stop Apache (PID: 3172)
+1:22:58 SA  [Apache] 	Status change detected: stopped
+1:22:58 SA  [Apache] 	Attempting to start Apache app...
+1:22:59 SA  [Apache] 	Status change detected: running
+1:28:53 SA  [Apache] 	Attempting to stop Apache (PID: 13608)
+1:28:53 SA  [Apache] 	Attempting to stop Apache (PID: 13884)
+1:28:53 SA  [Apache] 	Status change detected: stopped
+1:28:53 SA  [Apache] 	Attempting to start Apache app...
+1:28:54 SA  [Apache] 	Status change detected: running
+1:30:06 SA  [Apache] 	Attempting to stop Apache (PID: 15168)
+1:30:06 SA  [Apache] 	Attempting to stop Apache (PID: 12456)
+1:30:06 SA  [Apache] 	Status change detected: stopped
+1:30:07 SA  [Apache] 	Attempting to start Apache app...
+1:30:07 SA  [Apache] 	Status change detected: running
+1:33:42 SA  [Apache] 	Attempting to stop Apache (PID: 14916)
+1:33:42 SA  [Apache] 	Attempting to stop Apache (PID: 2372)
+1:33:42 SA  [Apache] 	Status change detected: stopped
+1:33:43 SA  [Apache] 	Attempting to start Apache app...
+1:33:43 SA  [Apache] 	Status change detected: running
+1:38:51 SA  [Apache] 	Attempting to stop Apache (PID: 16956)
+1:38:51 SA  [Apache] 	Attempting to stop Apache (PID: 9376)
+1:38:51 SA  [Apache] 	Status change detected: stopped
+1:38:51 SA  [Apache] 	Attempting to start Apache app...
+1:38:51 SA  [Apache] 	Status change detected: running
+1:44:02 SA  [Apache] 	Attempting to stop Apache (PID: 10036)
+1:44:02 SA  [Apache] 	Attempting to stop Apache (PID: 11412)
+1:44:03 SA  [Apache] 	Status change detected: stopped
+1:44:03 SA  [Apache] 	Attempting to start Apache app...
+1:44:03 SA  [Apache] 	Status change detected: running
+1:48:03 SA  [Apache] 	Attempting to stop Apache (PID: 16836)
+1:48:03 SA  [Apache] 	Attempting to stop Apache (PID: 11016)
+1:48:04 SA  [Apache] 	Status change detected: stopped
+1:48:04 SA  [Apache] 	Attempting to start Apache app...
+1:48:04 SA  [Apache] 	Status change detected: running
+1:50:19 SA  [Apache] 	Attempting to stop Apache (PID: 16444)
+1:50:19 SA  [Apache] 	Attempting to stop Apache (PID: 14752)
+1:50:19 SA  [Apache] 	Status change detected: stopped
+1:50:19 SA  [Apache] 	Attempting to start Apache app...
+1:50:20 SA  [Apache] 	Status change detected: running
+1:51:50 SA  [Apache] 	Attempting to stop Apache (PID: 16048)
+1:51:50 SA  [Apache] 	Attempting to stop Apache (PID: 4616)
+1:51:51 SA  [Apache] 	Status change detected: stopped
+1:51:51 SA  [Apache] 	Attempting to start Apache app...
+1:51:51 SA  [Apache] 	Status change detected: running
+1:52:24 SA  [Apache] 	Attempting to stop Apache (PID: 2784)
+1:52:24 SA  [Apache] 	Attempting to stop Apache (PID: 2552)
+1:52:24 SA  [Apache] 	Status change detected: stopped
+1:52:24 SA  [Apache] 	Attempting to start Apache app...
+1:52:25 SA  [Apache] 	Status change detected: running
+1:53:29 SA  [Apache] 	Attempting to stop Apache (PID: 13264)
+1:53:29 SA  [Apache] 	Attempting to stop Apache (PID: 6612)
+1:53:29 SA  [Apache] 	Status change detected: stopped
+1:53:29 SA  [Apache] 	Attempting to start Apache app...
+1:53:29 SA  [Apache] 	Status change detected: running
+1:54:35 SA  [Apache] 	Attempting to stop Apache (PID: 12036)
+1:54:35 SA  [Apache] 	Attempting to stop Apache (PID: 9248)
+1:54:35 SA  [Apache] 	Status change detected: stopped
+1:54:35 SA  [Apache] 	Attempting to start Apache app...
+1:54:36 SA  [Apache] 	Status change detected: running
+2:07:51 SA  [Apache] 	Attempting to stop Apache (PID: 11532)
+2:07:51 SA  [Apache] 	Attempting to stop Apache (PID: 3912)
+2:07:51 SA  [Apache] 	Status change detected: stopped
+2:07:51 SA  [Apache] 	Attempting to start Apache app...
+2:07:52 SA  [Apache] 	Status change detected: running
+2:30:11 SA  [Apache] 	Attempting to stop Apache (PID: 9072)
+2:30:11 SA  [Apache] 	Attempting to stop Apache (PID: 16272)
+2:30:12 SA  [Apache] 	Status change detected: stopped
+2:30:12 SA  [Apache] 	Attempting to start Apache app...
+2:30:12 SA  [Apache] 	Status change detected: running
+2:31:56 SA  [Apache] 	Attempting to stop Apache (PID: 10256)
+2:31:56 SA  [Apache] 	Attempting to stop Apache (PID: 4012)
+2:31:56 SA  [Apache] 	Status change detected: stopped
+2:31:56 SA  [Apache] 	Attempting to start Apache app...
+2:31:57 SA  [Apache] 	Status change detected: running
+2:43:59 SA  [Apache] 	Attempting to stop Apache (PID: 11528)
+2:43:59 SA  [Apache] 	Attempting to stop Apache (PID: 14980)
+2:43:59 SA  [Apache] 	Status change detected: stopped
+2:44:00 SA  [Apache] 	Attempting to start Apache app...
+2:44:00 SA  [Apache] 	Status change detected: running
+3:10:10 SA  [Apache] 	Attempting to stop Apache (PID: 9268)
+3:10:10 SA  [Apache] 	Attempting to stop Apache (PID: 16360)
+3:10:10 SA  [Apache] 	Status change detected: stopped
+3:10:10 SA  [Apache] 	Attempting to start Apache app...
+3:10:10 SA  [Apache] 	Status change detected: running
+3:11:53 SA  [Apache] 	Attempting to stop Apache (PID: 5480)
+3:11:53 SA  [Apache] 	Attempting to stop Apache (PID: 16076)
+3:11:53 SA  [Apache] 	Status change detected: stopped
+3:11:53 SA  [Apache] 	Attempting to start Apache app...
+3:11:54 SA  [Apache] 	Status change detected: running
+3:13:25 SA  [Apache] 	Attempting to stop Apache (PID: 9152)
+3:13:25 SA  [Apache] 	Attempting to stop Apache (PID: 8484)
+3:13:25 SA  [Apache] 	Status change detected: stopped
+3:13:26 SA  [Apache] 	Attempting to start Apache app...
+3:13:26 SA  [Apache] 	Status change detected: running
+3:33:07 SA  [Apache] 	Attempting to stop Apache (PID: 8732)
+3:33:07 SA  [Apache] 	Attempting to stop Apache (PID: 11848)
+3:33:08 SA  [Apache] 	Status change detected: stopped
+3:33:08 SA  [Apache] 	Attempting to start Apache app...
+3:33:08 SA  [Apache] 	Status change detected: running
+3:36:33 SA  [Apache] 	Attempting to stop Apache (PID: 6532)
+3:36:33 SA  [Apache] 	Attempting to stop Apache (PID: 16832)
+3:36:33 SA  [Apache] 	Status change detected: stopped
+3:36:33 SA  [Apache] 	Attempting to start Apache app...
+3:36:34 SA  [Apache] 	Status change detected: running
+3:37:47 SA  [Apache] 	Attempting to stop Apache (PID: 17344)
+3:37:47 SA  [Apache] 	Attempting to stop Apache (PID: 3608)
+3:37:47 SA  [Apache] 	Status change detected: stopped
+3:37:47 SA  [Apache] 	Attempting to start Apache app...
+3:37:48 SA  [Apache] 	Status change detected: running
+3:37:49 SA  [Apache] 	Attempting to stop Apache (PID: 1620)
+3:37:49 SA  [Apache] 	Attempting to stop Apache (PID: 10584)
+3:37:49 SA  [Apache] 	Status change detected: stopped
+3:37:50 SA  [Apache] 	Attempting to start Apache app...
+3:37:50 SA  [Apache] 	Status change detected: running
+3:43:44 SA  [Apache] 	Attempting to stop Apache (PID: 8684)
+3:43:44 SA  [Apache] 	Attempting to stop Apache (PID: 5272)
+3:43:44 SA  [Apache] 	Status change detected: stopped
+3:43:44 SA  [Apache] 	Attempting to start Apache app...
+3:43:44 SA  [Apache] 	Status change detected: running
+3:45:21 SA  [Apache] 	Attempting to stop Apache (PID: 9992)
+3:45:21 SA  [Apache] 	Attempting to stop Apache (PID: 13888)
+3:45:21 SA  [Apache] 	Status change detected: stopped
+3:45:22 SA  [mysql] 	Attempting to stop MySQL app...
+3:45:22 SA  [mysql] 	Status change detected: stopped
+3:55:06 SA  [main] 	Deinitializing Modules
+3:55:06 SA  [main] 	Deinitializing Control Panel
+
+10:23:22 SA  [main] 	Initializing Control Panel
+10:23:22 SA  [main] 	Windows Version:  Home  64-bit
+10:23:22 SA  [main] 	XAMPP Version: 7.4.9
+10:23:22 SA  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:23:22 SA  [main] 	Running with Administrator rights - good!
+10:23:22 SA  [main] 	XAMPP Installation Directory: "d:\xampp\"
+10:23:22 SA  [main] 	Checking for prerequisites
+10:23:23 SA  [main] 	All prerequisites found
+10:23:23 SA  [main] 	Initializing Modules
+10:23:23 SA  [main] 	Starting Check-Timer
+10:23:23 SA  [main] 	Control Panel Ready
+10:23:24 SA  [mysql] 	Attempting to start MySQL app...
+10:23:24 SA  [mysql] 	Status change detected: running
+10:23:26 SA  [Apache] 	Attempting to start Apache app...
+10:23:27 SA  [Apache] 	Status change detected: running
+10:23:29 SA  [Apache] 	Attempting to stop Apache (PID: 9664)
+10:23:29 SA  [Apache] 	Attempting to stop Apache (PID: 8892)
+10:23:29 SA  [Apache] 	Status change detected: stopped
+10:23:30 SA  [mysql] 	Attempting to stop MySQL app...
+10:23:30 SA  [mysql] 	Status change detected: stopped
+11:10:17 SA  [main] 	Deinitializing Modules
+11:10:17 SA  [main] 	Deinitializing Control Panel
+
+12:40:39 CH  [main] 	Initializing Control Panel
+12:40:39 CH  [main] 	Windows Version:  Home  64-bit
+12:40:39 CH  [main] 	XAMPP Version: 7.4.9
+12:40:39 CH  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:40:39 CH  [main] 	Running with Administrator rights - good!
+12:40:39 CH  [main] 	XAMPP Installation Directory: "d:\xampp\"
+12:40:39 CH  [main] 	Checking for prerequisites
+12:40:40 CH  [main] 	All prerequisites found
+12:40:40 CH  [main] 	Initializing Modules
+12:40:40 CH  [main] 	Starting Check-Timer
+12:40:40 CH  [main] 	Control Panel Ready
+12:42:24 CH  [Apache] 	Attempting to start Apache app...
+12:42:24 CH  [Apache] 	Status change detected: running
+12:42:25 CH  [mysql] 	Attempting to start MySQL app...
+12:42:25 CH  [mysql] 	Status change detected: running
+2:01:10 CH  [Apache] 	Attempting to stop Apache (PID: 16796)
+2:01:10 CH  [Apache] 	Attempting to stop Apache (PID: 14016)
+2:01:10 CH  [Apache] 	Status change detected: stopped
+2:01:10 CH  [Apache] 	Attempting to start Apache app...
+2:01:10 CH  [Apache] 	Status change detected: running
+2:07:46 CH  [Apache] 	Attempting to stop Apache (PID: 2384)
+2:07:46 CH  [Apache] 	Attempting to stop Apache (PID: 8640)
+2:07:47 CH  [Apache] 	Status change detected: stopped
+2:07:47 CH  [mysql] 	Attempting to stop MySQL app...
+2:07:47 CH  [mysql] 	Status change detected: stopped
+2:07:51 CH  [main] 	Deinitializing Modules
+2:07:51 CH  [main] 	Deinitializing Control Panel
+
+2:59:46 CH  [main] 	Initializing Control Panel
+2:59:46 CH  [main] 	Windows Version:  Home  64-bit
+2:59:46 CH  [main] 	XAMPP Version: 7.4.9
+2:59:46 CH  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+2:59:46 CH  [main] 	Running with Administrator rights - good!
+2:59:46 CH  [main] 	XAMPP Installation Directory: "d:\xampp\"
+2:59:46 CH  [main] 	Checking for prerequisites
+2:59:48 CH  [main] 	All prerequisites found
+2:59:48 CH  [main] 	Initializing Modules
+2:59:48 CH  [main] 	Starting Check-Timer
+2:59:48 CH  [main] 	Control Panel Ready
+3:25:56 CH  [Apache] 	Attempting to start Apache app...
+3:25:57 CH  [Apache] 	Status change detected: running
+3:25:57 CH  [mysql] 	Attempting to start MySQL app...
+3:25:57 CH  [mysql] 	Status change detected: running
+3:30:24 CH  [Apache] 	Attempting to stop Apache (PID: 11004)
+3:30:24 CH  [Apache] 	Attempting to stop Apache (PID: 13780)
+3:30:24 CH  [Apache] 	Status change detected: stopped
+3:30:24 CH  [Apache] 	Attempting to start Apache app...
+3:30:24 CH  [Apache] 	Status change detected: running
+3:30:33 CH  [Apache] 	Attempting to stop Apache (PID: 8308)
+3:30:33 CH  [Apache] 	Attempting to stop Apache (PID: 11304)
+3:30:34 CH  [Apache] 	Status change detected: stopped
+3:30:34 CH  [mysql] 	Attempting to stop MySQL app...
+3:30:34 CH  [mysql] 	Status change detected: stopped
+3:30:44 CH  [main] 	Deinitializing Modules
+3:30:44 CH  [main] 	Deinitializing Control Panel
+
+6:05:36 CH  [main] 	Initializing Control Panel
+6:05:36 CH  [main] 	Windows Version:  Home  64-bit
+6:05:36 CH  [main] 	XAMPP Version: 7.4.9
+6:05:36 CH  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+6:05:36 CH  [main] 	Running with Administrator rights - good!
+6:05:36 CH  [main] 	XAMPP Installation Directory: "d:\xampp\"
+6:05:36 CH  [main] 	Checking for prerequisites
+6:05:37 CH  [main] 	All prerequisites found
+6:05:37 CH  [main] 	Initializing Modules
+6:05:37 CH  [main] 	Starting Check-Timer
+6:05:37 CH  [main] 	Control Panel Ready
+8:40:39 CH  [main] 	Deinitializing Modules
+8:40:39 CH  [main] 	Deinitializing Control Panel
+
+10:29:15 CH  [main] 	Initializing Control Panel
+10:29:15 CH  [main] 	Windows Version:  Home  64-bit
+10:29:15 CH  [main] 	XAMPP Version: 7.4.9
+10:29:15 CH  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:29:15 CH  [main] 	Running with Administrator rights - good!
+10:29:15 CH  [main] 	XAMPP Installation Directory: "d:\xampp\"
+10:29:15 CH  [main] 	Checking for prerequisites
+10:29:17 CH  [main] 	All prerequisites found
+10:29:17 CH  [main] 	Initializing Modules
+10:29:17 CH  [main] 	Starting Check-Timer
+10:29:17 CH  [main] 	Control Panel Ready
+10:29:19 CH  [Apache] 	Attempting to start Apache app...
+10:29:19 CH  [Apache] 	Status change detected: running
+10:29:19 CH  [mysql] 	Attempting to start MySQL app...
+10:29:20 CH  [mysql] 	Status change detected: running
+11:47:43 CH  [Apache] 	Attempting to stop Apache (PID: 11864)
+11:47:43 CH  [Apache] 	Attempting to stop Apache (PID: 12116)
+11:47:44 CH  [Apache] 	Status change detected: stopped
+11:47:44 CH  [mysql] 	Attempting to stop MySQL app...
+11:47:44 CH  [mysql] 	Status change detected: stopped
+11:50:49 CH  [main] 	Deinitializing Modules
+11:50:49 CH  [main] 	Deinitializing Control Panel
+
+10:46:39 SA  [main] 	Initializing Control Panel
+10:46:39 SA  [main] 	Windows Version:  Home  64-bit
+10:46:39 SA  [main] 	XAMPP Version: 7.4.9
+10:46:39 SA  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:46:39 SA  [main] 	Running with Administrator rights - good!
+10:46:39 SA  [main] 	XAMPP Installation Directory: "d:\xampp\"
+10:46:39 SA  [main] 	Checking for prerequisites
+10:46:40 SA  [main] 	All prerequisites found
+10:46:40 SA  [main] 	Initializing Modules
+10:46:40 SA  [main] 	Starting Check-Timer
+10:46:40 SA  [main] 	Control Panel Ready
+11:02:54 SA  [Apache] 	Attempting to start Apache app...
+11:02:54 SA  [Apache] 	Status change detected: running
+11:02:55 SA  [mysql] 	Attempting to start MySQL app...
+11:02:55 SA  [mysql] 	Status change detected: running
+11:22:57 SA  [Apache] 	Attempting to stop Apache (PID: 3320)
+11:22:57 SA  [Apache] 	Attempting to stop Apache (PID: 11336)
+11:22:57 SA  [Apache] 	Status change detected: stopped
+11:22:58 SA  [Apache] 	Attempting to start Apache app...
+11:22:58 SA  [Apache] 	Status change detected: running
+12:00:26 CH  [Apache] 	Attempting to stop Apache (PID: 12984)
+12:00:26 CH  [Apache] 	Attempting to stop Apache (PID: 13828)
+12:00:27 CH  [Apache] 	Status change detected: stopped
+12:00:27 CH  [Apache] 	Attempting to start Apache app...
+12:00:27 CH  [Apache] 	Status change detected: running
+12:07:35 CH  [Apache] 	Attempting to stop Apache (PID: 11836)
+12:07:35 CH  [Apache] 	Attempting to stop Apache (PID: 3892)
+12:07:35 CH  [Apache] 	Status change detected: stopped
+12:07:36 CH  [Apache] 	Attempting to start Apache app...
+12:07:36 CH  [Apache] 	Status change detected: running
+12:11:20 CH  [Apache] 	Attempting to stop Apache (PID: 9060)
+12:11:20 CH  [Apache] 	Attempting to stop Apache (PID: 11492)
+12:11:20 CH  [Apache] 	Status change detected: stopped
+12:11:21 CH  [Apache] 	Attempting to start Apache app...
+12:11:21 CH  [Apache] 	Status change detected: running
+12:11:44 CH  [Apache] 	Attempting to stop Apache (PID: 11504)
+12:11:44 CH  [Apache] 	Attempting to stop Apache (PID: 11244)
+12:11:44 CH  [Apache] 	Status change detected: stopped
+12:11:44 CH  [Apache] 	Attempting to start Apache app...
+12:11:44 CH  [Apache] 	Status change detected: running
+12:12:57 CH  [Apache] 	Attempting to stop Apache (PID: 3872)
+12:12:57 CH  [Apache] 	Attempting to stop Apache (PID: 12680)
+12:12:57 CH  [Apache] 	Status change detected: stopped
+12:12:57 CH  [Apache] 	Attempting to start Apache app...
+12:12:58 CH  [Apache] 	Status change detected: running
+12:15:04 CH  [Apache] 	Attempting to stop Apache (PID: 3592)
+12:15:04 CH  [Apache] 	Attempting to stop Apache (PID: 12180)
+12:15:04 CH  [Apache] 	Status change detected: stopped
+12:15:05 CH  [Apache] 	Attempting to start Apache app...
+12:15:05 CH  [Apache] 	Status change detected: running
+12:16:29 CH  [Apache] 	Attempting to stop Apache (PID: 1340)
+12:16:29 CH  [Apache] 	Attempting to stop Apache (PID: 2184)
+12:16:29 CH  [Apache] 	Status change detected: stopped
+12:16:30 CH  [Apache] 	Attempting to start Apache app...
+12:16:30 CH  [Apache] 	Status change detected: running
+12:16:57 CH  [Apache] 	Attempting to stop Apache (PID: 10888)
+12:16:57 CH  [Apache] 	Attempting to stop Apache (PID: 11716)
+12:16:58 CH  [Apache] 	Status change detected: stopped
+12:16:58 CH  [Apache] 	Attempting to start Apache app...
+12:16:58 CH  [Apache] 	Status change detected: running
+12:21:50 CH  [Apache] 	Attempting to stop Apache (PID: 9388)
+12:21:50 CH  [Apache] 	Attempting to stop Apache (PID: 9768)
+12:21:50 CH  [Apache] 	Status change detected: stopped
+12:21:51 CH  [Apache] 	Attempting to start Apache app...
+12:21:51 CH  [Apache] 	Status change detected: running
+12:27:56 CH  [Apache] 	Attempting to stop Apache (PID: 6040)
+12:27:56 CH  [Apache] 	Attempting to stop Apache (PID: 9336)
+12:27:56 CH  [Apache] 	Status change detected: stopped
+12:27:57 CH  [Apache] 	Attempting to start Apache app...
+12:27:57 CH  [Apache] 	Status change detected: running
+12:33:49 CH  [Apache] 	Attempting to stop Apache (PID: 10352)
+12:33:49 CH  [Apache] 	Attempting to stop Apache (PID: 11376)
+12:33:49 CH  [Apache] 	Status change detected: stopped
+12:33:50 CH  [Apache] 	Attempting to start Apache app...
+12:33:50 CH  [Apache] 	Status change detected: running
+12:44:44 CH  [Apache] 	Attempting to stop Apache (PID: 7924)
+12:44:44 CH  [Apache] 	Attempting to stop Apache (PID: 12320)
+12:44:45 CH  [Apache] 	Status change detected: stopped
+12:44:45 CH  [Apache] 	Attempting to start Apache app...
+12:44:45 CH  [Apache] 	Status change detected: running
+12:56:47 CH  [Apache] 	Attempting to stop Apache (PID: 12740)
+12:56:47 CH  [Apache] 	Attempting to stop Apache (PID: 11804)
+12:56:47 CH  [Apache] 	Status change detected: stopped
+12:56:48 CH  [Apache] 	Attempting to start Apache app...
+12:56:48 CH  [Apache] 	Status change detected: running
+12:58:11 CH  [Apache] 	Attempting to stop Apache (PID: 11064)
+12:58:11 CH  [Apache] 	Attempting to stop Apache (PID: 11036)
+12:58:11 CH  [Apache] 	Status change detected: stopped
+12:58:12 CH  [Apache] 	Attempting to start Apache app...
+12:58:12 CH  [Apache] 	Status change detected: running
+1:00:30 CH  [Apache] 	Attempting to stop Apache (PID: 13600)
+1:00:30 CH  [Apache] 	Attempting to stop Apache (PID: 1812)
+1:00:30 CH  [Apache] 	Status change detected: stopped
+1:00:30 CH  [Apache] 	Attempting to start Apache app...
+1:00:31 CH  [Apache] 	Status change detected: running
+1:01:17 CH  [Apache] 	Attempting to stop Apache (PID: 2536)
+1:01:17 CH  [Apache] 	Attempting to stop Apache (PID: 10932)
+1:01:18 CH  [Apache] 	Status change detected: stopped
+1:01:18 CH  [Apache] 	Attempting to start Apache app...
+1:01:18 CH  [Apache] 	Status change detected: running
+1:01:59 CH  [Apache] 	Attempting to stop Apache (PID: 9632)
+1:01:59 CH  [Apache] 	Attempting to stop Apache (PID: 4432)
+1:01:59 CH  [Apache] 	Status change detected: stopped
+1:01:59 CH  [Apache] 	Attempting to start Apache app...
+1:01:59 CH  [Apache] 	Status change detected: running
+1:03:44 CH  [Apache] 	Attempting to stop Apache (PID: 11996)
+1:03:44 CH  [Apache] 	Attempting to stop Apache (PID: 9992)
+1:03:44 CH  [Apache] 	Status change detected: stopped
+1:03:44 CH  [Apache] 	Attempting to start Apache app...
+1:03:44 CH  [Apache] 	Status change detected: running
+1:04:40 CH  [Apache] 	Attempting to stop Apache (PID: 10848)
+1:04:40 CH  [Apache] 	Attempting to stop Apache (PID: 7676)
+1:04:40 CH  [Apache] 	Status change detected: stopped
+1:04:40 CH  [Apache] 	Attempting to start Apache app...
+1:04:41 CH  [Apache] 	Status change detected: running
+1:04:55 CH  [Apache] 	Attempting to stop Apache (PID: 8196)
+1:04:55 CH  [Apache] 	Attempting to stop Apache (PID: 5284)
+1:04:55 CH  [Apache] 	Status change detected: stopped
+1:04:56 CH  [Apache] 	Attempting to start Apache app...
+1:04:56 CH  [Apache] 	Status change detected: running
+1:05:07 CH  [Apache] 	Attempting to stop Apache (PID: 11464)
+1:05:07 CH  [Apache] 	Attempting to stop Apache (PID: 9992)
+1:05:07 CH  [Apache] 	Status change detected: stopped
+1:05:08 CH  [Apache] 	Attempting to start Apache app...
+1:05:08 CH  [Apache] 	Status change detected: running
+1:14:27 CH  [Apache] 	Attempting to stop Apache (PID: 2676)
+1:14:27 CH  [Apache] 	Attempting to stop Apache (PID: 4164)
+1:14:28 CH  [Apache] 	Status change detected: stopped
+1:14:28 CH  [Apache] 	Attempting to start Apache app...
+1:14:28 CH  [Apache] 	Status change detected: running
+1:18:20 CH  [Apache] 	Attempting to stop Apache (PID: 12468)
+1:18:20 CH  [Apache] 	Attempting to stop Apache (PID: 13416)
+1:18:20 CH  [Apache] 	Status change detected: stopped
+1:18:21 CH  [Apache] 	Attempting to start Apache app...
+1:18:21 CH  [Apache] 	Status change detected: running
+1:19:32 CH  [Apache] 	Attempting to stop Apache (PID: 8196)
+1:19:32 CH  [Apache] 	Attempting to stop Apache (PID: 14280)
+1:19:32 CH  [Apache] 	Status change detected: stopped
+1:19:32 CH  [Apache] 	Attempting to start Apache app...
+1:19:33 CH  [Apache] 	Status change detected: running
+1:44:08 CH  [Apache] 	Attempting to stop Apache (PID: 6008)
+1:44:08 CH  [Apache] 	Attempting to stop Apache (PID: 12468)
+1:44:09 CH  [Apache] 	Status change detected: stopped
+1:44:09 CH  [Apache] 	Attempting to start Apache app...
+1:44:09 CH  [Apache] 	Status change detected: running
+1:44:56 CH  [Apache] 	Attempting to stop Apache (PID: 10828)
+1:44:56 CH  [Apache] 	Attempting to stop Apache (PID: 14424)
+1:44:56 CH  [Apache] 	Status change detected: stopped
+1:44:58 CH  [Apache] 	Attempting to start Apache app...
+1:44:58 CH  [Apache] 	Status change detected: running
+1:46:00 CH  [Apache] 	Attempting to stop Apache (PID: 13444)
+1:46:00 CH  [Apache] 	Attempting to stop Apache (PID: 2116)
+1:46:00 CH  [Apache] 	Status change detected: stopped
+1:46:00 CH  [Apache] 	Attempting to start Apache app...
+1:46:00 CH  [Apache] 	Status change detected: running
+1:46:41 CH  [Apache] 	Attempting to stop Apache (PID: 15204)
+1:46:41 CH  [Apache] 	Attempting to stop Apache (PID: 12944)
+1:46:41 CH  [Apache] 	Status change detected: stopped
+1:46:41 CH  [Apache] 	Attempting to start Apache app...
+1:46:42 CH  [Apache] 	Status change detected: running
+1:48:08 CH  [Apache] 	Attempting to stop Apache (PID: 15240)
+1:48:08 CH  [Apache] 	Attempting to stop Apache (PID: 4828)
+1:48:08 CH  [Apache] 	Status change detected: stopped
+1:48:09 CH  [Apache] 	Attempting to start Apache app...
+1:48:09 CH  [Apache] 	Status change detected: running
+1:49:54 CH  [Apache] 	Attempting to stop Apache (PID: 960)
+1:49:55 CH  [Apache] 	Attempting to stop Apache (PID: 12196)
+1:49:55 CH  [Apache] 	Status change detected: stopped
+1:49:55 CH  [Apache] 	Attempting to start Apache app...
+1:49:55 CH  [Apache] 	Status change detected: running
+2:12:43 CH  [Apache] 	Attempting to stop Apache (PID: 9696)
+2:12:43 CH  [Apache] 	Attempting to stop Apache (PID: 15092)
+2:12:43 CH  [Apache] 	Status change detected: stopped
+2:12:45 CH  [Apache] 	Attempting to start Apache app...
+2:12:46 CH  [Apache] 	Status change detected: running
+2:20:01 CH  [Apache] 	Attempting to stop Apache (PID: 13468)
+2:20:01 CH  [Apache] 	Attempting to stop Apache (PID: 14624)
+2:20:01 CH  [Apache] 	Status change detected: stopped
+2:20:02 CH  [Apache] 	Attempting to start Apache app...
+2:20:02 CH  [Apache] 	Status change detected: running
+2:39:49 CH  [Apache] 	Attempting to stop Apache (PID: 14772)
+2:39:49 CH  [Apache] 	Attempting to stop Apache (PID: 14608)
+2:39:49 CH  [Apache] 	Status change detected: stopped
+2:39:50 CH  [Apache] 	Attempting to start Apache app...
+2:39:50 CH  [Apache] 	Status change detected: running
+2:39:55 CH  [Apache] 	Attempting to stop Apache (PID: 6544)
+2:39:55 CH  [Apache] 	Attempting to stop Apache (PID: 7804)
+2:39:55 CH  [Apache] 	Status change detected: stopped
+2:39:55 CH  [Apache] 	Attempting to start Apache app...
+2:39:56 CH  [Apache] 	Status change detected: running
+2:41:15 CH  [Apache] 	Attempting to stop Apache (PID: 9224)
+2:41:15 CH  [Apache] 	Attempting to stop Apache (PID: 15000)
+2:41:15 CH  [Apache] 	Status change detected: stopped
+2:41:16 CH  [Apache] 	Attempting to start Apache app...
+2:41:16 CH  [Apache] 	Status change detected: running
+2:42:13 CH  [Apache] 	Attempting to stop Apache (PID: 8680)
+2:42:13 CH  [Apache] 	Attempting to stop Apache (PID: 11536)
+2:42:14 CH  [Apache] 	Status change detected: stopped
+2:42:14 CH  [Apache] 	Attempting to start Apache app...
+2:42:14 CH  [Apache] 	Status change detected: running
+2:42:20 CH  [Apache] 	Attempting to stop Apache (PID: 13828)
+2:42:20 CH  [Apache] 	Attempting to stop Apache (PID: 14940)
+2:42:21 CH  [Apache] 	Status change detected: stopped
+2:42:21 CH  [Apache] 	Attempting to start Apache app...
+2:42:21 CH  [Apache] 	Status change detected: running
+2:47:05 CH  [Apache] 	Attempting to stop Apache (PID: 14864)
+2:47:05 CH  [Apache] 	Attempting to stop Apache (PID: 13368)
+2:47:05 CH  [Apache] 	Status change detected: stopped
+2:47:06 CH  [Apache] 	Attempting to start Apache app...
+2:47:06 CH  [Apache] 	Status change detected: running
+2:48:40 CH  [Apache] 	Attempting to stop Apache (PID: 15256)
+2:48:40 CH  [Apache] 	Attempting to stop Apache (PID: 14708)
+2:48:40 CH  [Apache] 	Status change detected: stopped
+2:48:41 CH  [Apache] 	Attempting to start Apache app...
+2:48:41 CH  [Apache] 	Status change detected: running
+3:01:50 CH  [Apache] 	Attempting to stop Apache (PID: 9140)
+3:01:50 CH  [Apache] 	Attempting to stop Apache (PID: 14460)
+3:01:50 CH  [Apache] 	Status change detected: stopped
+3:01:50 CH  [Apache] 	Attempting to start Apache app...
+3:01:50 CH  [Apache] 	Status change detected: running
+3:03:18 CH  [Apache] 	Attempting to stop Apache (PID: 15992)
+3:03:18 CH  [Apache] 	Attempting to stop Apache (PID: 15936)
+3:03:18 CH  [Apache] 	Status change detected: stopped
+3:03:18 CH  [Apache] 	Attempting to start Apache app...
+3:03:18 CH  [Apache] 	Status change detected: running
+3:05:32 CH  [Apache] 	Attempting to stop Apache (PID: 2972)
+3:05:32 CH  [Apache] 	Attempting to stop Apache (PID: 15768)
+3:05:32 CH  [Apache] 	Attempting to stop Apache (PID: 2972)
+3:05:32 CH  [Apache] 	Problem killing PID 2972
+3:05:32 CH  [Apache] 	Check that you have the proper privileges
+3:05:32 CH  [Apache] 	Attempting to stop Apache (PID: 15768)
+3:05:32 CH  [Apache] 	Problem killing PID 15768
+3:05:32 CH  [Apache] 	Check that you have the proper privileges
+3:05:32 CH  [Apache] 	Status change detected: stopped
+3:05:35 CH  [Apache] 	Attempting to start Apache app...
+3:05:36 CH  [Apache] 	Status change detected: running
+3:09:26 CH  [Apache] 	Attempting to stop Apache (PID: 11792)
+3:09:26 CH  [Apache] 	Attempting to stop Apache (PID: 14480)
+3:09:26 CH  [Apache] 	Status change detected: stopped
+3:09:26 CH  [Apache] 	Attempting to start Apache app...
+3:09:27 CH  [Apache] 	Status change detected: running
+3:10:25 CH  [Apache] 	Attempting to stop Apache (PID: 2440)
+3:10:25 CH  [Apache] 	Attempting to stop Apache (PID: 10976)
+3:10:26 CH  [Apache] 	Status change detected: stopped
+3:10:26 CH  [Apache] 	Attempting to start Apache app...
+3:10:26 CH  [Apache] 	Status change detected: running
+3:10:54 CH  [Apache] 	Attempting to stop Apache (PID: 2972)
+3:10:54 CH  [Apache] 	Attempting to stop Apache (PID: 15884)
+3:10:54 CH  [Apache] 	Status change detected: stopped
+3:10:54 CH  [Apache] 	Attempting to start Apache app...
+3:10:54 CH  [Apache] 	Status change detected: running
+3:11:49 CH  [Apache] 	Attempting to stop Apache (PID: 14836)
+3:11:49 CH  [Apache] 	Attempting to stop Apache (PID: 8016)
+3:11:50 CH  [Apache] 	Status change detected: stopped
+3:11:50 CH  [Apache] 	Attempting to start Apache app...
+3:11:50 CH  [Apache] 	Status change detected: running
+3:12:41 CH  [Apache] 	Attempting to stop Apache (PID: 16132)
+3:12:41 CH  [Apache] 	Attempting to stop Apache (PID: 10604)
+3:12:41 CH  [Apache] 	Status change detected: stopped
+3:12:42 CH  [Apache] 	Attempting to start Apache app...
+3:12:42 CH  [Apache] 	Status change detected: running
+3:13:46 CH  [Apache] 	Attempting to stop Apache (PID: 15580)
+3:13:46 CH  [Apache] 	Attempting to stop Apache (PID: 15208)
+3:13:46 CH  [Apache] 	Status change detected: stopped
+3:13:47 CH  [Apache] 	Attempting to start Apache app...
+3:13:47 CH  [Apache] 	Status change detected: running
+3:14:26 CH  [Apache] 	Attempting to stop Apache (PID: 3964)
+3:14:26 CH  [Apache] 	Attempting to stop Apache (PID: 15620)
+3:14:27 CH  [Apache] 	Status change detected: stopped
+3:14:27 CH  [Apache] 	Attempting to start Apache app...
+3:14:27 CH  [Apache] 	Status change detected: running
+3:29:45 CH  [Apache] 	Attempting to stop Apache (PID: 13600)
+3:29:45 CH  [Apache] 	Attempting to stop Apache (PID: 7860)
+3:29:45 CH  [Apache] 	Status change detected: stopped
+3:29:46 CH  [Apache] 	Attempting to start Apache app...
+3:29:46 CH  [Apache] 	Status change detected: running
+4:05:41 CH  [Apache] 	Attempting to stop Apache (PID: 4748)
+4:05:41 CH  [Apache] 	Attempting to stop Apache (PID: 5080)
+4:05:42 CH  [Apache] 	Status change detected: stopped
+4:05:42 CH  [Apache] 	Attempting to start Apache app...
+4:05:42 CH  [Apache] 	Status change detected: running
+4:10:45 CH  [Apache] 	Attempting to stop Apache (PID: 15428)
+4:10:45 CH  [Apache] 	Attempting to stop Apache (PID: 3212)
+4:10:45 CH  [Apache] 	Status change detected: stopped
+4:10:45 CH  [Apache] 	Attempting to start Apache app...
+4:10:45 CH  [Apache] 	Status change detected: running
+4:24:02 CH  [Apache] 	Attempting to stop Apache (PID: 12944)
+4:24:02 CH  [Apache] 	Attempting to stop Apache (PID: 16304)
+4:24:02 CH  [Apache] 	Status change detected: stopped
+4:24:02 CH  [Apache] 	Attempting to start Apache app...
+4:24:02 CH  [Apache] 	Status change detected: running
+4:24:39 CH  [Apache] 	Attempting to stop Apache (PID: 16128)
+4:24:39 CH  [Apache] 	Attempting to stop Apache (PID: 8400)
+4:24:39 CH  [Apache] 	Status change detected: stopped
+4:24:40 CH  [Apache] 	Attempting to start Apache app...
+4:24:40 CH  [Apache] 	Status change detected: running
+4:25:48 CH  [Apache] 	Attempting to stop Apache (PID: 14992)
+4:25:48 CH  [Apache] 	Attempting to stop Apache (PID: 16172)
+4:25:48 CH  [Apache] 	Status change detected: stopped
+4:25:49 CH  [Apache] 	Attempting to start Apache app...
+4:25:49 CH  [Apache] 	Status change detected: running
+4:26:47 CH  [Apache] 	Attempting to stop Apache (PID: 14776)
+4:26:47 CH  [Apache] 	Attempting to stop Apache (PID: 5400)
+4:26:48 CH  [Apache] 	Status change detected: stopped
+4:26:48 CH  [Apache] 	Attempting to start Apache app...
+4:26:48 CH  [Apache] 	Status change detected: running
+4:28:14 CH  [Apache] 	Attempting to stop Apache (PID: 3556)
+4:28:14 CH  [Apache] 	Attempting to stop Apache (PID: 2848)
+4:28:14 CH  [Apache] 	Status change detected: stopped
+4:28:15 CH  [Apache] 	Attempting to start Apache app...
+4:28:15 CH  [Apache] 	Status change detected: running
+4:29:20 CH  [Apache] 	Attempting to stop Apache (PID: 5164)
+4:29:20 CH  [Apache] 	Attempting to stop Apache (PID: 15316)
+4:29:20 CH  [Apache] 	Status change detected: stopped
+4:29:20 CH  [Apache] 	Attempting to start Apache app...
+4:29:20 CH  [Apache] 	Status change detected: running
+4:30:57 CH  [Apache] 	Attempting to stop Apache (PID: 13944)
+4:30:57 CH  [Apache] 	Attempting to stop Apache (PID: 8380)
+4:30:57 CH  [Apache] 	Status change detected: stopped
+4:30:58 CH  [Apache] 	Attempting to start Apache app...
+4:30:58 CH  [Apache] 	Status change detected: running
+4:31:27 CH  [Apache] 	Attempting to stop Apache (PID: 7372)
+4:31:27 CH  [Apache] 	Attempting to stop Apache (PID: 14536)
+4:31:27 CH  [Apache] 	Status change detected: stopped
+4:31:28 CH  [Apache] 	Attempting to start Apache app...
+4:31:28 CH  [Apache] 	Status change detected: running
+4:31:51 CH  [Apache] 	Attempting to stop Apache (PID: 15848)
+4:31:51 CH  [Apache] 	Attempting to stop Apache (PID: 7880)
+4:31:52 CH  [Apache] 	Status change detected: stopped
+4:31:52 CH  [Apache] 	Attempting to start Apache app...
+4:31:52 CH  [Apache] 	Status change detected: running
+4:32:49 CH  [Apache] 	Attempting to stop Apache (PID: 10244)
+4:32:49 CH  [Apache] 	Attempting to stop Apache (PID: 10572)
+4:32:49 CH  [Apache] 	Status change detected: stopped
+4:32:50 CH  [Apache] 	Attempting to start Apache app...
+4:32:50 CH  [Apache] 	Status change detected: running
+4:33:10 CH  [Apache] 	Attempting to stop Apache (PID: 15916)
+4:33:10 CH  [Apache] 	Attempting to stop Apache (PID: 9016)
+4:33:10 CH  [Apache] 	Status change detected: stopped
+4:33:10 CH  [Apache] 	Attempting to start Apache app...
+4:33:11 CH  [Apache] 	Status change detected: running
+4:35:20 CH  [Apache] 	Attempting to stop Apache (PID: 15356)
+4:35:20 CH  [Apache] 	Attempting to stop Apache (PID: 14488)
+4:35:20 CH  [Apache] 	Status change detected: stopped
+4:35:20 CH  [Apache] 	Attempting to start Apache app...
+4:35:20 CH  [Apache] 	Status change detected: running
+4:35:49 CH  [Apache] 	Attempting to stop Apache (PID: 14516)
+4:35:49 CH  [Apache] 	Attempting to stop Apache (PID: 8100)
+4:35:49 CH  [Apache] 	Status change detected: stopped
+4:35:50 CH  [Apache] 	Attempting to start Apache app...
+4:35:50 CH  [Apache] 	Status change detected: running
+4:41:26 CH  [Apache] 	Attempting to stop Apache (PID: 11716)
+4:41:26 CH  [Apache] 	Attempting to stop Apache (PID: 13212)
+4:41:26 CH  [Apache] 	Status change detected: stopped
+4:41:27 CH  [Apache] 	Attempting to start Apache app...
+4:41:27 CH  [Apache] 	Status change detected: running
+4:41:42 CH  [Apache] 	Attempting to stop Apache (PID: 15452)
+4:41:42 CH  [Apache] 	Attempting to stop Apache (PID: 16348)
+4:41:42 CH  [Apache] 	Status change detected: stopped
+4:41:43 CH  [Apache] 	Attempting to start Apache app...
+4:41:43 CH  [Apache] 	Status change detected: running
+4:46:41 CH  [Apache] 	Attempting to stop Apache (PID: 10048)
+4:46:41 CH  [Apache] 	Attempting to stop Apache (PID: 15284)
+4:46:42 CH  [Apache] 	Status change detected: stopped
+4:46:42 CH  [Apache] 	Attempting to start Apache app...
+4:46:42 CH  [Apache] 	Status change detected: running
+4:47:26 CH  [Apache] 	Attempting to stop Apache (PID: 13260)
+4:47:26 CH  [Apache] 	Attempting to stop Apache (PID: 248)
+4:47:26 CH  [Apache] 	Status change detected: stopped
+4:47:27 CH  [Apache] 	Attempting to start Apache app...
+4:47:27 CH  [Apache] 	Status change detected: running
+4:47:33 CH  [Apache] 	Attempting to stop Apache (PID: 10400)
+4:47:33 CH  [Apache] 	Attempting to stop Apache (PID: 13284)
+4:47:33 CH  [Apache] 	Status change detected: stopped
+4:47:33 CH  [Apache] 	Attempting to start Apache app...
+4:47:34 CH  [Apache] 	Status change detected: running
+4:48:05 CH  [Apache] 	Attempting to stop Apache (PID: 14572)
+4:48:05 CH  [Apache] 	Attempting to stop Apache (PID: 2096)
+4:48:06 CH  [Apache] 	Status change detected: stopped
+4:48:06 CH  [Apache] 	Attempting to start Apache app...
+4:48:06 CH  [Apache] 	Status change detected: running
+4:49:41 CH  [Apache] 	Attempting to stop Apache (PID: 12464)
+4:49:41 CH  [Apache] 	Attempting to stop Apache (PID: 6824)
+4:49:42 CH  [Apache] 	Status change detected: stopped
+4:49:42 CH  [Apache] 	Attempting to start Apache app...
+4:49:42 CH  [Apache] 	Status change detected: running
+4:50:52 CH  [Apache] 	Attempting to stop Apache (PID: 16296)
+4:50:52 CH  [Apache] 	Attempting to stop Apache (PID: 14368)
+4:50:52 CH  [Apache] 	Status change detected: stopped
+4:50:53 CH  [Apache] 	Attempting to start Apache app...
+4:50:53 CH  [Apache] 	Status change detected: running
+4:51:28 CH  [Apache] 	Attempting to stop Apache (PID: 13124)
+4:51:28 CH  [Apache] 	Attempting to stop Apache (PID: 3556)
+4:51:28 CH  [Apache] 	Status change detected: stopped
+4:51:28 CH  [Apache] 	Attempting to start Apache app...
+4:51:28 CH  [Apache] 	Status change detected: running
+4:52:06 CH  [Apache] 	Attempting to stop Apache (PID: 12788)
+4:52:06 CH  [Apache] 	Attempting to stop Apache (PID: 11752)
+4:52:06 CH  [Apache] 	Status change detected: stopped
+4:52:06 CH  [Apache] 	Attempting to start Apache app...
+4:52:06 CH  [Apache] 	Status change detected: running
+4:53:47 CH  [Apache] 	Attempting to stop Apache (PID: 7492)
+4:53:47 CH  [Apache] 	Attempting to stop Apache (PID: 4568)
+4:53:48 CH  [Apache] 	Status change detected: stopped
+4:53:48 CH  [Apache] 	Attempting to start Apache app...
+4:53:48 CH  [Apache] 	Status change detected: running
+4:54:26 CH  [Apache] 	Attempting to stop Apache (PID: 7576)
+4:54:26 CH  [Apache] 	Attempting to stop Apache (PID: 13304)
+4:54:26 CH  [Apache] 	Status change detected: stopped
+4:54:26 CH  [Apache] 	Problem detected!
+4:54:26 CH  [Apache] 	Port 8080 in use by "Unable to get info" with PID 7576!
+4:54:26 CH  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:54:26 CH  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:54:26 CH  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:54:26 CH  [Apache] 	Problem detected!
+4:54:26 CH  [Apache] 	Port 443 in use by "Unable to get info" with PID 7576!
+4:54:26 CH  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:54:26 CH  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:54:26 CH  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:54:26 CH  [Apache] 	Attempting to start Apache app...
+4:54:26 CH  [Apache] 	Status change detected: running
+4:54:55 CH  [Apache] 	Attempting to stop Apache (PID: 10804)
+4:54:55 CH  [Apache] 	Attempting to stop Apache (PID: 8908)
+4:54:55 CH  [Apache] 	Status change detected: stopped
+4:54:56 CH  [Apache] 	Attempting to start Apache app...
+4:54:56 CH  [Apache] 	Status change detected: running
+5:09:48 CH  [Apache] 	Attempting to stop Apache (PID: 3224)
+5:09:48 CH  [Apache] 	Attempting to stop Apache (PID: 15196)
+5:09:48 CH  [Apache] 	Status change detected: stopped
+5:09:49 CH  [Apache] 	Attempting to start Apache app...
+5:09:49 CH  [Apache] 	Status change detected: running
+5:10:58 CH  [Apache] 	Attempting to stop Apache (PID: 2136)
+5:10:58 CH  [Apache] 	Attempting to stop Apache (PID: 16268)
+5:10:58 CH  [Apache] 	Status change detected: stopped
+5:10:59 CH  [Apache] 	Attempting to start Apache app...
+5:10:59 CH  [Apache] 	Status change detected: running
+5:13:19 CH  [Apache] 	Attempting to stop Apache (PID: 2536)
+5:13:19 CH  [Apache] 	Attempting to stop Apache (PID: 11620)
+5:13:19 CH  [Apache] 	Status change detected: stopped
+5:13:19 CH  [Apache] 	Attempting to start Apache app...
+5:13:19 CH  [Apache] 	Status change detected: running
+5:15:19 CH  [Apache] 	Attempting to stop Apache (PID: 14480)
+5:15:19 CH  [Apache] 	Attempting to stop Apache (PID: 15204)
+5:15:19 CH  [Apache] 	Status change detected: stopped
+5:15:19 CH  [Apache] 	Attempting to start Apache app...
+5:15:19 CH  [Apache] 	Status change detected: running
+5:15:44 CH  [Apache] 	Attempting to stop Apache (PID: 3708)
+5:15:44 CH  [Apache] 	Attempting to stop Apache (PID: 11792)
+5:15:44 CH  [Apache] 	Status change detected: stopped
+5:15:45 CH  [Apache] 	Attempting to start Apache app...
+5:15:45 CH  [Apache] 	Status change detected: running
+5:16:06 CH  [Apache] 	Attempting to stop Apache (PID: 13700)
+5:16:06 CH  [Apache] 	Attempting to stop Apache (PID: 15764)
+5:16:06 CH  [Apache] 	Status change detected: stopped
+5:16:06 CH  [Apache] 	Attempting to start Apache app...
+5:16:06 CH  [Apache] 	Status change detected: running
+5:16:48 CH  [Apache] 	Attempting to stop Apache (PID: 15268)
+5:16:48 CH  [Apache] 	Attempting to stop Apache (PID: 15412)
+5:16:49 CH  [Apache] 	Status change detected: stopped
+5:16:49 CH  [Apache] 	Attempting to start Apache app...
+5:16:49 CH  [Apache] 	Status change detected: running
+5:18:16 CH  [Apache] 	Attempting to stop Apache (PID: 14108)
+5:18:16 CH  [Apache] 	Attempting to stop Apache (PID: 9532)
+5:18:16 CH  [Apache] 	Status change detected: stopped
+5:18:17 CH  [Apache] 	Attempting to start Apache app...
+5:18:17 CH  [Apache] 	Status change detected: running
+5:20:11 CH  [Apache] 	Attempting to stop Apache (PID: 4164)
+5:20:11 CH  [Apache] 	Attempting to stop Apache (PID: 11288)
+5:20:11 CH  [Apache] 	Status change detected: stopped
+5:20:11 CH  [Apache] 	Attempting to start Apache app...
+5:20:11 CH  [Apache] 	Status change detected: running
+5:21:57 CH  [Apache] 	Attempting to stop Apache (PID: 11424)
+5:21:57 CH  [Apache] 	Attempting to stop Apache (PID: 5180)
+5:21:58 CH  [Apache] 	Status change detected: stopped
+5:21:58 CH  [Apache] 	Attempting to start Apache app...
+5:21:58 CH  [Apache] 	Status change detected: running
+5:22:45 CH  [Apache] 	Attempting to stop Apache (PID: 15596)
+5:22:45 CH  [Apache] 	Attempting to stop Apache (PID: 14824)
+5:22:45 CH  [Apache] 	Status change detected: stopped
+5:22:45 CH  [Apache] 	Attempting to start Apache app...
+5:22:46 CH  [Apache] 	Status change detected: running
+6:21:48 CH  [Apache] 	Attempting to stop Apache (PID: 12520)
+6:21:48 CH  [Apache] 	Attempting to stop Apache (PID: 8344)
+6:21:49 CH  [Apache] 	Status change detected: stopped
+6:21:49 CH  [Apache] 	Attempting to start Apache app...
+6:21:49 CH  [Apache] 	Status change detected: running
+6:22:26 CH  [Apache] 	Attempting to stop Apache (PID: 14480)
+6:22:26 CH  [Apache] 	Attempting to stop Apache (PID: 14408)
+6:22:27 CH  [Apache] 	Status change detected: stopped
+6:22:27 CH  [Apache] 	Attempting to start Apache app...
+6:22:27 CH  [Apache] 	Status change detected: running
+7:45:16 CH  [Apache] 	Attempting to stop Apache (PID: 1720)
+7:45:16 CH  [Apache] 	Attempting to stop Apache (PID: 11484)
+7:45:16 CH  [Apache] 	Status change detected: stopped
+7:45:17 CH  [Apache] 	Attempting to start Apache app...
+7:45:17 CH  [Apache] 	Status change detected: running
+11:36:09 CH  [Apache] 	Attempting to stop Apache (PID: 14376)
+11:36:09 CH  [Apache] 	Attempting to stop Apache (PID: 4748)
+11:36:09 CH  [Apache] 	Status change detected: stopped
+11:36:10 CH  [Apache] 	Attempting to start Apache app...
+11:36:10 CH  [Apache] 	Status change detected: running
+11:37:18 CH  [Apache] 	Attempting to stop Apache (PID: 9152)
+11:37:18 CH  [Apache] 	Attempting to stop Apache (PID: 3856)
+11:37:18 CH  [Apache] 	Status change detected: stopped
+11:37:18 CH  [Apache] 	Attempting to start Apache app...
+11:37:19 CH  [Apache] 	Status change detected: running
+11:38:18 CH  [Apache] 	Attempting to stop Apache (PID: 3464)
+11:38:19 CH  [Apache] 	Attempting to stop Apache (PID: 11000)
+11:38:19 CH  [Apache] 	Status change detected: stopped
+11:38:19 CH  [Apache] 	Attempting to start Apache app...
+11:38:19 CH  [Apache] 	Status change detected: running
+11:38:42 CH  [Apache] 	Attempting to stop Apache (PID: 512)
+11:38:42 CH  [Apache] 	Attempting to stop Apache (PID: 12608)
+11:38:42 CH  [Apache] 	Status change detected: stopped
+11:38:43 CH  [Apache] 	Attempting to start Apache app...
+11:38:43 CH  [Apache] 	Status change detected: running
+11:39:28 CH  [Apache] 	Attempting to stop Apache (PID: 8780)
+11:39:28 CH  [Apache] 	Attempting to stop Apache (PID: 11188)
+11:39:28 CH  [Apache] 	Status change detected: stopped
+11:39:29 CH  [Apache] 	Attempting to start Apache app...
+11:39:29 CH  [Apache] 	Status change detected: running
+11:40:52 CH  [Apache] 	Attempting to stop Apache (PID: 4360)
+11:40:52 CH  [Apache] 	Attempting to stop Apache (PID: 13684)
+11:40:52 CH  [Apache] 	Status change detected: stopped
+11:40:53 CH  [Apache] 	Attempting to start Apache app...
+11:40:53 CH  [Apache] 	Status change detected: running
+11:40:59 CH  [Apache] 	Attempting to stop Apache (PID: 4536)
+11:40:59 CH  [Apache] 	Attempting to stop Apache (PID: 13532)
+11:40:59 CH  [Apache] 	Status change detected: stopped
+11:40:59 CH  [Apache] 	Attempting to start Apache app...
+11:41:00 CH  [Apache] 	Status change detected: running
+11:42:27 CH  [Apache] 	Attempting to stop Apache (PID: 14900)
+11:42:27 CH  [Apache] 	Attempting to stop Apache (PID: 3732)
+11:42:27 CH  [Apache] 	Status change detected: stopped
+11:42:27 CH  [Apache] 	Attempting to start Apache app...
+11:42:27 CH  [Apache] 	Status change detected: running
+11:42:59 CH  [Apache] 	Attempting to stop Apache (PID: 2944)
+11:42:59 CH  [Apache] 	Attempting to stop Apache (PID: 3604)
+11:42:59 CH  [Apache] 	Status change detected: stopped
+11:42:59 CH  [Apache] 	Attempting to start Apache app...
+11:42:59 CH  [Apache] 	Status change detected: running
+11:43:40 CH  [Apache] 	Attempting to stop Apache (PID: 11336)
+11:43:40 CH  [Apache] 	Attempting to stop Apache (PID: 14840)
+11:43:40 CH  [Apache] 	Status change detected: stopped
+11:43:41 CH  [Apache] 	Attempting to start Apache app...
+11:43:41 CH  [Apache] 	Status change detected: running
+11:52:00 CH  [Apache] 	Attempting to stop Apache (PID: 13932)
+11:52:00 CH  [Apache] 	Attempting to stop Apache (PID: 512)
+11:52:00 CH  [Apache] 	Status change detected: stopped
+11:52:00 CH  [Apache] 	Attempting to start Apache app...
+11:52:01 CH  [Apache] 	Status change detected: running
+11:52:57 CH  [Apache] 	Attempting to stop Apache (PID: 14732)
+11:52:57 CH  [Apache] 	Attempting to stop Apache (PID: 12220)
+11:52:58 CH  [Apache] 	Status change detected: stopped
+11:52:58 CH  [Apache] 	Attempting to start Apache app...
+11:52:58 CH  [Apache] 	Status change detected: running
+11:54:13 CH  [Apache] 	Attempting to stop Apache (PID: 10324)
+11:54:13 CH  [Apache] 	Attempting to stop Apache (PID: 11456)
+11:54:13 CH  [Apache] 	Status change detected: stopped
+11:54:13 CH  [Apache] 	Attempting to start Apache app...
+11:54:14 CH  [Apache] 	Status change detected: running
+11:55:57 CH  [Apache] 	Attempting to stop Apache (PID: 14328)
+11:55:57 CH  [Apache] 	Attempting to stop Apache (PID: 360)
+11:55:57 CH  [Apache] 	Status change detected: stopped
+11:55:58 CH  [Apache] 	Attempting to start Apache app...
+11:55:58 CH  [Apache] 	Status change detected: running
+11:57:32 CH  [Apache] 	Attempting to stop Apache (PID: 15460)
+11:57:32 CH  [Apache] 	Attempting to stop Apache (PID: 816)
+11:57:33 CH  [Apache] 	Status change detected: stopped
+11:57:33 CH  [Apache] 	Attempting to start Apache app...
+11:57:33 CH  [Apache] 	Status change detected: running
+11:57:41 CH  [Apache] 	Attempting to stop Apache (PID: 880)
+11:57:41 CH  [Apache] 	Attempting to stop Apache (PID: 6256)
+11:57:41 CH  [Apache] 	Status change detected: stopped
+11:57:41 CH  [Apache] 	Attempting to start Apache app...
+11:57:41 CH  [Apache] 	Status change detected: running
+11:58:22 CH  [Apache] 	Attempting to stop Apache (PID: 10176)
+11:58:22 CH  [Apache] 	Attempting to stop Apache (PID: 14504)
+11:58:22 CH  [Apache] 	Status change detected: stopped
+11:58:22 CH  [Apache] 	Attempting to start Apache app...
+11:58:23 CH  [Apache] 	Status change detected: running
+12:00:21 SA  [Apache] 	Attempting to stop Apache (PID: 7236)
+12:00:21 SA  [Apache] 	Attempting to stop Apache (PID: 14048)
+12:00:21 SA  [Apache] 	Status change detected: stopped
+12:00:21 SA  [Apache] 	Attempting to start Apache app...
+12:00:22 SA  [Apache] 	Status change detected: running
+12:00:29 SA  [Apache] 	Attempting to stop Apache (PID: 16320)
+12:00:29 SA  [Apache] 	Attempting to stop Apache (PID: 16024)
+12:00:29 SA  [Apache] 	Status change detected: stopped
+12:00:30 SA  [Apache] 	Attempting to start Apache app...
+12:00:30 SA  [Apache] 	Status change detected: running
+12:11:34 SA  [Apache] 	Attempting to stop Apache (PID: 3084)
+12:11:34 SA  [Apache] 	Attempting to stop Apache (PID: 2716)
+12:11:35 SA  [Apache] 	Status change detected: stopped
+12:11:35 SA  [Apache] 	Attempting to start Apache app...
+12:11:35 SA  [Apache] 	Status change detected: running
+12:13:02 SA  [Apache] 	Attempting to stop Apache (PID: 9704)
+12:13:02 SA  [Apache] 	Attempting to stop Apache (PID: 13348)
+12:13:03 SA  [Apache] 	Status change detected: stopped
+12:13:03 SA  [Apache] 	Attempting to start Apache app...
+12:13:03 SA  [Apache] 	Status change detected: running
+12:13:55 SA  [Apache] 	Attempting to stop Apache (PID: 2272)
+12:13:55 SA  [Apache] 	Attempting to stop Apache (PID: 10564)
+12:13:55 SA  [Apache] 	Status change detected: stopped
+12:13:55 SA  [Apache] 	Attempting to start Apache app...
+12:13:56 SA  [Apache] 	Status change detected: running
+12:15:38 SA  [Apache] 	Attempting to stop Apache (PID: 6728)
+12:15:38 SA  [Apache] 	Attempting to stop Apache (PID: 12804)
+12:15:38 SA  [Apache] 	Status change detected: stopped
+12:15:38 SA  [Apache] 	Attempting to start Apache app...
+12:15:39 SA  [Apache] 	Status change detected: running
+12:17:55 SA  [Apache] 	Attempting to stop Apache (PID: 6968)
+12:17:55 SA  [Apache] 	Attempting to stop Apache (PID: 12456)
+12:17:55 SA  [Apache] 	Status change detected: stopped
+12:17:55 SA  [Apache] 	Attempting to start Apache app...
+12:17:56 SA  [Apache] 	Status change detected: running
+12:18:01 SA  [Apache] 	Attempting to stop Apache (PID: 15688)
+12:18:01 SA  [Apache] 	Attempting to stop Apache (PID: 12984)
+12:18:01 SA  [Apache] 	Status change detected: stopped
+12:18:02 SA  [Apache] 	Attempting to start Apache app...
+12:18:02 SA  [Apache] 	Status change detected: running
+12:21:23 SA  [Apache] 	Attempting to stop Apache (PID: 7580)
+12:21:23 SA  [Apache] 	Attempting to stop Apache (PID: 11700)
+12:21:23 SA  [Apache] 	Status change detected: stopped
+12:21:23 SA  [Apache] 	Attempting to start Apache app...
+12:21:24 SA  [Apache] 	Status change detected: running
+12:21:57 SA  [Apache] 	Attempting to stop Apache (PID: 7012)
+12:21:57 SA  [Apache] 	Attempting to stop Apache (PID: 12396)
+12:21:57 SA  [Apache] 	Status change detected: stopped
+12:21:57 SA  [Apache] 	Attempting to start Apache app...
+12:21:58 SA  [Apache] 	Status change detected: running
+12:22:15 SA  [Apache] 	Attempting to stop Apache (PID: 14888)
+12:22:15 SA  [Apache] 	Attempting to stop Apache (PID: 13152)
+12:22:15 SA  [Apache] 	Status change detected: stopped
+12:22:16 SA  [Apache] 	Attempting to start Apache app...
+12:22:16 SA  [Apache] 	Status change detected: running
+12:22:35 SA  [Apache] 	Attempting to stop Apache (PID: 15908)
+12:22:35 SA  [Apache] 	Attempting to stop Apache (PID: 12508)
+12:22:35 SA  [Apache] 	Status change detected: stopped
+12:22:36 SA  [Apache] 	Attempting to start Apache app...
+12:22:36 SA  [Apache] 	Status change detected: running
+12:22:50 SA  [Apache] 	Attempting to stop Apache (PID: 14028)
+12:22:50 SA  [Apache] 	Attempting to stop Apache (PID: 11748)
+12:22:51 SA  [Apache] 	Status change detected: stopped
+12:22:51 SA  [Apache] 	Attempting to start Apache app...
+12:22:52 SA  [Apache] 	Status change detected: running
+12:23:04 SA  [Apache] 	Attempting to stop Apache (PID: 14572)
+12:23:04 SA  [Apache] 	Attempting to stop Apache (PID: 15780)
+12:23:04 SA  [Apache] 	Status change detected: stopped
+12:23:05 SA  [Apache] 	Attempting to start Apache app...
+12:23:05 SA  [Apache] 	Status change detected: running
+12:23:31 SA  [Apache] 	Attempting to stop Apache (PID: 1204)
+12:23:31 SA  [Apache] 	Attempting to stop Apache (PID: 11792)
+12:23:32 SA  [Apache] 	Status change detected: stopped
+12:23:32 SA  [Apache] 	Attempting to start Apache app...
+12:23:32 SA  [Apache] 	Status change detected: running
+12:26:41 SA  [Apache] 	Attempting to stop Apache (PID: 14548)
+12:26:41 SA  [Apache] 	Attempting to stop Apache (PID: 13904)
+12:26:41 SA  [Apache] 	Status change detected: stopped
+12:26:42 SA  [Apache] 	Attempting to start Apache app...
+12:26:42 SA  [Apache] 	Status change detected: running
+12:31:00 SA  [Apache] 	Attempting to stop Apache (PID: 16008)
+12:31:00 SA  [Apache] 	Attempting to stop Apache (PID: 10044)
+12:31:00 SA  [Apache] 	Status change detected: stopped
+12:31:00 SA  [Apache] 	Attempting to start Apache app...
+12:31:01 SA  [Apache] 	Status change detected: running
+12:34:32 SA  [Apache] 	Attempting to stop Apache (PID: 11000)
+12:34:32 SA  [Apache] 	Attempting to stop Apache (PID: 3156)
+12:34:32 SA  [Apache] 	Status change detected: stopped
+12:34:32 SA  [Apache] 	Attempting to start Apache app...
+12:34:32 SA  [Apache] 	Status change detected: running
+12:35:53 SA  [Apache] 	Attempting to stop Apache (PID: 14632)
+12:35:53 SA  [Apache] 	Attempting to stop Apache (PID: 14872)
+12:35:53 SA  [Apache] 	Status change detected: stopped
+12:35:54 SA  [Apache] 	Attempting to start Apache app...
+12:35:54 SA  [Apache] 	Status change detected: running
+12:36:14 SA  [Apache] 	Attempting to stop Apache (PID: 8772)
+12:36:14 SA  [Apache] 	Attempting to stop Apache (PID: 13472)
+12:36:14 SA  [Apache] 	Status change detected: stopped
+12:36:15 SA  [Apache] 	Attempting to start Apache app...
+12:36:15 SA  [Apache] 	Status change detected: running
+12:36:24 SA  [Apache] 	Attempting to stop Apache (PID: 15872)
+12:36:24 SA  [Apache] 	Attempting to stop Apache (PID: 14868)
+12:36:24 SA  [Apache] 	Status change detected: stopped
+12:36:25 SA  [Apache] 	Attempting to start Apache app...
+12:36:25 SA  [Apache] 	Status change detected: running
+12:36:51 SA  [Apache] 	Attempting to stop Apache (PID: 4164)
+12:36:51 SA  [Apache] 	Attempting to stop Apache (PID: 3872)
+12:36:51 SA  [Apache] 	Status change detected: stopped
+12:36:51 SA  [Apache] 	Attempting to start Apache app...
+12:36:52 SA  [Apache] 	Status change detected: running
+12:45:39 SA  [Apache] 	Attempting to stop Apache (PID: 5908)
+12:45:39 SA  [Apache] 	Attempting to stop Apache (PID: 12064)
+12:45:39 SA  [Apache] 	Status change detected: stopped
+12:45:40 SA  [Apache] 	Attempting to start Apache app...
+12:45:40 SA  [Apache] 	Status change detected: running
+12:54:47 SA  [Apache] 	Attempting to stop Apache (PID: 4632)
+12:54:47 SA  [Apache] 	Attempting to stop Apache (PID: 10464)
+12:54:47 SA  [Apache] 	Status change detected: stopped
+12:54:47 SA  [Apache] 	Attempting to start Apache app...
+12:54:47 SA  [Apache] 	Status change detected: running
+2:03:59 SA  [Apache] 	Attempting to stop Apache (PID: 2548)
+2:03:59 SA  [Apache] 	Attempting to stop Apache (PID: 12448)
+2:03:59 SA  [Apache] 	Status change detected: stopped
+2:04:00 SA  [Apache] 	Attempting to start Apache app...
+2:04:00 SA  [Apache] 	Status change detected: running
+2:15:50 SA  [Apache] 	Attempting to stop Apache (PID: 14200)
+2:15:50 SA  [Apache] 	Attempting to stop Apache (PID: 12604)
+2:15:50 SA  [Apache] 	Status change detected: stopped
+2:15:51 SA  [Apache] 	Attempting to start Apache app...
+2:15:51 SA  [Apache] 	Status change detected: running
+2:26:52 SA  [Apache] 	Attempting to stop Apache (PID: 14376)
+2:26:52 SA  [Apache] 	Attempting to stop Apache (PID: 1220)
+2:26:52 SA  [Apache] 	Status change detected: stopped
+2:26:53 SA  [Apache] 	Attempting to start Apache app...
+2:26:53 SA  [Apache] 	Status change detected: running
+2:32:49 SA  [Apache] 	Attempting to stop Apache (PID: 15452)
+2:32:49 SA  [Apache] 	Attempting to stop Apache (PID: 9504)
+2:32:49 SA  [Apache] 	Status change detected: stopped
+2:32:49 SA  [Apache] 	Attempting to start Apache app...
+2:32:49 SA  [Apache] 	Status change detected: running
+2:33:33 SA  [Apache] 	Attempting to stop Apache (PID: 14464)
+2:33:33 SA  [Apache] 	Attempting to stop Apache (PID: 9072)
+2:33:33 SA  [Apache] 	Status change detected: stopped
+2:33:33 SA  [Apache] 	Attempting to start Apache app...
+2:33:34 SA  [Apache] 	Status change detected: running
+2:34:04 SA  [Apache] 	Attempting to stop Apache (PID: 15488)
+2:34:04 SA  [Apache] 	Attempting to stop Apache (PID: 15204)
+2:34:05 SA  [Apache] 	Status change detected: stopped
+2:34:05 SA  [Apache] 	Attempting to start Apache app...
+2:34:05 SA  [Apache] 	Status change detected: running
+2:35:18 SA  [Apache] 	Attempting to stop Apache (PID: 10136)
+2:35:18 SA  [Apache] 	Attempting to stop Apache (PID: 16360)
+2:35:18 SA  [Apache] 	Status change detected: stopped
+2:35:19 SA  [Apache] 	Attempting to start Apache app...
+2:35:19 SA  [Apache] 	Status change detected: running
+2:35:44 SA  [Apache] 	Attempting to stop Apache (PID: 2272)
+2:35:44 SA  [Apache] 	Attempting to stop Apache (PID: 7580)
+2:35:44 SA  [Apache] 	Status change detected: stopped
+2:35:45 SA  [Apache] 	Attempting to start Apache app...
+2:35:45 SA  [Apache] 	Status change detected: running
+2:38:41 SA  [Apache] 	Attempting to stop Apache (PID: 4432)
+2:38:41 SA  [Apache] 	Attempting to stop Apache (PID: 3440)
+2:38:41 SA  [Apache] 	Status change detected: stopped
+2:38:42 SA  [Apache] 	Attempting to start Apache app...
+2:38:42 SA  [Apache] 	Status change detected: running
+2:39:18 SA  [Apache] 	Attempting to stop Apache (PID: 15764)
+2:39:18 SA  [Apache] 	Attempting to stop Apache (PID: 11432)
+2:39:19 SA  [Apache] 	Status change detected: stopped
+2:39:19 SA  [Apache] 	Attempting to start Apache app...
+2:39:19 SA  [Apache] 	Status change detected: running
+2:39:51 SA  [Apache] 	Attempting to stop Apache (PID: 14832)
+2:39:51 SA  [Apache] 	Attempting to stop Apache (PID: 15576)
+2:39:52 SA  [Apache] 	Status change detected: stopped
+2:39:52 SA  [Apache] 	Attempting to start Apache app...
+2:39:52 SA  [Apache] 	Status change detected: running
+2:45:59 SA  [Apache] 	Attempting to stop Apache (PID: 11352)
+2:45:59 SA  [Apache] 	Attempting to stop Apache (PID: 3596)
+2:46:00 SA  [Apache] 	Status change detected: stopped
+2:46:00 SA  [Apache] 	Attempting to start Apache app...
+2:46:00 SA  [Apache] 	Status change detected: running
+2:46:32 SA  [Apache] 	Attempting to stop Apache (PID: 15632)
+2:46:32 SA  [Apache] 	Attempting to stop Apache (PID: 7412)
+2:46:32 SA  [Apache] 	Status change detected: stopped
+2:46:32 SA  [Apache] 	Attempting to start Apache app...
+2:46:32 SA  [Apache] 	Status change detected: running
+2:47:38 SA  [Apache] 	Attempting to stop Apache (PID: 9504)
+2:47:38 SA  [Apache] 	Attempting to stop Apache (PID: 15076)
+2:47:38 SA  [Apache] 	Status change detected: stopped
+2:47:38 SA  [Apache] 	Attempting to start Apache app...
+2:47:39 SA  [Apache] 	Status change detected: running
+2:48:18 SA  [Apache] 	Attempting to stop Apache (PID: 16224)
+2:48:18 SA  [Apache] 	Attempting to stop Apache (PID: 16144)
+2:48:18 SA  [Apache] 	Status change detected: stopped
+2:48:18 SA  [Apache] 	Attempting to start Apache app...
+2:48:18 SA  [Apache] 	Status change detected: running
+2:50:51 SA  [Apache] 	Attempting to stop Apache (PID: 2820)
+2:50:51 SA  [Apache] 	Attempting to stop Apache (PID: 2112)
+2:50:51 SA  [Apache] 	Status change detected: stopped
+2:50:51 SA  [Apache] 	Attempting to start Apache app...
+2:50:51 SA  [Apache] 	Status change detected: running
+2:52:01 SA  [mysql] 	Attempting to stop MySQL app...
+2:52:01 SA  [mysql] 	Status change detected: stopped
+2:52:02 SA  [Apache] 	Attempting to stop Apache (PID: 6348)
+2:52:02 SA  [Apache] 	Attempting to stop Apache (PID: 12768)
+2:52:02 SA  [Apache] 	Status change detected: stopped
+2:52:02 SA  [mysql] 	Attempting to start MySQL app...
+2:52:03 SA  [mysql] 	Status change detected: running
+2:52:05 SA  [Apache] 	Attempting to start Apache app...
+2:52:05 SA  [Apache] 	Status change detected: running
+2:52:05 SA  [mysql] 	Status change detected: stopped
+2:52:05 SA  [mysql] 	Error: MySQL shutdown unexpectedly.
+2:52:05 SA  [mysql] 	This may be due to a blocked port, missing dependencies, 
+2:52:05 SA  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+2:52:05 SA  [mysql] 	Press the Logs button to view error logs and check
+2:52:05 SA  [mysql] 	the Windows Event Viewer for more clues
+2:52:05 SA  [mysql] 	If you need more help, copy and post this
+2:52:05 SA  [mysql] 	entire log window on the forums
+2:52:07 SA  [mysql] 	Attempting to start MySQL app...
+2:52:07 SA  [mysql] 	Status change detected: running
+2:52:09 SA  [mysql] 	Status change detected: stopped
+2:52:09 SA  [mysql] 	Error: MySQL shutdown unexpectedly.
+2:52:09 SA  [mysql] 	This may be due to a blocked port, missing dependencies, 
+2:52:10 SA  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+2:52:10 SA  [mysql] 	Press the Logs button to view error logs and check
+2:52:10 SA  [mysql] 	the Windows Event Viewer for more clues
+2:52:10 SA  [mysql] 	If you need more help, copy and post this
+2:52:10 SA  [mysql] 	entire log window on the forums
+2:52:36 SA  [mysql] 	Attempting to start MySQL app...
+2:52:36 SA  [mysql] 	Status change detected: running
+2:52:38 SA  [mysql] 	Status change detected: stopped
+2:52:38 SA  [mysql] 	Error: MySQL shutdown unexpectedly.
+2:52:38 SA  [mysql] 	This may be due to a blocked port, missing dependencies, 
+2:52:38 SA  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+2:52:38 SA  [mysql] 	Press the Logs button to view error logs and check
+2:52:38 SA  [mysql] 	the Windows Event Viewer for more clues
+2:52:38 SA  [mysql] 	If you need more help, copy and post this
+2:52:38 SA  [mysql] 	entire log window on the forums
+2:52:38 SA  [mysql] 	Attempting to start MySQL app...
+2:52:39 SA  [mysql] 	Status change detected: running
+2:52:41 SA  [mysql] 	Status change detected: stopped
+2:52:41 SA  [mysql] 	Error: MySQL shutdown unexpectedly.
+2:52:41 SA  [mysql] 	This may be due to a blocked port, missing dependencies, 
+2:52:41 SA  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+2:52:41 SA  [mysql] 	Press the Logs button to view error logs and check
+2:52:41 SA  [mysql] 	the Windows Event Viewer for more clues
+2:52:41 SA  [mysql] 	If you need more help, copy and post this
+2:52:41 SA  [mysql] 	entire log window on the forums
+2:52:42 SA  [mysql] 	Attempting to start MySQL app...
+2:52:42 SA  [mysql] 	Status change detected: running
+2:52:44 SA  [mysql] 	Status change detected: stopped
+2:52:44 SA  [mysql] 	Error: MySQL shutdown unexpectedly.
+2:52:44 SA  [mysql] 	This may be due to a blocked port, missing dependencies, 
+2:52:44 SA  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+2:52:44 SA  [mysql] 	Press the Logs button to view error logs and check
+2:52:44 SA  [mysql] 	the Windows Event Viewer for more clues
+2:52:44 SA  [mysql] 	If you need more help, copy and post this
+2:52:44 SA  [mysql] 	entire log window on the forums
+2:55:58 SA  [Apache] 	Attempting to stop Apache (PID: 16028)
+2:55:58 SA  [Apache] 	Attempting to stop Apache (PID: 3412)
+2:55:59 SA  [Apache] 	Status change detected: stopped
+2:56:37 SA  [Apache] 	Attempting to start Apache app...
+2:56:37 SA  [Apache] 	Status change detected: running
+2:56:38 SA  [mysql] 	Attempting to start MySQL app...
+2:56:38 SA  [mysql] 	Status change detected: running
+2:57:08 SA  [mysql] 	Attempting to stop MySQL app...
+2:57:08 SA  [mysql] 	Status change detected: stopped
+2:57:08 SA  [Apache] 	Attempting to stop Apache (PID: 11392)
+2:57:08 SA  [Apache] 	Attempting to stop Apache (PID: 11972)
+2:57:09 SA  [Apache] 	Status change detected: stopped
+3:00:23 SA  [main] 	Deinitializing Modules
+3:00:23 SA  [main] 	Deinitializing Control Panel
+
+3:05:38 SA  [main] 	Initializing Control Panel
+3:05:38 SA  [main] 	Windows Version:  Home  64-bit
+3:05:38 SA  [main] 	XAMPP Version: 7.4.9
+3:05:38 SA  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+3:05:38 SA  [main] 	Running with Administrator rights - good!
+3:05:38 SA  [main] 	XAMPP Installation Directory: "d:\xampp\"
+3:05:38 SA  [main] 	Checking for prerequisites
+3:05:39 SA  [main] 	All prerequisites found
+3:05:39 SA  [main] 	Initializing Modules
+3:05:39 SA  [mysql] 	XAMPP MySQL is already running on port 3306
+3:05:39 SA  [main] 	Starting Check-Timer
+3:05:39 SA  [main] 	Control Panel Ready
+3:05:49 SA  [mysql] 	Attempting to stop MySQL app...
+3:05:49 SA  [mysql] 	Status change detected: stopped
+3:05:50 SA  [Apache] 	Attempting to start Apache app...
+3:05:50 SA  [Apache] 	Status change detected: running
+3:05:51 SA  [mysql] 	Attempting to start MySQL app...
+3:05:51 SA  [mysql] 	Status change detected: running
+3:06:37 SA  [mysql] 	Attempting to stop MySQL app...
+3:06:37 SA  [mysql] 	Status change detected: stopped
+3:06:37 SA  [Apache] 	Attempting to stop Apache (PID: 9064)
+3:06:37 SA  [Apache] 	Attempting to stop Apache (PID: 9036)
+3:06:38 SA  [Apache] 	Status change detected: stopped
+3:07:31 SA  [main] 	Deinitializing Modules
+3:07:31 SA  [main] 	Deinitializing Control Panel
+
