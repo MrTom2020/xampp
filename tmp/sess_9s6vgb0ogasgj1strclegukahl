@@ -1,0 +1,65 @@
+ PMA_token |s:32:"4b797259234222535844562d7d232860"; HMAC_secret |s:16:"yb7.1:P}+%sS/7gp";browser_access_time|a:13:{s:7:"default";i:1606734598;s:36:"a7a6f2f3-4710-1b70-a6d9-c67d5a888fee";i:1606714043;s:36:"be48657a-19f2-8f5f-4a39-941030620185";i:1606713565;s:36:"6b008c3f-4c4c-414a-3b2f-6d3d4c18a16d";i:1606704853;s:36:"128a2b97-c5cd-0a47-9713-fbc02711d28d";i:1606712665;s:36:"4d3cd3d7-5864-610a-0661-eea98f080186";i:1606715374;s:36:"1ef11f47-3ec8-9dd8-f2f6-ac0417461ef1";i:1606716812;s:36:"aef04544-12e3-6ed3-bf88-b4ecee2a52c6";i:1606724452;s:36:"cbad2e53-1266-44bb-b2ce-951ad4c185e6";i:1606729201;s:36:"c7f780b0-be9e-a90b-40a7-3c16ab164ac0";i:1606727585;s:36:"144f4727-a806-98b2-d85e-76b2a2e48201";i:1606732376;s:36:"f66fc350-cd34-79de-3bd1-d050aa726ab1";i:1606732156;s:36:"b4db6bc0-5534-51da-4627-9413d19b2607";i:1606734638;}relation|a:1:{i:1;a:41:{s:11:"PMA_VERSION";s:5:"5.0.2";s:7:"relwork";b:0;s:11:"displaywork";b:0;s:12:"bookmarkwork";b:0;s:7:"pdfwork";b:0;s:8:"commwork";b:0;s:8:"mimework";b:0;s:11:"historywork";b:0;s:10:"recentwork";b:0;s:12:"favoritework";b:0;s:11:"uiprefswork";b:0;s:12:"trackingwork";b:0;s:14:"userconfigwork";b:0;s:9:"menuswork";b:0;s:7:"navwork";b:0;s:17:"savedsearcheswork";b:0;s:18:"centralcolumnswork";b:0;s:20:"designersettingswork";b:0;s:19:"exporttemplateswork";b:0;s:8:"allworks";b:0;s:4:"user";s:4:"root";s:2:"db";s:10:"phpmyadmin";s:8:"bookmark";s:13:"pma__bookmark";s:15:"central_columns";s:20:"pma__central_columns";s:11:"column_info";s:16:"pma__column_info";s:17:"designer_settings";s:22:"pma__designer_settings";s:16:"export_templates";s:21:"pma__export_templates";s:8:"favorite";s:13:"pma__favorite";s:7:"history";s:12:"pma__history";s:16:"navigationhiding";s:21:"pma__navigationhiding";s:9:"pdf_pages";s:14:"pma__pdf_pages";s:6:"recent";s:11:"pma__recent";s:8:"relation";s:13:"pma__relation";s:13:"savedsearches";s:18:"pma__savedsearches";s:12:"table_coords";s:17:"pma__table_coords";s:10:"table_info";s:15:"pma__table_info";s:13:"table_uiprefs";s:18:"pma__table_uiprefs";s:8:"tracking";s:13:"pma__tracking";s:10:"userconfig";s:15:"pma__userconfig";s:10:"usergroups";s:15:"pma__usergroups";s:5:"users";s:10:"pma__users";}}userconfig|a:2:{s:2:"db";a:2:{s:4:"lang";s:2:"vi";s:12:"Console/Mode";s:8:"collapse";}s:2:"ts";i:1606734587;}two_factor_check|b:1;cache|a:3:{s:8:"server_1";a:4:{s:15:"userprefs_mtime";i:1606734587;s:14:"userprefs_type";s:7:"session";s:12:"config_mtime";i:1584764260;s:9:"userprefs";a:2:{s:4:"lang";s:2:"vi";s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}}}s:13:"server_1_root";a:19:{s:14:"mysql_cur_user";s:14:"root@localhost";s:12:"is_grantuser";b:1;s:13:"is_createuser";b:1;s:12:"is_superuser";b:1;s:17:"is_create_db_priv";b:1;s:14:"is_reload_priv";b:1;s:12:"db_to_create";s:0:"";s:30:"dbs_where_create_table_allowed";a:1:{i:0;s:1:"*";}s:11:"dbs_to_test";b:0;s:9:"proc_priv";b:1;s:10:"table_priv";b:1;s:8:"col_priv";b:1;s:7:"db_priv";b:1;s:11:"binary_logs";a:0:{}s:18:"menu-levels-server";a:13:{s:9:"databases";s:20:"Cơ sở dữ liệu";s:3:"sql";s:3:"SQL";s:6:"status";s:13:"Tình trạng";s:6:"rights";s:14:"Người dùng";s:6:"export";s:6:"Xuất";s:6:"import";s:6:"Nhập";s:8:"settings";s:11:"Cài đặt";s:6:"binlog";s:22:"Nhật ký nhị phân";s:11:"replication";s:9:"Bản sao";s:4:"vars";s:6:"Biến";s:7:"charset";s:10:"Bảng mã";s:7:"plugins";s:16:"Phần bổ sung";s:6:"engine";s:9:"Bộ máy";}s:14:"menu-levels-db";a:14:{s:9:"structure";s:11:"Cấu trúc";s:3:"sql";s:3:"SQL";s:6:"search";s:11:"Tìm kiếm";s:5:"query";s:10:"Truy vấn";s:6:"export";s:6:"Xuất";s:6:"import";s:6:"Nhập";s:9:"operation";s:9:"Thao tác";s:10:"privileges";s:14:"Đặc quyền";s:8:"routines";s:11:"Thủ tục";s:6:"events";s:11:"Sự kiện";s:8:"triggers";s:5:"Bẫy";s:8:"tracking";s:9:"Theo dõi";s:8:"designer";s:17:"Bộ thiết kế";s:15:"central_columns";s:21:"Các cột trung tâm";}s:19:"profiling_supported";b:1;s:17:"menu-levels-table";a:11:{s:6:"browse";s:7:"Duyệt";s:9:"structure";s:11:"Cấu trúc";s:3:"sql";s:3:"SQL";s:6:"search";s:11:"Tìm kiếm";s:6:"insert";s:5:"Chèn";s:6:"export";s:6:"Xuất";s:6:"import";s:6:"Nhập";s:10:"privileges";s:14:"Đặc quyền";s:9:"operation";s:9:"Thao tác";s:8:"tracking";s:9:"Theo dõi";s:8:"triggers";s:5:"Bẫy";}s:24:"disabled_storage_engines";b:0;}s:13:"version_check";a:2:{s:8:"response";s:419:"{
+    "date": "2020-10-15", 
+    "version": "5.0.4", 
+    "releases": [
+        {
+            "date": "2020-10-15", 
+            "php_versions": ">=5.5,<8.0", 
+            "version": "4.9.7", 
+            "mysql_versions": ">=5.5"
+        }, 
+        {
+            "date": "2020-10-15", 
+            "php_versions": ">=7.1,<8.0", 
+            "version": "5.0.4", 
+            "mysql_versions": ">=5.5"
+        }
+    ]
+}";s:9:"timestamp";i:1606702604;}}git_location|N;is_git_revision|b:0;tmpval|a:16:{s:14:"favoriteTables";a:1:{i:1;a:0:{}}s:12:"recentTables";a:1:{i:1;a:4:{i:0;a:2:{s:2:"db";s:4:"QLCT";s:5:"table";s:12:"danhsachnhac";}i:1;a:2:{s:2:"db";s:4:"QLCT";s:5:"table";s:11:"cashbalance";}i:2;a:2:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";}i:3;a:2:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"thungrac";}}}s:18:"table_limit_offset";i:0;s:21:"table_limit_offset_db";s:4:"QLCT";s:13:"table_uiprefs";a:1:{i:1;a:1:{s:4:"QLCT";a:4:{s:8:"dangnhap";a:0:{}s:11:"cashbalance";a:0:{}s:8:"thungrac";a:0:{}s:12:"danhsachnhac";a:0:{}}}}s:5:"query";a:10:{s:32:"6d407a0d479226086234df533b078dcb";a:8:{s:3:"sql";s:13:"SET @i = True";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"c05e58d538708ba34aba6165c7d1f58c";a:8:{s:3:"sql";s:117:"SELECT CASE WHEN COUNT(dangnhap.id) <= 0 THEN True as @i
+ELSE False AS @i
+END
+FROM dangnhap
+WHERE dangnhap.id = 1";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"eead374e093200b82bc9b036479ff751";a:8:{s:3:"sql";s:106:"SELECT CASE WHEN COUNT(dangnhap.id) <= 0 THEN True
+ELSE False 
+END
+FROM dangnhap
+WHERE dangnhap.id = 1";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"ecd0999c49bac322697ffbd05acd9a74";a:8:{s:3:"sql";s:85:"SELECT CASE WHEN SUM(dangnhap.id) > 100 THEN 'true'
+ELSE 'false'
+END
+FROM dangnhap";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"9970cd81443d61fc9f66aa39f131032f";a:8:{s:3:"sql";s:95:"SELECT CASE WHEN SUM(dangnhap.id) > 100 THEN 'true'
+ELSE 'false'as 'HIHIH'
+END
+FROM dangnhap";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"2991121e38862759a0d4d7d3c16a42a7";a:8:{s:3:"sql";s:96:"SELECT CASE WHEN SUM(dangnhap.id) > 100 as 'ssss ' THEN 'true'
+ELSE 'false'
+END
+FROM dangnhap";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"b31e058c0e8eeb40927a3f56a4140cec";a:8:{s:3:"sql";s:86:"SELECT CASE WHEN SUM(dangnhap.id) > 100  THEN 'true'
+ELSE 'false'
+END
+FROM dangnhap";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"1033ac2780d1c236809d358001918081";a:8:{s:3:"sql";s:24:"SELECT * FROM `dangnhap`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"8023be015a4c47c53cf7c9825b2f0c7a";a:8:{s:3:"sql";s:27:"SELECT * FROM `cashbalance`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"33228e00ffb7bdec0e244295354a50c6";a:8:{s:3:"sql";s:28:"SELECT * FROM `danhsachnhac`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}}s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;s:12:"display_blob";b:0;s:19:"hide_transformation";b:0;s:3:"pos";s:1:"0";s:8:"max_rows";i:25;s:12:"repeat_cells";i:100;s:20:"possible_as_geometry";b:1;}ConfigFile1|a:2:{s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}s:7:"Servers";a:1:{i:1;a:2:{s:7:"only_db";s:0:"";s:7:"hide_db";s:0:"";}}}debug|a:0:{}is_multi_query|b:0;sql_history|a:25:{i:0;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:94:"SELECT 
+CASE WHEN COUNT(dangnhap.id) > 10 THEN @i = True
+ELSE @i = False
+END
+FROM dangnhap";}i:1;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:94:"SELECT 
+CASE WHEN COUNT(dangnhap.id) > 10 THEN @i = True
+ELSE @i = False
+END
+FROM dangnhap";}i:2;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:94:"SELECT 
+CASE WHEN COUNT(dangnhap.id) < 10 THEN @i = True
+ELSE @i = False
+END
+FROM dangnhap";}i:3;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:9:"SELECT @i";}i:4;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:9:"SELECT @i";}i:5;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:9:"SELECT @i";}i:6;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:9:"SELECT @i";}i:7;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:9:"SELECT @i";}i:8;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:9:"SELECT @i";}i:9;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"thungrac";s:8:"sqlquery";s:24:"SELECT * FROM `thungrac`";}i:10;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:11:"cashbalance";s:8:"sqlquery";s:27:"SELECT * FROM `cashbalance`";}i:11;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:40:"SELECT COUNT(dangnhap.id)
+FROM dangnhap";}i:12;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:38:"SELECT SUM(dangnhap.id)
+FROM dangnhap";}i:13;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:83:"SELECT CASE WHEN SUM(dangnhap.id) > 100 THEN 'ahihi'
+ELSE 'hh'
+END
+FROM dangnhap";}i:14;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:9:"SELECT @i";}i:15;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:106:"SELECT CASE WHEN COUNT(dangnhap.id) <= 0 THEN True
+ELSE False 
+END
+FROM dangnhap
+WHERE dangnhap.id = 1";}i:16;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:85:"SELECT CASE WHEN SUM(dangnhap.id) > 100 THEN 'true'
+ELSE 'false'
+END
+FROM dangnhap";}i:17;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:86:"SELECT CASE WHEN SUM(dangnhap.id) > 100  THEN 'true'
+ELSE 'false'
+END
+FROM dangnhap";}i:18;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:11:"cashbalance";s:8:"sqlquery";s:27:"SELECT * FROM `cashbalance`";}i:19;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:24:"SELECT * FROM `dangnhap`";}i:20;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:11:"cashbalance";s:8:"sqlquery";s:27:"SELECT * FROM `cashbalance`";}i:21;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:24:"SELECT * FROM `dangnhap`";}i:22;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:8:"dangnhap";s:8:"sqlquery";s:24:"SELECT * FROM `dangnhap`";}i:23;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:11:"cashbalance";s:8:"sqlquery";s:27:"SELECT * FROM `cashbalance`";}i:24;a:3:{s:2:"db";s:4:"QLCT";s:5:"table";s:12:"danhsachnhac";s:8:"sqlquery";s:28:"SELECT * FROM `danhsachnhac`";}}Import_message|a:2:{s:7:"message";N;s:11:"go_back_url";s:38:"tbl_sql.php?db=QLCT&amp;table=dangnhap";}errors|a:0:{}
